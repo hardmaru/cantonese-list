@@ -1,0 +1,4000 @@
+1　的　DIK1　possessive, adjectival suffix
+2　一　YAT1　number one
+3　是　SI6　indeed, yes, right; to be; demonstrative pronoun, this, that
+4　不　BAT1　no, not; un-; negative prefix
+5　人　YAN4　man; people; mankind; someone else
+6　有　YAU5　have, own, possess; exist
+7　在　JOI6　be at, in, on; consist in, rest
+8　了　LIU5　to finish; particle of completed action
+9　我　NGO5　our, us, i, me, my, we
+10　中　JUNG1 JUNG3　central; center, middle; in the midst of; hit (target); attain
+11　大　DAAI6　big, great, vast, large, high
+12　個　GO3　numerary adjunct, piece; single
+13　這　JE5　this, the, here
+14　會　WUI2 WUI3 WUI6　assemble, meet together; meeting
+15　他　TA1　other, another; he, she, it
+16　為　WAI4 WAI6　do, handle, govern, act; be
+17　上　SEUNG5 SEUNG6　top; superior, highest; go up, send up
+18　來　LOI4　come, coming; return, returning
+19　以　YI5　by means of; thereby, therefore; consider as; in order to
+20　時　SI4　time, season; era, age, period
+21　國　GWOK3　nation, country, nation-state
+22　可　HO2　may, can, -able; possibly
+23　要　YIU1 YIU3　necessary, essential; necessity
+24　出　CHEUT1　go out, send out; stand; produce
+25　到　DOU3　go to, arrive, been to
+26　也　YA5　also; classical final particle of strong affirmation or identity
+27　之　JI1　's (marks preceding phrase as modifier of following phrase); it, him her, them; go to
+28　年　NIN4　year; new-years; person's age
+29　得　DAK1　obtain, get, gain, acquire
+30　而　YI4　and; and then; and yet; but
+31　們　MUN4　adjunct pronoun indicate plural
+32　過　GWO3　pass, pass through, go across
+33　地　DEI6　earth; soil, ground; region
+34　說　SYUT3　speak, say, talk; scold, upbraid
+35　多　DO1　much, many; more than, over
+36　對　DEUI3　correct, right; facing, opposed
+37　自　JI6　self, private, personal; from
+38　和　WO4　harmony, peace; peaceful, calm
+39　作　JOK3　make; work; compose, write; act, perform
+40　生　SAANG1 SANG1　life, living, lifetime; birth
+41　十　SAP6　ten, tenth; complete; perfect
+42　下　HA6　under, underneath, below; down; inferior; bring down
+43　然　YIN4　yes, certainly; pledge, promise
+44　能　NANG4　be able, can, permitted, ability
+45　後　HAU6　behind, rear, after; descendents
+46　就　JAU6　just; come/go to, approach, near
+47　那　NA5　that, that one, those
+48　方　FONG1　square; rectangle; region, local
+49　家　GA1　house, home, residence; family
+50　政　JING3　government, political affairs
+51　於　YU1　in, at, on; interjection alas!
+52　港　GONG2　port, harbor; small stream; bay
+53　著　JEUK6 JYU6　manifest
+54　子　JI2　offspring, child; fruit, seed of
+55　都　DOU1　metropolis, capital; all, the whole; elegant, refined
+56　成　SING4　completed, finished, fixed
+57　事　SI6　affair, matter, business; to serve; accident, incident
+58　如　YU4　if, supposing; as if; like, as
+59　但　DAAN6　only; but, however, yet, still
+60　去　HEUI3　go away, leave, depart
+61　心　SAM1　heart; mind, intelligence; soul
+62　好　HOU2　good, excellent, fine; well
+63　民　MAN4　people, subjects, citizens
+64　行　HAANG4 HANG4 HONG4　go; walk; move, travel;circulate
+65　用　YUNG6　use, employ, apply, operate; use
+66　天　TIN1　sky, heaven; god, celestial
+67　本　BUN2　root, origin, source; basis
+68　經　GING1　classic works; pass through
+69　所　SO2　place, location;numerary adjunct
+70　無　MOU4　negative, no, not; lack, have no
+71　學　HOK6　learning, knowledge; school
+72　分　FAN1 FAN6　divide; small unit of time etc.
+73　外　NGOI6 OI6　out, outside, external; foreign
+74　小　SIU2　small, tiny, insignificant
+75　發　FAAT3　issue, dispatch, send out, emit
+76　面　MIN6　face; surface; plane; side, dime
+77　當　DONG1　bear, accept, undertake; just
+78　其　KEI4　his, her, its, their; that
+79　意　YI3　thought, idea, opinion; think
+80　只　JI2　only, just, simply
+81　日　YAT6　sun; day; daytime
+82　情　CHING4　feeling, sentiment, emotion
+83　前　CHIN4　in front, forward; preceding
+84　麼　MO1　interrogative final particle
+85　沒　MUT6　not, have not, none; drown, sink
+86　現　YIN6　appear, manifest, become visible
+87　因　YAN1　cause, reason; by; because (of)
+88　看　HON3　look, see; examine, scrutinize
+89　同　TUNG4　same, similar; together with
+90　三　SAAM1　three
+91　法　FAAT3　law, rules, regulations, statute
+92　你　NEI5　you, second person pronoun
+93　主　JYU2　master, chief owner; host; lord
+94　與　YU5　and; with; to; for; give, grant
+95　工　GUNG1　labor, work; worker, laborer
+96　已　YI5　already; finished; stop
+97　開　HOI1　open; initiate, begin, start
+98　者　JE2　that which; he who; those who
+99　及　KAP6　extend; reach; come up to; and
+100　些　SE1　little, few; rather, somewhat
+101　最　JEUI3　most, extremely, exceedingly
+102　定　DING6　decide, settle, fix
+103　理　LEI5　reason, logic; manage
+104　又　YAU6　and, also, again, in addition
+105　實　SAT6　real, true, solid, honest
+106　二　YI6　two; twice
+107　公　GUNG1　fair, equitable; public; duke
+108　她　TA1　she, her
+109　起　HEI2　rise, stand up; go up; begin
+110　想　SEUNG2　think, speculate, plan, consider
+111　還　WAAN4　still, yet, also, besides
+112　此　CHI2　this, these; in this case, then
+113　女　NEUI5　woman, girl; feminine; rad. 38
+114　力　LIK6　power, capability, influence
+115　間　GAAN1　interval, space; place, between
+116　道　DOU6　path, road, street; method, way
+117　香　HEUNG1　fragrant, sweet smelling,incense
+118　由　YAU4　cause, reason; from
+119　樣　YEUNG6　shape, form, pattern, style
+120　問　MAN6　ask (about), inquire after
+121　動　DUNG6　move, happen; movement, action
+122　種　JUNG2　seed; race; offspring; to plant
+123　兩　LEUNG5　two, both, pair, couple; ounce
+124　九　GAU2　nine
+125　很　HAN2　very, quite, much
+126　表　BIU2　show, express, manifest, display
+127　高　GOU1　high, tall; lofty, elevated
+128　點　DIM2　dot, speck, spot; point, degree
+129　長　CHEUNG4 JEUNG2　long; length; excel in; leader
+130　加　GA1　add to, increase, augment
+131　美　MEI5　beautiful, pretty; pleasing
+132　知　JI1 JI3　know, perceive, comprehend
+133　從　CHUNG4　from, by, since, whence, through
+134　應　YING1　should, ought to, must
+135　新　SAN1　new, recent, fresh, modern
+136　性　SING3　nature, character, sex
+137　便　BIN6 PIN4　convenience, ease; expedient
+138　或　WAAK6　or, either, else; perhaps, maybe
+139　明　MING4　bright, light, brilliant; clear
+140　見　GIN3　see, observe, behold; percieve
+141　五　NG5　five; surname
+142　文　MAN4　literature, culture, writing
+143　至　JI3　reach, arrive; extremely, very
+144　頭　TAU4　head; top; chief, first; boss
+145　度　DOU6　degree, system; manner; consider
+146　重　CHUNG5 JUNG6　heavy, weighty; double
+147　水　SEUI2　water, liquid, lot5on, juice
+148　場　CHEUNG4　open space, field, market
+149　己　GEI2　self, oneself; personal, private
+150　機　GEI1　machine; moment, chance
+151　內　NOI6　inside, interior; domestic
+152　手　SAU2　hand
+153　市　SI5　market, fair; city, town; trade
+154　員　YUN4　member; personnel, staff member
+155　更　GANG3　more, still further, much more
+156　將　JEUNG1　will, going to, future; general
+157　四　SEI3　four
+158　正　JING3　right, proper, correct
+159　進　JEUN3　advance, make progress, enter
+160　全　CHYUN4　maintain, keep whole or intact
+161　相　SEUNG1　mutual, reciprocal, each other
+162　百　BAAK3　one hundred; numerous, many
+163　身　SAN1　body; trunk, hull; rad. no. 158
+164　代　DOI6　replace,replacement (of person or generation > ); era, generation
+165　關　GWAAN1　frontier pass; close; relation
+166　把　BA2　hold, take; guard; regard as
+167　次　CHI3　order, sequence; next
+168　合　HAP6　combine, unite, join; gather
+169　選　SYUN2　choose, select; elect; election
+170　受　SAU6　receive, accept, get;bear, stand
+171　回　WUI4　return, turn around; a time
+172　等　DANG2　rank, grade; wait; equal; "etc."
+173　少　SIU2 SIU3　few, less, inadeqate
+174　感　GAM2　feel, perceive, emotion
+175　部　BOU6　part, division, section
+176　再　JOI3　again, twice, re-
+177　並　BING6　equal to; side by side; also, what is more; both
+178　睿　YEUI6　shrewd, astute, clever, keen
+179　議　YI5 YI6　consult, talk over, discuss
+180　真　JAN1　real, actual, true, genuine
+181　向　HEUNG3　toward, direction, trend
+182　使　SAI2 SI2 SI3　cause, send on a mission, order; envoy, messenger, ambassador
+183　做　JOU6　work, make; act
+184　府　FU2　prefecture; prefect; government
+185　業　YIP6　profession, business, trade
+186　果　GWO2　fruit; result
+187　月　YUT6　moon; month; radical no. 74
+188　入　YAP6　enter, come in(to), join
+189　才　CHOI4　talent, ability; just, only
+190　位　WAI2　throne; position, post; rank, status; seat
+191　立　LAAP6　stand; let stand; establish, set
+192　物　MAT6　thing, substance, creature
+193　題　TAI4　forehead; title, headline; theme
+194　氣　HEI3　air, gas, steam, vapor; spirit
+195　甚　SAM6　great extent; considerably
+196　制　JAI3　system; establish; overpower
+197　老　LOU5　old, aged; experienced
+198　話　WA2 WA6　speech, talk, language; dialect
+199　風　FUNG1　wind; air; manners, atmosphere
+200　共　GUNG6　together with, all, total; share
+201　利　LEI6　gains, advantage, profit, merit
+202　反　FAAN2　reverse, opposite, contrary,anti
+203　被　BEI6　passive indicator "by"; bedding
+204　平　PING4　flat, level, even; peaceful
+205　名　MING4　name, rank, title, position
+206　目　MUK6　eye; look, see; division, topic
+207　則　JAK1　rule, law, regulation; grades
+208　變　BIN3　change, transform, alter; rebel
+209　每　MUI5　every, each
+210　樂　LOK6 NGOK6　happy, glad; enjoyable; music
+211　體　TAI2　body; group, class, body, unit
+212　別　BIT6　separate, other; do not
+213　數　SOU3　number; several; count; fate
+214　走　JAU2　walk, go on foot; run; leave
+215　七　CHAT1　seven
+216　何　HO4　what, why, where, which, how
+217　像　JEUNG6　picture, image, figure; resemble
+218　期　KEI4　period of time; date; time limit
+219　認　YING6　recognize, know, understand
+220　太　TAAI3　very, too, much; big; extreme
+221　任　YAM6　trust to, rely on, appoint; to bear, duty, office; allow
+222　八　BAAT3　eight; all around, all sides
+223　提　TAI4　hold in hand; lift in hand
+224　卻　KEUK3　still, but; decline; retreat
+225　常　SEUNG4　common, normal, frequent,regular
+226　化　FA3　change, convert, reform; -ize
+227　處　CHYU3　place, locale; department
+228　英　YING1　petal, flower, leaf; brave, hero
+229　信　SEUN3　trust, believe; letter
+230　通　TUNG1　pass through, common,communicate
+231　接　JIP3　receive; continue; catch;connect
+232　愛　NGOI3 OI3　love, be fond of, like
+233　難　NAAN4　difficult, arduous, hard; unable
+234　計　GAI3　plan, plot; strategem; scheme
+235　幾　GEI2　how many? how much? (a)few, some
+236　總　JUNG2　collect; overall, altogether
+237　書　SYU1　book, letter, document; writings
+238　千　CHIN1　thousand; many, numerous; very
+239　社　SE5　god of the soil and altars to him; group of families; company, society
+240　今　GAM1　now, today, modern era
+241　直　JIK6　straight, erect, vertical
+242　聲　SENG1 SING1　sound, voice, noise; tone; music
+243　教　GAAU3　teach, class
+244　資　JI1　property; wealth; capital
+245　亦　YIK6　also, too; likewise
+246　覺　GAAU3 GOK3　wake up from sleep; be conscious
+247　活　WUT6　live, exist, survive; lively
+248　光　GWONG1　light, brilliant, shine; only
+249　界　GAAI3　boundary, limit; domain; society
+250　論　LEUN6　debate; discuss; discourse
+251　比　BEI2　compare, liken; comparison; than
+252　局　GUK6　bureau, office; circumstance
+253　士　SI6　scholar, gentleman; soldier
+254　世　SAI3　generation; world; era
+255　兒　YI4　son, child, oneself; final part
+256　保　BOU2　protect, safeguard, defend, care
+257　六　LUK6　number six
+258　門　MUN4　gate, door, entrance, opening
+259　色　SIK1　color, tint, hue, shade; form, body; beauty, desire for beauty
+260　男　NAAM4　male, man; son; baron; surname
+261　產　CHAAN2　give birth, bring forth, produce
+262　品　BAN2　article, product, commodity
+263　車　CHE1　cart, vehicle; carry in cart
+264　望　MONG6　look at or forward; hope, expect
+265　持　CHI4　sustain, support; hold, grasp
+266　口　HAU2　mouth; open end; entrance, gate
+267　安　NGON1 ON1　peaceful, tranquil, quiet
+268　必　BIT1　surely, most certainly; must
+269　海　HOI2　sea, ocean; maritime
+270　電　DIN6　electricity, electric; lightning
+271　未　MEI6　not yet
+272　建　GIN3　build, establish, erect, found
+273　金　GAM1　gold; metals in general; money
+274　影　YING2　shadow; image, reflection; photo
+275　白　BAAK6　white; pure, unblemished; bright
+276　萬　MAAN6　ten thousand; innumerable
+277　原　YUN4　source, origin, beginning
+278　結　GIT3　knot, tie; join, connect
+279　改　GOI2　change, alter; improve, remodel
+280　治　JI6　govern, regulate, administer
+281　放　FONG3　put, release, free, liberate
+282　解　GAAI2　loosen, unfasten, untie; explain
+283　元　YUN4　first; dollar; origin; head
+284　眼　NGAAN5　eye; eyelet, hole, opening
+285　權　KYUN4　power, right, authority
+286　給　KAP1　give; by, for
+287　東　DUNG1　east, eastern, eastward
+288　較　GAAU3　compare; comparatively, more
+289　展　JIN2　open, unfold; stretch, extend
+290　決　KYUT3　decide, determine, judge
+291　特　DAK6　special, unique, distinguished
+292　非　FEI1　not, negative, non-; oppose
+293　各　GOK3　each, individually, every, all
+294　往　WONG5　go, depart; past, formerly
+295　取　CHEUI2　take, receive, obtain; select
+296　花　FA1　flower; blossoms
+297　近　GAN6　near, close; approach; intimate
+298　先　SIN1　first, former, previous
+299　收　SAU1　gather together, collect;harvest
+300　候　HAU6　wait; expect; visit; greet
+301　山　SAAN1　mountain, hill, peak
+302　即　JIK1　promptly, quickly, immediately
+303　許　HEUI2　allow, permit; promise; betroth
+304　區　KEUI1　area, district, region, ward
+305　報　BOU3　report, tell, announce
+306　量　LEUNG4 LEUNG6　measure, quantity, capacity
+307　基　GEI1　foundation, base
+308　打　DA2　strike, hit, beat; fight; attack
+309　聯　LYUN4　connect, join; associate, ally
+310　西　SAI1　west(ern); westward, occident
+311　該　GOI1　should, ought to, need to
+312　指　JI2　finger, toe; point, indicate
+313　統　TUNG2　govern, command, control; unite
+314　商　SEUNG1　commerce, business, trade
+315　第　DAI6　sequence, number; grade, degree
+316　言　YIN4　words, speech; speak, say
+317　友　YAU5　friend, companion; fraternity
+318　路　LOU6　road, path, street; journey
+319　求　KAU4　seek; demand, request; beseech
+320　流　LAU4　flow, circulate, drift; class
+321　令　LING6　command, order; "commandant", magistrate; allow, cause
+322　交　GAAU1　mix; intersect; exchange, communicate; deliver
+323　強　KEUNG4　strong, powerful, energetic
+324　形　YING4　form, shape, appearance
+325　清　CHING1　clear, pure, clean; peaceful
+326　台　TOI4　platform; unit; term of address
+327　式　SIK1　style, system, formula, rule
+328　仍　YING4　yet, still, as ever; again; keep ?ng, continuing
+329　張　JEUNG1　stretch, extend, expand; sheet
+330　邊　BIN1　edge, margin, side, border
+331　件　GIN6　numerary adjunct for article; matter
+332　務　MOU6　affairs, business; must, should
+333　份　FAN6　portion, part; duty
+334　深　SAM1　deep; depth; far; very, extreme
+335　濟　JAI3　help, aid, relieve; ferry, cross
+336　記　GEI3　record; keep in mind, remember
+337　容　YUNG4　looks, appearance; figure, form
+338　單　DAAN1　single, individual, only; lone
+339　示　SI6　show, manifest; demonstrate
+340　司　SI1　take charge of, control, manage; officer
+341　早　JOU2　early; soon; morning
+342　空　HUNG1　empty, hollow, bare, deserted
+343　線　SIN3　thread, line, wire; clue
+344　且　CHE2　moreover, also (post-subject); about to, will soon (pre-verb)
+345　失　SAT1　lose; make mistake, neglect
+346　程　CHING4　journey, trip; schedule, agenda
+347　音　YAM1　sound, tone, pitch,pronunciation
+348　服　FUK6　clothes; wear, dress
+349　吃　HEK3　eat; drink; suffer, endure, bear
+350　條　TIU4　clause, condition;string, stripe
+351　爭　JANG1　dispute, fight, contend, strive
+352　滿　MUN5　fill; full, satisfied
+353　觀　GUN1　see, observe, view; appearance
+354　什　SAM6 JAAP6　file of ten soldiers
+355　價　GA3　price, value
+356　運　WAN6　luck, fortune; ship, transport
+357　字　JI6　letter, character, word
+358　視　SI6　look at, inspect, observe, see
+359　帶　DAAI2 DAAI3　belt, girdle, band, strap, zone
+360　食　SIK6　eat; meal; food; radical no. 184
+361　曾　CHANG4 JANG1　already; sign of past
+362　達　DAAT6　arrive at, reach; intelligent
+363　支　JI1　disperse, pay; support; branch
+364　否　FAU2　not, no, negative;final particle
+365　它　TA1　it; other
+366　故　GU3　ancient, old; reason, because
+367　另　LING6　another, separate, other
+368　完　YUN4　complete, finish, settle; whole
+369　連　LIN4　join, connect; continuous; even
+370　傳　CHYUN4　summon; propagate, transmit
+371　黨　DONG2　political party, gang, faction
+372　演　YIN2　perform, put on; exercise
+373　管　GUN2　pipe, tube, duct; woodwind music
+374　若　YEUK6　if, supposing, assuming; similar
+375　半　BUN3　half
+376　神　SAN4　spirit, god, supernatural being
+377　雖　SEUI1　although, even if
+378　快　FAAI3　rapid, quick, speedy, fast; soon
+379　思　SI1　think, consider, ponder; final particle
+380　聽　TENG1 TING1　hear, listen; understand; obey
+381　遠　YUN5　distant, remote, far; profound
+382　委　WAI1 WAI2　appoint, send, commission
+383　寫　SE2　write; draw, sketch; compose
+384　房　FONG2 FONG4　house, building; room
+385　調　DIU6 TIU4　transfer, move, change; tune
+386　談　TAAM4　talk; conversation; surname
+387　義　YI6　right conduct, righteousness
+388　離　LEI4　leave, depart; go away; separate
+389　角　GOK3　horn; angle, corner; point; dime
+390　設　CHIT3　build; establish; display ; particle of hypothesis, supposing
+391　響　HEUNG2　make sound, make noise; sound
+392　住　JYU6　reside, live at, dwell, lodge; stop
+393　消　SIU1　vanish, die out; melt away
+394　案　NGON3 ON3　table, bench; legal case
+395　片　PIN3　slice, splinter, strip; rad. 91
+396　極　GIK6　extreme, utmost, furthest, final
+397　費　FAI3　expenses, expenditures, fee
+398　足　JUK1　foot; attain, satisfy, enough
+399　易　YIK6 YI6　change; easy
+400　類　LEUI6　class, group, kind, category
+401　馬　MA5　horse; surname; radical no. 187
+402　步　BOU6　step, pace; walk, stroll
+403　華　WA4　flowery; illustrious; chinese
+404　院　YUN2　courtyard, yard, court; school
+405　切　CHAI3 CHIT3　cut, mince, slice, carve
+406　笑　SIU3　smile, laugh, giggle; snicker
+407　造　JOU6　construct, build, begin; prepare
+408　算　SYUN3　count, calculate, figure; plan
+409　落　LOK6　fall, drop; net income, surplus
+410　錢　CHIN2 CHIN4　money, currency, coins
+411　歡　FUN1　happy, pleased, glad; joy; enjoy
+412　眾　JUNG3　masses, people, multitude, crowd
+413　需　SEUI1　need, require, must
+414　始　CHI2　begin, start; then, only then
+415　約　YEUK3　treaty, agreement, covenant
+416　買　MAAI5　buy, purchase; bribe, persuade
+417　怎　JAM2　what? why? how?
+418　喜　HEI2　like, love, enjoy; joyful thing
+419　格　GAAK3　pattern, standard, form; style
+420　派　PAAI3　school of thought, sect, branch
+421　克　HAK1　gram; overcome; transliteration
+422　整　JING2　orderly, neat, tidy; whole
+423　似　CHI5　resemble, similar to; as if, seem
+424　死　SEI2　die; dead; death
+425　命　MENG6 MING6　life; destiny, fate, luck; order
+426　親　CHAN1　relatives, parents; intimate
+427　照　JIU3　shine, illumine, reflect
+428　術　SEUT6　art, skill, special feat; method
+429　包　BAAU1　wrap, pack, bundle; package
+430　客　HAAK3　guest, traveller; customer
+431　例　LAI6　precedent, example; regulation
+432　投　TAU4　throw, cast, fling, pitch; jump
+433　組　JOU2　class; section, department
+434　呢　NE1　interrogative or emphatic final
+435　顯　HIN2　manifest, display; evident,clear
+436　劇　KEK6　theatrical plays, opera, drama
+437　際　JAI3　border, boundary, juncture
+438　低　DAI1　low; to lower, hang, bend, bow
+439　節　JIT3　knot, node, joint; section
+440　紅　HUNG4　red, vermillion; blush, flush
+441　告　GOU3　tell, announce, inform; accuse
+442　越　YUT6　exceed, go beyond; the more ...
+443　轉　JYUN2 JYUN3　shift, move, turn
+444　叫　GIU3　cry, shout; hail, greet, call
+445　廣　GWONG2　broad, wide, extensive
+446　況　FONG3　condition, situation;furthermore
+447　增　JANG1　increase, add to, augment
+448　股　GU2　thighs, haunches, rump; share
+449　識　SIK1　recognize, understand, know
+450　讀　DUK6　read, study; pronounce
+451　舉　GEUI2　raise, lift up; recommend
+452　黑　HAAK1 HAK1　black; dark; evil, sinister
+453　乎　FU4　interrogative or exclamatory final particle
+454　引　YAN5　pull, draw out, attract; stretch
+455　北　BAK1　north; northern; northward
+456　林　LAM4　forest, grove; surname
+457　根　GAN1　root, base(d on); foundation
+458　輕　HING1 HENG1　light; easy, simple; gentle
+459　專　JYUN1　monopolize, take sole possession
+460　象　JEUNG6　elephant; ivory; figure, image
+461　推　TEUI1　push, expel; push forward
+462　讓　YEUNG6　allow, permit, yield, concede
+463　熱　YIT6　hot; heat; fever; restless; zeal
+464　除　CHEUI4　eliminate, remove, except
+465　留　LAU4　stop, halt; stay, detain, keep
+466　皮　PEI4　skin, hide, fur, feather; outer
+467　絕　JYUT6　cut, sever, break off, terminate
+468　據　GEUI3　occupy, take possession of; base
+469　溫　WAN1　lukewarm, warm; tepid, mild
+470　首　SAU2　head; first; leader, chief; poem
+471　銀　NGAN2 NGAN4　silver; cash, money, wealth
+472　獨　DUK6　alone, single, solitary, only
+473　陽　YEUNG4　"male" principle; light; sun
+474　南　NAAM4　south; southern part; southward
+475　存　CHYUN4　exist, live, be; survive; remain
+476　質　JAT1　matter, material, substance
+477　李　LEI5　plum; judge; surname
+478　羅　LO4　net for catching birds; gauze
+479　斯　SI1　this, thus, such; to lop off; emphatic particle
+480　朋　PANG4　friend, pal, acquaintance
+481　精　JING1　essence; semen; spirit
+482　古　GU2　old, classic, ancient
+483　態　TAAI3　manner, bearing, attitude
+484　星　SING1　star, planet; any point of light
+485　衣　YI1　clothes, clothing; cover, skin
+486　興　HING3　thrive, prosper, flourish
+487　須　SEUI1　must, have to, necessary; moment; whiskers
+488　層　CHANG4　storey, layer, floor, stratum
+489　請　CHING2　ask, request; invite; please
+490　假　GA2 GA3　falsehood, deception; vacation
+491　官　GUN1　official, public servant
+492　跟　GAN1　heel;to follow, accompany; with
+493　火　FO2　fire, flame; burn; anger, rage
+494　究　GAU3　examine, investigate
+495　筆　BAT1　writing brush; write; stroke
+496　竟　GING2　finally, after all, at last
+497　致　JI3　send, deliver, present; cause
+498　免　MIN5　spare; excuse from; evade
+499　試　SI3　test, try, experiment
+500　待　DOI6　treat, entertain, receive; wait
+501　盡　JEUN6　exhaust, use up; deplete
+502　青　CHENG1 CHING1　blue, green, black; young
+503　倒　DOU2　fall over; lie down; take turns
+504　夠　GAU3　enough, adequate
+505　苦　FU2　bitter; hardship, suffering
+506　師　SI1　teacher, master, specialist; multitude, troops
+507　病　BENG6　illness, sickness, disease
+508　壓　AAT3 NGAAT3　press; oppress; crush; pressure
+509　希　HEI1　rare; hope, expect, strive for
+510　底　DAI2　bottom, underneath, underside
+511　傷　SEUNG1　wound, injury; fall ill from
+512　策　CHAAK3　scheme, plan; whip; urge
+513　誰　SEUI4　who? whom? whose? anyone?
+514　顧　GU3　look back; look at; look after
+515　功　GUNG1　achievement, merit, good result
+516　參　CHAAM1　take part in, intervene
+517　勢　SAI3　power, force; tendency
+518　段　DYUN6　section, piece, division
+519　願　YUN6　desire, want; wish; ambition
+520　斷　DYUN6 TYUN5　sever, cut off; interrupt
+521　集　JAAP6　assemble, collect together
+522　具　GEUI6　tool, implement; draw up, write
+523　領　LING5　neck; collar; lead, guide
+524　科　FO1　section, department, science
+525　育　YUK6　produce, give birth to; educate
+526　居　GEUI1　live, dwell, reside, sit
+527　巴　BA1　greatly desire, anxiously hope
+528　料　LIU2　consider, conjecture; materials, ingredients
+529　職　JIK1　duty, profession; office, post
+530　裝　JONG1　dress, clothes; decorate; fill
+531　辦　BAAN6　manage, do, handle; deal with
+532　團　TYUN4　sphere, ball, circle; mass, lump
+533　找　JAAU2　search, seek, look for; find
+534　夫　FU1　man, male adult, husband; those
+535　般　BUN1　sort, manner, kind, category
+536　續　JUK6　continue, carry on; succeed
+537　雙　SEUNG1　set of two, pair, couple; both
+538　康　HONG1　peaceful, quiet; happy, healthy
+539　飛　FEI1　fly; go quickly; dart; high
+540　姐　JE2　elder sister, young lady
+541　校　GAAU3 HAAU6　school; military field officer
+542　標　BIU1　mark, symbol, label, sign; stand
+543　確　KOK3　sure, certain; real, true
+544　係　HAI6　bind, tie up; involve, relation
+545　息　SIK1　rest, put stop to, end, cease
+546　準　JEUN2　rule, guideline, standard
+547　討　TOU2　ask for, beg; demand; dun; marry
+548　排　PAAI4　row, rank, line
+549　樓　LAU4　building of two or more stories
+550　劃　WAAK6　divide, mark off, lay boundary
+551　嗎　MA3　final interrogative particle
+552　孩　HAAI4　baby, child; children
+553　票　PIU3　slip of paper or bamboo; ticket
+554　素　SOU3　white (silk); plain; vegetarian; formerly; normally
+555　席　JIK6　seat; mat; take seat; banquet
+556　久　GAU2　long time (ago); time passage, grow late
+557　考　HAAU2　examine, test; investigate
+558　藝　NGAI6　art; talent, ability; craft
+559　軍　GWAN1　army, military; soldiers, troops
+560　婚　FAN1　get married; marriage, wedding
+561　戰　JIN3　war, fighting, battle
+562　環　WAAN4　jade ring or bracelet; ring
+563　證　JING3　proof, evidence; testify, verify
+564　隨　CHEUI4　follow, listen to, submit; to accompany; subsequently, then
+565　坐　CHO5 JO6　sit; seat; ride, travel by
+566　境　GING2　boundery, frontier; area, region
+567　署　CHYU5　public office
+568　擔　DAAM1　carry, bear, undertake
+569　責　JAAK3　one's responsibility, one's duty
+570　阿　A3　prefix to name; transliteration
+571　歷　LIK6　take place, past, history
+572　講　GONG2　explain; discuss; talk
+573　初　CHO1　beginning, initial, primary
+574　驗　YIM6　test, examine, inspect; verify
+575　刻　HAAK1 HAK1　carve, engrave; quarter hour
+576　怕　PA3　fear, be afraid of; apprehensive
+577　歌　GO1　song, lyrics; sing, chant;praise
+578　灣　WAAN1　bay, cove, inlet, bend of stream
+579　供　GUNG1　supply, provide for; offer in worship
+580　夜　YE6　night, dark; in night; by night
+581　查　CHA4　investigate, examine, seek into
+582　益　YIK1　profit, benefit; advantage
+583　豐　FUNG1　abundant, lush, bountiful,plenty
+584　味　MEI6　taste, smell, odor; delicacy
+585　圖　TOU4　diagram; chart, map, picture
+586　晚　MAAN5　night, evening; late
+587　導　DOU6　direct, guide, lead, conduct
+588　漸　JIM6　gradually
+589　級　KAP1　level, rank, class; grade
+590　終　JUNG1　end; finally, in the end
+591　京　GING1　capital city
+592　歲　SEUI3　year; age; harvest
+593　遊　YAU4　wander, roam, travel
+594　吧　BA1　emphatic final particle
+595　布　BOU3　cotton cloth, textiles, linen
+596　獲　WOK6　obtain, get, receive; seize
+597　站　JAAM6　stand up; a stand, station
+598　項　HONG6　neck, nape of neck; sum; funds
+599　護　WU6　protect, guard, defend, shelter
+600　黃　WONG4　yellow; surname
+601　稱　CHING1　call; name, brand; address; say
+602　值　JIK6　price
+603　店　DIM3　shop, store; inn, hotel
+604　效　HAAU6　result, effect; effectiveness
+605　注　JYU3　concentrate, focus, direct
+606　石　SEK6　stone, rock, mineral; rad. 112
+607　膚　FU1　skin; superficial, shallow
+608　號　HOU6　mark, sign; symbol; number
+609　雨　YU5　rain; rainy; radical no. 173
+610　樹　SYU6　tree; plant; set up, establish
+611　退　TEUI3　step back, retreat, withdraw
+612　負　FU6　load, burden; carry, bear
+613　警　GING2　guard, watch; alert, alarm
+614　奇　KEI4　strange, unusual, uncanny,occult
+615　景　GING2　scenery, view; conditions
+616　玩　WUN6　play with, joke, enjoy
+617　陸　LUK6　land, continental; army
+618　福　FUK1　happiness, good fortune,blessing
+619　錯　CHO3　error, blunder, mistake, wrong
+620　句　GEUI3　sentence
+621　語　YU5　language, words; saying, express
+622　差　CHA1 CHAAI1　differ; nearly, almost
+623　球　KAU4　ball, sphere, globe; round
+624　施　SI1　grant, bestow; give; act; name
+625　批　PAI1　comment, criticize; wholesale
+626　血　HYUT3　blood; radical number 143
+627　備　BEI6　prepare, ready, perfect
+628　減　GAAM2　decrease, subtract, diminish
+629　停　TING4　stop, suspend, delay; suitable
+630　城　SING4　castle; city, town; municipality
+631　紀　GEI3　record, annal,historical account
+632　群　KWAN4　group, crowd, multitude, mob
+633　器　HEI3　receptacle, vessel; instrument
+634　愈　YU6　more and more, even more
+635　預　YU6　prepare, arrange; in advance
+636　屬　SUK6　class, category, type; belong to
+637　規　KWAI1　rules, regulations, customs, law
+638　醫　YI1　cure, heal; doctor, medical
+639　革　GAAK3 GAAP3　leather, animal hides; rad. 177
+640　念　NIM6　think of, recall, study
+641　修　SAU1　study; repair; cultivate
+642　印　YAN3　print, seal, stamp, chop, mark
+643　嚴　YIM4　strict, rigorous, rigid; stern
+644　亞　A3 NGA3　asia; second
+645　升　SING1　arise, go up; hoist; advance
+646　史　SI2　history, chronicle, annals
+647　繼　GAI3　continue, maintain, carry on
+648　靜　JING6　quiet, still, motionless; gentle
+649　換　WUN6　change, exchange; substitute
+650　研　YIN4　grind, rub; study, research
+651　紙　JI2　paper
+652　拿　NA4　take, hold, grasp; bring; with
+653　採　CHOI2　gather, collect; pick, select
+654　緊　GAN2　tense, tight, taut; firm, secure
+655　肯　HANG2　willing; consent to, permit
+656　協　HIP6　be united; cooperate
+657　燈　DANG1　lantern, lamp
+658　型　YING4　pattern, model, type; law; mold
+659　班　BAAN1　class, group, grade; squad; job
+660　謂　WAI6　say, tell; call, name; be called
+661　購　KAU3　buy, purchase; hire
+662　率　LEUT6 SEUT1　to lead; ratio; rate; limit
+663　細　SAI3　fine, tiny; slender, thin
+664　勞　LOU4　labor, toil, do manual work
+665　吸　KAP1 NGAP1　inhale, suck in; absorb; attract
+666　售　SAU6　sell
+667　拉　LAAI1　pull, drag; seize, hold;lengthen
+668　括　KUT3　include, embrace, enclose
+669　款　FUN2　item, article; clause; fund
+670　德　DAK1　ethics, morality, virtue
+671　短　DYUN2　short; brief; deficient, lacking
+672　破　PO3　break, ruin, destroy; rout
+673　母　MOU5　mother; female elders; female
+674　超　CHIU1　jump over, leap over; surpass
+675　技　GEI6　skill, ability, talent,ingenuity
+676　維　WAI4　maintain, preserve, safeguard
+677　洋　YEUNG4　ocean, sea; foreign; western
+678　屋　NGUK1 UK1　house; room; building, shelter
+679　背　BUI3　back; back side; behind; betray
+680　葉　YIP6　leaf, petal; page of book;period
+681　周　JAU1　zhou dynasty; circumference
+682　構　KAU3　frame, building, structure
+683　助　JO6　help, aid, assist
+684　營　YING4　encampment, barracks; manage
+685　米　MAI5　hulled or husked uncooked rice
+686　習　JAAP6　practice; flapping wings
+687　聞　MAN4　hear; smell; make known; news
+688　評　PING4　appraise, criticize, evaluate
+689　匯　WUI6　concourse; flow together, gather
+690　承　SING4　inherit, receive; succeed
+691　舊　GAU6　old, ancient; former, past
+692　魚　YU4　fish; surname; radical no. 195
+693　依　YI1　rely on, be set in; consent, obey a wish
+694　善　SIN6　good, virtuous, charitable, kind
+695　養　YEUNG5　raise, rear, bring up; support
+696　賣　MAAI6　sell; betray; show off
+697　適　SIK1　match, comfortable; just
+698　餘　YU4　surplus, excess, remainder, left
+699　核　HAT6 WAT6　seed, kernel, core, nut; atom
+700　隊　DEUI6　team, group; army unit
+701　怪　GWAAI3　strange, unusual, peculiar
+702　曲　KUK1　crooked, bent; wrong, false
+703　稅　SEUI3　taxes, revenue, duty; tax
+704　紫　JI2　purple, violet; amethyst;surname
+705　唱　CHEUNG3　sing, chant, call; ditty, song
+706　左　JO2　left; east; unorthodox, improper
+707　彭　PANG4　name of ancient country; surname
+708　拍　PAAK3　clap, tap, beat; beat or rhythm
+709　穿　CHYUN1　penetrate, pierce, drill; wear
+710　戲　HEI3　theatrical play, show
+711　街　GAAI1　street, road, thoroughfare
+712　製　JAI3　make, manufacture; produce
+713　貨　FO3　goods, commodities, products
+714　微　MEI4　small, prefix micro-, trifling
+715　止　JI2　stop, halt, desist; detain
+716　煙　YIN1　smoke, soot; tobacco, cigarettes
+717　玲　LING4　tinkling of jade
+718　害　HOI6　injure, harm; destroy, kill
+719　系　HAI6　system; line, link, connection
+720　露　LOU6　dew; bare, open, exposed
+721　付　FU6　give, deliver, pay, hand over; entrust
+722　園　YUN4　garden; park, orchard
+723　某　MAU5　certain thing or person
+724　富　FU3　abundant, ample; rich, wealthy
+725　疑　YI4　doubt, question, suspect
+726　財　CHOI4　wealth, valuables, riches
+727　痛　TUNG3　pain, ache; sorry, sad; bitter
+728　酒　JAU2　wine, spirits, liquor, alcoholic
+729　休　YAU1　rest, stop; retire; do not!
+730　督　DUK1　supervise, oversee, direct
+731　雲　WAN4　clouds; yunnan province
+732　草　CHOU2　grass, straw, thatch, herbs
+733　春　CHEUN1　spring; wanton
+734　沙　SA1　sand, gravel, pebbles;granulated
+735　秋　CHAU1　autumn, fall; year
+736　訴　SOU3　accuse; sue; inform; narrate
+737　均　GWAN1　equal, even, fair; all, also
+738　趣　CHEUI3　what attracts one's attention
+739　送　SUNG3　see off, send off;dispatch, give
+740　透　TAU3　penetrate, pass through
+741　冷　LAANG5　cold, cool; lonely
+742　烈　LIT6　fiery, violent, vehement, ardent
+743　亂　LYUN6　confusion, state of chaos; create chaos, revolt
+744　啟　KAI2　open; begin
+745　永　WING5　long, perpetual, eternal,forever
+746　答　DAAP3　answer, reply; return; assent to
+747　臉　LIM5　face; cheek; reputation
+748　限　HAAN6　boundary, limit, line
+749　創　CHONG3　establish, create; knife cut
+750　積　JIK1　accumulate, store up, amass
+751　畫　WA2 WAAK6　delineate, painting, picture, drawing; draw
+752　缺　KYUT3　be short of, lack; gap, deficit
+753　飯　FAAN6　cooked rice; food; meal
+754　土　TOU2　soil, earth; items made of earth
+755　充　CHUNG1　fill, be full, supply
+756　簡　GAAN2　simple, terse, succinct; letter
+757　隻　JEK3　single, one of pair, lone
+758　密　MAT6　dense, thick, close; intimate
+759　既　GEI3　already; de facto; since; then
+760　爾　YI5　you; that, those; final particle
+761　館　GUN2　public building
+762　木　MUK6　tree; wood, lumber; wooden
+763　媽　MA1　mother, mama
+764　律　LEUT6　statute, principle, regulation
+765　慮　LEUI6　be concerned, worry about
+766　懷　WAAI4　bosom, breast; carry in bosom
+767　置　JI3　place, lay out; set aside
+768　宣　SYUN1　declare, announce, proclaim
+769　床　CHONG4　bed, couch; framework, chassis
+770　莫　MOK6　do not, is not, can not;negative
+771　訪　FONG2　visit; ask, inquire
+772　壞　WAAI6　bad, spoil(ed), ruin, destroy
+773　良　LEUNG4　good, virtuous, respectable
+774　勝　SING3　victory; excel, be better than
+775　午　NG5　noon; seventh terrestrial branch
+776　庭　TING4　courtyard; spacious hall or yard
+777　座　JO6　seat; stand, base
+778　彈　DAAN6 TAAN4　pellet, bullet, shot, shell
+779　江　GONG1　large river; yangzi; surname
+780　殺　SAAT3　kill, slaughter, murder; hurt; to pare off, reduce, clip
+781　父　FU6　father; radical no. 88
+782　王　WONG4　king, ruler; royal; surname
+783　呼　FU1　breathe sigh, exhale; call,shout
+784　奏　JAU3　memorialize emperor; report
+785　探　TAAM3　find, locate; search, grope for
+786　副　FU3　assist; supplement; assistant
+787　突　DAT6　suddenly, abruptly, unexpectedly
+788　省　SAANG2 SING2　province; save, economize
+789　船　SYUN4　ship, boat, vessel
+790　頓　DEUN6　pause, stop; bow, kowtow;arrange
+791　優　YAU1　superior, excellent; actor
+792　堂　TONG4　hall; government office
+793　武　MOU5　military; martial, warlike
+794　牌　PAAI4　signboard, placard
+795　睡　SEUI6　sleep, doze
+796　避　BEI6　avoid; turn aside; escape; hide
+797　鐵　TIT3　iron; strong, solid, firm
+798　圍　WAI4　surround, encircle, corral
+799　忽　FAT1　suddenly, abruptly; neglect
+800　肉　YUK6　flesh; meat; radical no. 130
+801　迷　MAI4　bewitch, charm, infatuate
+802　洲　JAU1　continent; island; islet
+803　腦　NOU5　brain
+804　零　LING4　zero; fragment, fraction
+805　額　NGAAK6　forehead; tablet, plaque; fixed
+806　陳　CHAN4　exhibit, display; plead; surname
+807　韓　HON4　fence; surname; korea
+808　堅　GIN1　hard, strong, firm; resolute
+809　尋　CHAM4　seek, search, look for; ancient
+810　概　KOI3　generally, approximately
+811　防　FONG4　defend; prevent; embankment
+812　急　GAP1　quick, quickly; urgent, pressing
+813　沉　CHAM4　sink, submerge; addicted to
+814　略　LEUK6　approximately, roughly; outline
+815　異　YI6　different, unusual, strange
+816　移　YI4　change place, shift; move about
+817　億　YIK1　hundred million; many
+818　列　LIT6　line; arrange in order, classify
+819　夢　MUNG6　dream; visionary; wishful
+820　季　GWAI3　quarter of year; season; surname
+821　模　MOU4　model, standard, pattern; copy
+822　毛　MOU4　hair, fur, feathers; coarse
+823　室　SAT1　room, home, house, chamber
+824　散　SAAN2 SAAN3　scatter, disperse, break up
+825　章　JEUNG1　composition; chapter, section
+826　追　JEUI1　pursue, chase after; expel
+827　階　GAAI1　stairs, steps; rank, degree
+828　射　SE6　shoot, eject, issue forth, emit
+829　慢　MAAN6　slow(ly), leisurely, sluggish
+830　登　DANG1　rise, mount, board, climb
+831　碼　MA5　number, numerals; yard; symbol
+832　執　JAP1　hold in hand; keep; carry out
+833　廠　CHONG2　factory, plant, workshop, mill
+834　旁　PONG4　side; by side, close by, near
+835　楚　CHO2　name of feudal state; clear
+836　童　TUNG4　child, boy, servant boy; virgin
+837　跑　PAAU2　run, flee, leave in hurry
+838　速　CHUK1　quick, prompt, speedy
+839　守　SAU2　defend, protect, guard, conserve
+840　控　HUNG3　accuse, charge; control
+841　遇　YU6　meet, come across, encounter
+842　里　LEI5　unit of distance; village; lane
+843　宜　YI4　suitable, right, fitting, proper
+844　菜　CHOI3　vegetables; dish, order; food
+845　鄧　DANG6　surname
+846　鐘　JUNG1　clock; bell
+847　島　DOU2　island
+848　掉　DIU6　turn, move; shake, wag;drop down
+849　擁　YUNG2　embrace, hug, squeeze; crowd
+850　擊　GIK1　strike, hit, beat; attack, fight
+851　油　YAU4　oil, fat, grease, lard; paints
+852　熟　SUK6　well cooked; ripe; familiar with
+853　順　SEUN6　obey, submit to, go along with
+854　麗　LAI6　beautiful, magnificent, elegant
+855　雜　JAAP6　mixed, blended; mix, mingle
+856　享　HEUNG2　enjoy
+857　企　KEI5　plan a project; stand on tiptoe
+858　暗　AM3 NGAM3　dark; obscure; in secret, covert
+859　腳　GEUK3　foot; base, leg, foundation
+860　裡　LEUI5　inside, interior, within
+861　觸　JUK1　touch; butt, ram, gore
+862　險　HIM2　narrow pass, strategic point, dangerous
+863　驚　GING1　frighten, surprise, startle
+864　剛　GONG1　hard, tough, rigid, strong
+865　抗　KONG3　resist, oppose, defy, reject
+866　舞　MOU5　dance, posture, prance; brandish
+867　途　TOU4　way, road, path, journey; course
+868　鏡　GENG3　mirror; lens; glass; glasses
+869　擇　JAAK6　select, choose, pick out
+870　私　SI1　private, personal; secret
+871　納　NAAP6　admit, take, receive, accept
+872　蘭　LAAN4　orchid; elegant, graceful
+873　誤　NG6　err, make mistake; interfere
+874　貴　GWAI3　expensive, costly, valuable
+875　哪　NA5　which? where? how?
+876　波　BO1　waves, breakers; undulations
+877　源　YUN4　spring; source, head; surname
+878　藥　YEUK6　drugs, pharmaceuticals, medicine
+879　配　PUI3　match, pair; equal; blend
+880　族　JUK6　family clan, ethnic group, tribe
+881　察　CHAAT3　examine, investigate; notice
+882　河　HO4　river; stream; yellow river
+883　偶　NGAU5　accidentally, coincidently; idol
+884　僅　GAN2　only, merely, solely, just
+885　右　YAU6　right; west; right-wing
+886　競　GING3　contend, vie, compete
+887　龍　LUNG4　dragon; symbolic of emperor
+888　歸　GWAI1　return; return to, revert to
+889　浪　LONG6　wave; wasteful, reckless
+890　蘇　SOU1　thyme; revive, resurrect; a species of thyme; transliteration of soviet
+891　課　FO3　lesson; course; classwork
+892　賞　SEUNG2　reward, grant, bestow;appreciate
+893　懂　DUNG2　understand, comprehend
+894　牛　NGAU4　cow, ox, bull; radical no. 93
+895　訂　DENG6 DING6　draw up agreement; arrange
+896　誠　SING4　sincere, honest; true, real
+897　予　YU4 YU5　i, me; to give
+898　按　ON3　put hand on,press down with hand
+899　陣　JAN6　column, row or file of troops
+900　佔　JIM4　occupy by force, usurp; possess
+901　幸　HANG6　luck(ily), favor, fortunately
+902　抽　JAU1　draw out, pull out; sprout
+903　映　YING2　project; reflect light
+904　雄　HUNG4　male of species; hero; manly
+905　默　MAK6　silent; quiet, still; dark
+906　喝　HOT3　drink; shout, call out
+907　州　JAU1　administrative division, state
+908　忘　MONG4　forget; neglect; miss, omit
+909　窗　CHEUNG1　window
+910　織　JIK1　weave, knit; organize, unite
+911　塊　FAAI3　piece, lump; dollar
+912　述　SEUT6　narrate, state, express
+913　靈　LING4　spirit, soul; spiritual world
+914　仔　JAI2　small thing, child; young animal
+915　威　WAI1　pomp, power; powerful; dominate
+916　忙　MONG4　busy, pressed for time; hustling
+917　惜　SIK1　pity, regret, rue, begrudge
+918　慣　GWAAN3　habit, custom; habitually, usual
+919　漫　MAAN6　overflow of water; spreading
+920　餐　CHAAN1　eat, dine; meal; food
+921　介　GAAI3　forerunner, herald, harbinger; to lie between; sea shell; to wear armor
+922　困　KWAN3　surround, beseige; be surrounded
+923　籍　JIK6　record, register, list; census
+924　練　LIN6　practice, drill, exercise, train
+925　翻　FAAN1　flip over, upset, capsize
+926　尤　YAU4　especially, particularly
+927　監　GAAM1 GAAM3　supervise, control, direct
+928　索　SOK3　large rope, cable; rules, laws; to demand, to exact; to search, inquire; isolated
+929　詩　SI1　poetry; poem, verse, ode
+930　夏　HA6　summer; great, grand, big
+931　尚　SEUNG6　still, yet; even; fairly, rather
+932　犯　FAAN6　commit crime, violate; criminal
+933　亮　LEUNG6　bright, brilliant, radiant, light
+934　估　GU2　merchant; estimate, guess, presume
+935　判　PUN3　judge; discriminate; conclude
+936　唐　TONG4　tang dynasty; chinese
+937　戶　WU6　door; family, household
+938　普　POU2　universal, general, widespread
+939　棄　HEI3　reject, abandon, discard
+940　禁　GAM3　restrict, prohibit, forbid
+941　版　BAAN2　printing blocks; edition
+942　耳　YI5　ear; merely, only; handle
+943　附　FU6　adhere to, append; rely on near to
+944　骨　GWAT1　bone; skeleton; frame, framework
+945　昨　JOK3　yesterday; in former times, past
+946　絲　SI1　silk; fine thread; wire; strings
+947　揮　FAI1　direct; wipe away; squander
+948　柔　YAU4　soft; gentle, pliant
+949　綠　LUK6　green; chlorine
+950　罪　JEUI6　crime, sin, vice; evil; hardship
+951　凡　FAAN4　all, any, every ordinary, common
+952　佳　GAAI1　good, auspicious; beautiful; delightful
+953　唯　WAI4　only; yes
+954　套　TOU3　case, cover, wrapper, envelope
+955　復　FUK6　return; repeat; repeatedly
+956　衝　CHUNG1　rush against, charge ahead
+957　迎　YING4　receive, welcome, greet
+958　釋　SIK1　interprete, elucidate; release
+959　野　YE5　open country, field; wilderness
+960　俄　NGO5　sudden(ly), soon; russian
+961　幫　BONG1　help, assist; defend; shoe upper
+962　弱　YEUK6　weak; fragile, delicate
+963　忍　YAN2　endure, bear, suffer; forbear
+964　歐　AU1 NGAU1　translit.: europe, ohm; surname
+965　激　GIK1　arouse, excite, incite; quickly
+966　農　NUNG4　agriculture, farming; farmer
+967　錄　LUK6　copy, write down, record
+968　幹　GON3　trunk of tree or of human body
+969　含　HAM4　hold in mouth; cherish; contain
+970　婦　FU5　married women; woman; wife
+971　蓋　GOI3 KOI3　cover, hide, protect
+972　跳　TIU3　jump, leap, vault, bounce; dance
+973　幅　FUK1　piece, strip, breadth of, hem
+974　序　JEUI6　series, serial order, sequence
+975　朝　CHIU4 JIU1　dynasty; morning
+976　障　JEUNG3　separate; shield; barricade
+977　央　YEUNG1　center, conclude, run out; beg
+978　搞　GAAU2　to clear, clarify
+979　敢　GAM2　dare, venture; be bold, be brave
+980　替　TAI3　change, replace, substitute; for
+981　毫　HOU4　fine hair; measure of length
+982　測　CHAK1　measure, estimate, conjecture
+983　煲　BOU1　to heat; to boil a saucepan
+984　狀　JONG6　form; appearance; shape;official
+985　畢　BAT1　end, finish, conclude; completed
+986　禮　LAI5　social custom; manners; courtesy
+987　逐　JUK6　chase, expel; one by one
+988　幣　BAI6　currency, coins, legal tender
+989　枝　JI1　branches, limbs; branch off
+990　紛　FAN1　in disorder, scattered, tangled
+991　藍　LAAM4　blue; indigo plant; surname
+992　健　GIN6　strong, robust, healthy;strength
+993　哥　GO1　elder brother
+994　恐　HUNG2　fear; fearful, apprehensive
+995　戀　LYUN2　love; long for, yearn for; love
+996　敗　BAAI6　be defeated, decline, fail
+997　衛　WAI6　guard, protect, defend
+998　銷　SIU1　melt, fuse; market, sell ; to pass time, finish, cancel
+999　乾　GON1 KIN4　dry; first hexagram; warming principle of the sun, penetrating and fertilizing, heavenly generative principle (male)
+1000　尊　JYUN1　respect, revere, venerate; honor
+1001　掌　JEUNG2　palm of hand, sole of foot, paw
+1002　損　SYUN2　diminish; impair; injure
+1003　潮　CHIU4　tide; moist, wet, damp; flow
+1004　牙　NGA4　tooth, molars, teeth; serrated
+1005　脫　TYUT3　take off, peel off, strip
+1006　詞　CHI4　words; phrase, expression
+1007　哈　HA1　sound of laughter
+1008　患　WAAN6　suffer, worry about; suffering
+1009　端　DYUN1　end, extreme; head; beginning
+1010　篇　PIN1　chapter, section, essay, article
+1011　醒　SING2　wake up; sober up; startle
+1012　楊　YEUNG4　willow, poplar, aspen; surname
+1013　秘　BEI3　secret, mysterious, abstruce
+1014　圈　HYUN1　to circle; a circle; corral
+1015　寶　BOU2　treasure, jewel; precious, rare
+1016　抱　POU5　embrace, hold in arms, enfold
+1017　淡　DAAM6 TAAM5　weak, watery; insipid, tasteless
+1018　簽　CHIM1　sign, endorse; slip of paper
+1019　卡　KAAT3　card, punch card; calorie
+1020　招　JIU1　beckon, summon; recruit, levy
+1021　汽　HEI3　steam, vapor, gas
+1022　睛　JING1　eyeball; pupil of eye
+1023　趕　GON2　pursue, follow; expel,drive away
+1024　載　JOI3　load; carry; transport, convey
+1025　降　GONG3 HONG4　descend, fall, drop; lower, down
+1026　鼓　GU2　drum; beat, top, strike
+1027　板　BAAN2　plank, board; iron or tin plate
+1028　欣　YAN1　happy, joyous, delighted
+1029　乘　SING4　ride, ascend; avail oneself of; numerary adjunct for vehicles
+1030　固　GU3　become solid, solidify; strength
+1031　尼　NEI4　buddhist nun; transliteration
+1032　洗　SAI2　wash, rinse; clean, purify
+1033　訊　SEUN3　inquire; ask; examine; reproach
+1034　貼　TIP3　paste to, stick on; attached to
+1035　郭　GWOK3　outer part (of a city); surname
+1036　頂　DENG2 DING2　top, peak; carry on head; very
+1037　擺　BAAI2　put, place; display; swing, sway
+1038　玉　YUK6　jade, precious stone, gem
+1039　膠　GAAU1　glue, gum, resin, rubber
+1040　隔　GAAK3　separate, partition
+1041　志　JI3　purpose, will, determination
+1042　旅　LEUI5　trip, journey; travel; traveler
+1043　滋　JI1　grow, multiply, increase; thrive
+1044　澳　OU3　inlet, bay; dock, bank
+1045　築　JUK1　build, erect; building
+1046　臨　LAM4　draw near, approach; descend
+1047　補　BOU2　mend, patch, fix, repair,restore
+1048　輸　SYU1　transport, carry, haul
+1049　髮　FAAT3　hair
+1050　挑　TIU1　load carried on shoulders; carry
+1051　田　TIN4　field, arable land, cultivated
+1052　編　PIN1　knit, weave; arrange; compile
+1053　緣　YUN4　hem, margin; reason, cause; karma, fate
+1054　互　WU6　mutually, reciprocally
+1055　呀　A1　particle used express surprise
+1056　惡　NGOK3 OK3 WU1 WU3　evil, wicked, bad, foul
+1057　泥　NAI4　mud, mire; earth, clay; plaster
+1058　硬　NGAANG6　hard, firm, strong; obstinate
+1059　緩　WUN6　slow, leisurely; postpone, delay
+1060　藏　CHONG4 JONG6　hide, conceal; hoard, store up
+1061　齊　CHAI4　even, uniform, of equal length
+1062　努　NOU5　exert, strive, make effort; pout
+1063　堆　DEUI1　heap, pile, crowd; pile up
+1064　榮　WING4　glory, honor; flourish, prosper
+1065　檢　GIM2　check; examine
+1066　淚　LEUI6　tears; weep, cry
+1067　賺　JAAN6　make money, earn; gain, profit
+1068　靠　KAAU3　lean on, trust, depend on; near
+1069　鬥　DAU3　struggle, fight, compete,contend
+1070　倫　LEUN4　normal human relationships
+1071　偏　PIN1　inclined one side; slanting
+1072　植　JIK6　plant, trees, plants; grow
+1073　甘　GAM1　sweetness; sweet, tasty
+1074　申　SAN1　to state to a superior, report; extend; ninth terrestrial branch
+1075　縮　SUK1　contract, draw in, reduce
+1076　賽　CHOI3　compete, contend; contest, race
+1077　伯　BAAK3　older brother; father's elder brother; senior male "sire"; feudal rank "count"
+1078　寧　NING4　repose, serentiy, peace;peaceful
+1079　岸　NGON6　bank, shore; beach, coast
+1080　恨　HAN6　hatred, dislike; resent, hate
+1081　鬧　NAAU6　quarrel; dispute hotly
+1082　刺　CHI3　stab; prick, irritate; prod
+1083　危　NGAI4　dangerous, precarious; high
+1084　輪　LEUN4　wheel; revolve, turn; recur
+1085　鄉　HEUNG1　country; rural; village
+1086　倍　PUI5　times, fold, multiple times
+1087　宗　JUNG1　lineage, ancestry; ancestor,clan
+1088　折　JIT3　break off, snap; bend
+1089　握　AK1　grasp, hold fast, take by hand
+1090　穩　WAN2　stable, firm, solid, steady
+1091　訓　FAN3　teach, instruct; exegesis
+1092　伴　BUN6 PUN5　companion, comrade, partner; accompany
+1093　塞　CHOI3 SAK1　stop up, block, seal, cork; pass, frontier; fortress
+1094　妻　CHAI1　wife
+1095　繁　FAAN4　complicated, complex, difficult
+1096　婆　PO4　old woman; grandmother
+1097　廿　NIM6 YE6　twenty, twentieth
+1098　彩　CHOI2　hue, color; variegated colors
+1099　暫　JAAM6　temporary
+1100　村　CHYUN1　village, hamlet; uncouth, vulgar
+1101　殊　SYU4　different, special, unusual
+1102　濃　NUNG4　thick, strong, concentrated
+1103　盤　PUN4　tray, plate, dish; examine
+1104　竹　JUK1　bamboo; flute; radical no. 118
+1105　耀　YIU6　shine, sparkle, dazzle; glory
+1106　鬆　SUNG1　lax, loose; loosen, relax
+1107　傾　KING1　upset, pour out, overflow
+1108　哭　HUK1　weep, cry, wail
+1109　弄　LUNG6　do, play or fiddle with; alley
+1110　弟　DAI6　young brother; junior; i, me
+1111　束　CHUK1　bind, control, restrain; bale
+1112　薪　SAN1　fuel, firewood; salary
+1113　針　JAM1　needle; pin; tack; acupuncture
+1114　厚　HAU5　thick; substantial; greatly
+1115　珠　JYU1　precious stone, gem, jewel,pearl
+1116　詢　SEUN1　inquire into, ask about; consult
+1117　飲　YAM2　drink; swallow; kind of drink
+1118　亡　MONG4　death, destroyed; lose, perish
+1119　染　YIM5　dye; be contagious; infect
+1120　肥　FEI4　fat, plump, obese; fertile
+1121　胡　WU4　recklessly, foolishly; wildly
+1122　跌　DIT3　stumble, slip, fall down; stamp
+1123　踏　DAAP6　step on, trample, tread on, walk
+1124　坡　BO1　slope, bank, hillside
+1125　掛　GWA3　hang, suspend; suspense
+1126　智　JI3　wisdom, knowledge, intelligence
+1127　虛　HEUI1　false, worthless; empty, hollow
+1128　吹　CHEUI1　blow; puff; brag, boast
+1129　彷　FONG2 PONG4　like, resembling; resemble
+1130　杯　BUI1　cup, glass
+1131　航　HONG4　sail; navigate; ship, boat
+1132　鮮　SIN1　fresh, new, delicious; rare, few
+1133　寂　JIK6　still, silent, quiet, desolate
+1134　幻　WAAN6　illusion, fantasy, mirage
+1135　抵　DAI2　resist, oppose; deny; off-set
+1136　搖　YIU4　wag, swing, wave; shake; scull
+1137　架　GA2 GA3　rack, stand, prop; prop up
+1138　橋　KIU4　bridge; beam, crosspiece
+1139　舒　SYU1　open up, unfold, stretch out
+1140　距　KEUI5　distance; bird's spur
+1141　迫　BAAK1　coerce, force, compel; urgent
+1142　閒　HAAN4　peaceful, tranquil, calm
+1143　隱　YAN2　hide, conceal; hidden, secret
+1144　刊　HON2　publication, periodical; publish
+1145　皆　GAAI1　all, every, everybody
+1146　罵　MA6　accuse, blame, curse, scold
+1147　薄　BOK6　thin, slight, weak; poor, stingy
+1148　赤　CHEK3　red; communist, "red"; bare
+1149　雞　GAI1　chickens; domestic fowl
+1150　偉　WAI5　great, robust; extraordinary
+1151　昇　SING1　rise, ascent; peaceful; peace
+1152　曬　SAAI3　dry in sun, expose to sun
+1153　煮　JYU2　cook
+1154　煩　FAAN4　bother, vex, trouble;troublesome
+1155　琴　KAM4　chinese lute or guitar
+1156　盛　SING4 SING6　abundant, flourishing; contain; fill
+1157　範　FAAN6　pattern, model, rule, law
+1158　辛　SAN1　bitter; toilsome, laborious; 8th of the heavenly stems
+1159　遍　PIN3　everywhere, all over, throughout
+1160　遲　CHI4　late, tardy; slow; delay
+1161　圓　YUN4　circle; round, circular; complete
+1162　悲　BEI1　sorrow, grief; sorry, sad
+1163　碧　BIK1　jade; green, blue
+1164　輝　FAI1　brightness, luster, brilliance
+1165　遺　WAI4　lose; articles lost; omit
+1166　啦　LA1　final particle of assertion
+1167　垃　LAAP6　garbage, refuse, waste
+1168　游　YAU4　swim; float, drift; wander, roam
+1169　茶　CHA4　tea
+1170　俗　JUK6　social customs; vulgar,unrefined
+1171　廳　TENG1　hall, central room
+1172　桌　CHEUK3　table, desk, stand
+1173　桃　TOU4　peach; marriage; surname
+1174　皇　WONG4　royal, imperial; ruler, superior
+1175　粉　FAN2　powder, face powder; plaster
+1176　純　SEUN4　pure, clean, simple
+1177　績　JIK1　spin; achievements
+1178　聚　JEUI6　assemble, meet together, collect
+1179　菲　FEI1　fragrant, luxuriant; philippines
+1180　裁　CHOI4　cut out; decrease
+1181　嘗　SEUNG4　taste; experience, experiment
+1182　巧　HAAU2　skillful, ingenious, clever
+1183　徒　TOU4　disciple, follower; go on foot
+1184　揚　YEUNG4　scatter, spread; praise
+1185　材　CHOI4　material, stuff; timber; talent
+1186　泳　WING6　dive; swim
+1187　罷　BA6　cease, finish, stop; give up
+1188　促　CHUK1　urge, press, hurry; close
+1189　借　JE3　borrow; lend; make pretext of
+1190　兌　DEUI3　cash; exchange, barter; weight
+1191　博　BOK3　gamble, play games; wide, broad
+1192　圾　SAAP3　garbage, rubbish; shaking; danger
+1193　姿　JI1　one's manner, carriage, bearing
+1194　干　GON1　oppose, offend; invade; dried
+1195　擴　KWONG3　expand, enlarge, stretch
+1196　救　GAU3　save, rescue, relieve; help, aid
+1197　涼　LEUNG4　cool, cold; disheartened
+1198　麻　MA4　hemp, jute, flax; sesame
+1199　典　DIN2　law, canon; documentation; class
+1200　夾　GAAP3　be wedged or inserted between
+1201　潛　CHIM4　hide; hidden, secret, latent
+1202　複　FUK1　repeat, double, overlap
+1203　乏　FAT6　lack; poor
+1204　圳　JAN3　furrow in field, small drainage
+1205　巨　GEUI6　large, great, enormous; chief
+1206　悉　SIK1　know, learn about, comprehend
+1207　湖　WU4　lake; hubei, hunan; bluish-green
+1208　灰　FUI1　ashes; dust; lime, mortar
+1209　番　FAAN1 PUN1　take turns; turn, a time; repeat
+1210　諸　JYU1　several, various;
+1211　鵬　PAANG4　fabulous bird of enormous size
+1212　偷　TAU1　to steal, burglar, thief
+1213　冬　DUNG1　winter, 11th lunar month
+1214　嘴　JEUI2　mouth, lips
+1215　奧　OU3　mysterious, obscure, profound
+1216　彿　FAT1　resembling, like, as if
+1217　撥　BUT6　move; dispel; distribute; plectrum, play stringed instrument
+1218　盾　TEUN5　shield; dutch guilder; indonesia
+1219　碎　SEUI3　break, smash; broken, busted
+1220　雅　NGA5　elegant, graceful, refined
+1221　妹　MUI6　younger sister
+1222　寄　GEI3　send, transmit, mail; rely on
+1223　審　SAM2　examine, investigate; judge
+1224　徵　JING1　summon, recruit; musical note
+1225　渡　DOU6　cross, ferry over; ferry
+1226　矛　MAAU4　spear, lance; radical no. 110
+1227　租　JOU1　rent, lease; rental; tax
+1228　封　FUNG1　letter, envelope; feudal
+1229　扮　BAAN6　dress up; dress up as
+1230　涉　SIP3　ford stream, wade across
+1231　盟　MANG4　swear; oath, covenant, alliance
+1232　鬼　GWAI2　ghost; spirit of dead; devil
+1233　孔　HUNG2　opening, hole, orifice; great
+1234　屆　GAAI3　numerary adjunct for time, term
+1235　拖　TO1　drag, tow, haul; delay, prolong
+1236　攝　SIP3　take in, absorb; act as deputy; administer, assist
+1237　昏　FAN1　dusk, nightfall, twilight, dark
+1238　欄　LAAN4　railing, balustrade; animal pan
+1239　甜　TIM4　sweet, sweetness
+1240　蛋　DAAN2　eggs; term of abuse; dam
+1241　麥　MAK6　wheat, barley, oats; rad. no 199
+1242　君　GWAN1　sovereign, monarch, ruler, chief
+1243　憑　PANG4　lean on, depend on, rely on
+1244　氏　SI6　clan, family; mister
+1245　浮　FAU4　float, drift, waft; exceed, over
+1246　混　WAN6　mix, blend, mingle; bumble along
+1247　狗　GAU2　dog, canis familiaris
+1248　符　FU4　i.d. tag, tally, symbol, charm
+1249　脹　JEUNG3　swell, inflate, expand
+1250　阻　JO2　impede, hinder, obstruct; oppose
+1251　頗　PO2　lean one side; very, rather
+1252　妙　MIU6　mysterious, subtle; exquisite
+1253　姑　GU1　father's sister;husband's mother
+1254　幼　YAU3　infant, young child; immature
+1255　徑　GING3　narrow path; diameter; direct
+1256　悠　YAU4　long, far, remote, distant, far-
+1257　憶　YIK1　remember, reflect upon; memory
+1258　暴　BOU6　violent, brutal, tyrannical
+1259　牆　CHEUNG4　wall
+1260　疲　PEI4　feel tired, be exhausted; weak
+1261　耐　NOI6　endure, bear; resist; patient
+1262　貿　MAU6　trade, barter; mixed; rashly
+1263　趨　CHEUI1　hasten, hurry; be attracted to
+1264　伊　YI1　third person pronoun; he, she, this, that
+1265　姻　YAN1　relatives by marriage
+1266　孤　GU1　orphan, fatherless; solitary
+1267　寬　FUN1　broad, wide; spacious, vast
+1268　摸　MO2　gently touch with hand; caress
+1269　旦　DAAN3　dawn; morning; day
+1270　濕　SAP1　wet, moist, humid, damp; illness
+1271　燒　SIU1　burn; bake; heat; roast
+1272　袋　DOI6　pocket, bag, sack, pouch
+1273　軟　YUN5　soft, flexible, pliable; weak
+1274　辯　BIN6　dispute, argue, debate, discuss
+1275　兵　BING1　soldier, troops
+1276　媒　MUI4　go-between, matchmaker; medium
+1277　帝　DAI3　supreme ruler, emperor; god
+1278　幕　MOK6　curtain, screen, tent
+1279　朗　LONG5　clear, bright; distinct
+1280　柱　CHYU5　pillar, post; support; lean on
+1281　污　WU1　filthy, dirty, impure, polluted
+1282　漢　HON3　chinese people; chinese language
+1283　爆　BAAU3　crackle, pop, burst, explode
+1284　牠　TA1　it
+1285　飾　SIK1　decorate, ornament, adorn; to decieve
+1286　橫　WAANG4　across, horizontal, lateral
+1287　膽　DAAM2　gall bladder; bravery, courage
+1288　諮　JI1　consult, confer; communicate in
+1289　販　FAAN3　peddler, hawker, street merchant
+1290　賓　BAN1　guest, visitor; surname; submit
+1291　陷　HAM6　submerge, sink, plunge; trap
+1292　准　JEUN2　approve, allow, permit; in accord
+1293　啊　A3　exclamatory particle
+1294　奪　DYUT6　take by force, rob, snatch
+1295　措　CHOU3　place; collect, arrange; employ
+1296　晶　JING1　crystal; clear, bright; radiant
+1297　柬　GAAN2　letter, invitation; choose
+1298　欲　YUK6　desire, want, long for; intend
+1299　泛　FAAN3　drift, float; careless, reckless
+1300　碰　PUNG3　collide, bump into
+1301　窮　KUNG4　poor, destitute, impoverished
+1302　粗　CHOU1　rough, thick, course; rude
+1303　閉　BAI3　shut, close; obstruct, block up
+1304　儘　JEUN2　utmost
+1305　冒　MOU6　risk, brave, dare
+1306　域　WIK6　district, region, boundary; land
+1307　娘　NEUNG4　mother; young girl; woman; wife
+1308　敏　MAN5　fast, quick, clever, smart
+1309　晨　SAN4　early morning, daybreak
+1310　祖　JOU2　ancestor, forefather;grandfather
+1311　荒　FONG1　wasteland, desert; uncultivated
+1312　衡　HANG4　measure, weigh, judge, consider
+1313　覆　FUK1　cover; tip over; return; reply
+1314　辭　CHI4　words, speech, expression,phrase
+1315　返　FAAN2　return, revert to, restore
+1316　閃　SIM2　flash; avoid, dodge, evade
+1317　填　TIN4　fill in, fill up; make good
+1318　憲　HIN3　constitution, statute, law
+1319　櫃　GWAI6　cupboard, wardrobe, counter
+1320　泡　POU5　bubbles, suds; blister; soak
+1321　津　JEUN1　ferry; saliva; ford
+1322　瓜　GWA1　melon, gourd, cucumber; rad. 97
+1323　陰　YAM1　"female" principle; dark; secret
+1324　飄　PIU1　whirlwind, cyclone; floating
+1325　佈　BOU3　spread, publicize, announce
+1326　援　YUN4 WUN4　aid, assist; lead; cite
+1327　旗　KEI4　banner, flag, streamer
+1328　析　SIK1　split wood; break apart; divide
+1329　累　LEUI6　tired; implicate, involve;bother
+1330　諾　NOK6　promise; assent, approve
+1331　貌　MAAU6　countenance, appearance
+1332　戴　DAAI3　wear on top; support
+1333　抑　YIK1　press down, repress;curb, hinder
+1334　播　BO3　sow, spread; broadcast; case away, reject
+1335　操　CHOU1　conduct, run, control, manage
+1336　擠　JAI1　crowd, squeeze, push against
+1337　槍　CHEUNG1　spear, lance; gun, rifle
+1338　淨　JING6　pure, clean, unsoiled
+1339　稍　SAAU2　little, slightly; rather
+1340　稿　GOU2　draft, manuscript, rough copy
+1341　裂　LIT6　split, crack, break open; rend
+1342　邀　YIU1　invite, welcome; meet, intercept
+1343　彼　BEI2　that, there, those
+1344　怨　YUN3　hatred, enmity, resentment
+1345　憂　YAU1　sad, grieved; grief, melancholy
+1346　拒　KEUI5　ward off with hand, defend
+1347　沖　CHUNG1　pour, infuse, steep; wash away
+1348　狂　KWONG4　insane, mad; violent; wild
+1349　融　YUNG4　melt, fuse; blend, harmonize
+1350　謝　JE6　thank; decline
+1351　讚　JAAN3　praise, commend, eulogize
+1352　伸　SAN1　extend, stretch out, open up; trust
+1353　塵　CHAN4　dust, dirt, ashes, cinders
+1354　姓　SING3　one's family name; clan, people
+1355　寒　HON4　cold, wintry, chilly
+1356　徹　CHIT3　penetrate, pervade; penetrating
+1357　授　SAU6　give to, transmit; confer
+1358　添　TIM1　append, add to; increase
+1359　胸　HUNG1　breast, bosom, chest; thorax
+1360　藉　JIK6　mat, pad; rely on; pretext
+1361　遙　YIU4　far away, distant, remote
+1362　酸　SYUN1　tart, sour; acid; stiff; spoiled
+1363　陪　PUI4　accompany, be with, keep company
+1364　丈　JEUNG6　unit of length equal 3.3 meters; gentleman, man, husband
+1365　仙　SIN1　taoist super-being, transcendent, immortal
+1366　儲　CHYU5　save money, store, reserve; heir
+1367　冰　BING1　ice; ice-cold
+1368　劉　LAU4　surname; kill, destroy
+1369　劍　GIM3　sword, dagger, saber
+1370　厭　YIM3　dislike, detest, reject; satiate
+1371　奶　NAAI5　milk; woman's breasts; nurse
+1372　潤　YEUN6　soft, moist; sleek; freshen
+1373　紹　SIU6　continue, carry on; hand down; to join
+1374　脂　JI1　fat, grease, lard; grease
+1375　醉　JEUI3　intoxicated, drunk; addicted to
+1376　閱　YUT6　examine, inspect, review, read
+1377　震　JAN3　shake, quake, tremor; excite
+1378　劣　LYUT3　bad, inferior; slightly
+1379　勵　LAI6　strive; encourage
+1380　尖　JIM1　sharp, pointed, acute, keen
+1381　悶　MUN6　gloomy, depressed, melancholy
+1382　抹　MAAT3 MUT3　smear, apply, wipe off, erase
+1383　炸　JA3　fry in oil; scald
+1384　焦　JIU1　burned, scorched; anxious, vexed
+1385　爛　LAAN6　rotten, spoiled, decayed
+1386　糊　WU4　paste, stick on with paste
+1387　郵　YAU4　postal, mail; post office
+1388　闊　FUT3　broad, ample, wide; be apart
+1389　雪　SYUT3　snow; wipe away shame, avenge
+1390　債　JAAI3　debt, loan, liabilities
+1391　獎　JEUNG2　prize, reward; give award to
+1392　尾　MEI5　tail, extremity; end, stern
+1393　幽　YAU1　quiet, secluded, tranquil; dark
+1394　延　YIN4　delay, postpone, defer
+1395　斤　GAN1　catty; axe; keen, shrewd; rad 69
+1396　末　MUT6　final, last, end; insignificant
+1397　汗　HON4 HON6　perspiration, sweat
+1398　洞　DUNG6　cave, grotto; ravine; hole
+1399　盈　YING4　fill; full, overflowing; surplus
+1400　秀　SAU3　ear of grain; flowering, luxuriant; refined, elegant, graceful
+1401　籌　CHAU4　chip, tally, token; raise money
+1402　顏　NGAAN4　face, facial appearance
+1403　乃　NAAI5　then; really, indeed; as it turned out, after all; namely
+1404　儀　YI4　ceremony, rites gifts; admire
+1405　吳　NG4　one of warring states; surname
+1406　坦　TAAN2　flat, smooth; self-possessed
+1407　宮　GUNG1　palace, temple, dwelling,enclose
+1408　廈　HA6　big building, mansion
+1409　插　CHAAP3　insert, stick into; plant
+1410　殘　CHAAN4　injure, spoil; oppress; broken
+1411　牽　HIN1　drag, pull, lead by hand
+1412　璃　LEI4　glass
+1413　癌　NGAAM4　cancer; marmoset, hapole jacchus
+1414　眉　MEI4　eyebrows; upper margin of book
+1415　稀　HEI1　rare, unusual, scarce; sparse
+1416　謀　MAU4　plan, scheme; strategem
+1417　豪　HOU4　brave, heroic, chivalrous
+1418　違　WAI4　disobey, violate, defy; be apart
+1419　鮑　BAAU6　abalone; dried fish; surname
+1420　偽　NGAI6　false, counterfeit, bogus
+1421　奈　NOI6　but, how; bear, stand, endure
+1422　奮　FAN5　strive, exert effort; arouse
+1423　欠　HIM3　owe, lack, be deficient; rad. 76
+1424　毒　DUK6　poison, venom; poisonous
+1425　池　CHI4　pool, pond; moat; cistern
+1426　湧　YUNG2　well up; gush forth; rise
+1427　疏　SO1　neglect; careless, lax
+1428　絡　LOK3　enmesh, wrap around; web, net
+1429　聖　SING3　holy, sacred; sage
+1430　袖　JAU6　sleeve; put something in sleeve
+1431　褲　FU3　trousers, pants
+1432　貪　TAAM1　greedy, covet; covetous
+1433　遭　JOU1　come across, meet with,encounter
+1434　仁　YAN4　humaneness, benevolence, kindness
+1435　兼　GIM1　unite, combine; connect; and
+1436　劑　JAI1　medicinal preparation
+1437　勇　YUNG6　brave, courageous, fierce
+1438　嬰　YING1　baby, infant; bother
+1439　曉　HIU2　dawn, daybreak; clear, explicit
+1440　獄　YUK6　prison, jail; case ; lawsuit
+1441　珍　JAN1　precious, valuable, rare
+1442　緒　SEUI5　end of thread; thread
+1443　齡　LING4　age; years
+1444　哲　JIT3　wise, sagacious; wise man, sage
+1445　妥　TO5　satisfactory, appropriate
+1446　慕　MOU6　long for, desire; admire
+1447　慰　WAI3　comfort, console, calm
+1448　扣　KAU3　knock, strike, rap, tap; button
+1449　搶　CHEUNG2　plunder, rob, take by force
+1450　敦　DEUI6 DEUN1　esteem; honest, candid, sincere
+1451　沿　YUN4　follow course, go along
+1452　猶　YAU4　like, similar to, just like, as
+1453　網　MONG5　net, web; network
+1454　蕩　DONG6　pond, pool; wash away, cleanse
+1455　賴　LAAI6　rely, depend on; accuse falsely
+1456　遷　CHIN1　move, shift, change; transfer
+1457　鞋　HAAI4　shoes, footwear in general
+1458　鼻　BEI6　nose; first; radical no. 209
+1459　仰　YEUNG5　raise the head to look; look up to, rely on, admire
+1460　刀　DOU1　knife; old coin; measure
+1461　埋　MAAI4　bury, secrete, conceal
+1462　壯　JONG3　big, large; robust;name of tribe
+1463　怒　NOU6　anger, rage, passion; angry
+1464　惱　NOU5　angered, filled with hate
+1465　搭　DAAP3　join together, attach to; add to
+1466　縱　JUNG3　indulge in, give free reign to
+1467　艷　YIM6　beautiful, sexy, voluptuous
+1468　魂　WAN4　soul, spirit
+1469　側　JAK1　side; incline, slant, lean
+1470　冊　CHAAK3　book, volume
+1471　吐　TOU3　vomit, spew out, cough up
+1472　壁　BIK1　partition wall; walls of house
+1473　妨　FONG4　interfere with, impede, obstruct
+1474　峰　FUNG1　peak, summit; hump of camel
+1475　廚　CHEUI4 CHYU4　kitchen; closet; cupboard
+1476　彤　TUNG4　red, vermilion; name of ancient
+1477　恩　YAN1　kindness, mercy, charity
+1478　拾　SAP6　pick up, collect, tidy up; ten
+1479　椅　YI2　chair, seat
+1480　殖　JIK6　breed, spawn; increase; prosper
+1481　玻　BO1　glass
+1482　纏　CHIN4　wrap, wind around; tie, bind
+1483　肚　TOU5　belly; abdomen; bowels
+1484　蒙　MUNG4　cover; ignorant;suffer; mongolia
+1485　貧　PAN4　poor, impoverished, needy
+1486　輛　LEUNG2　numerary adjunct for vehicles
+1487　駛　SAI2　sail, drive, pilot; fast, quick
+1488　唔　M4 NG4　hold in mouth; bite
+1489　培　PUI4　bank up with dirt; cultivate
+1490　宇　YU5　house; building, structure;eaves
+1491　巳　JI6　sixth of twelve branches; the hours from 9 to 11
+1492　　DIU2　to fuck (cantonese); slang
+1493　慘　CHAAM2　sad, pitiful, wretched; cruel
+1494　托　TOK3　hold up with palm; support; rely
+1495　瓶　PING4　jug, pitcher, vase, jar, bottle
+1496　療　LIU4　be healed, cured, recover
+1497　糖　TONG2 TONG4　sugar; candy; sweets
+1498　肩　GIN1　shoulders; to shoulder; bear
+1499　誌　JI3　write down; record; magazine
+1500　豈　HEI2　how? what?
+1501　駕　GA3　drive, sail, fly; cart, carriage
+1502　魯　LOU5　foolish, stupid, rash; vulgar
+1503　鳥　NIU5　bird; radical no. 196
+1504　剩　SING6　leftovers, residue, remains
+1505　匈　HUNG1　breast, chest, thorax; clamor; the hsiung nu "huns"
+1506　卓　CHEUK3　profound, brilliant, lofty
+1507　嚇　HAAK3　scare, frighten; intimidate
+1508　垂　SEUI4　let down; suspend, hand; down
+1509　忌　GEI6　jealous, envious; fear
+1510　愁　SAU4　anxiety; worry about, be anxious
+1511　拜　BAAI3　do obeisance, bow, kowtow
+1512　搬　BUN1　transfer, move, remove, shift
+1513　敵　DIK6　enemy, foe, rival; resist
+1514　滑　WAAT6　slip, slide; slippery, polished
+1515　礙　NGOI6　obstruct, hinder, block, deter
+1516　腰　YIU1　waist; kidney
+1517　跡　JIK1　search, track, trace
+1518　踢　TEK3　kick
+1519　酬　CHAU4　toast; reward, recompense
+1520　伏　FUK6　crouch, crawl, lie hidden, conceal
+1521　併　BING3　combine, annex
+1522　倦　GYUN6　be tired of, weary
+1523　匆　CHUNG1　hastily, in haste, hurriedly
+1524　娛　YU4　pleasure, enjoyment, amusement
+1525　搏　BOK3　seize; spring upon; strike
+1526　淺　CHIN2　shallow, not deep; superficial
+1527　潔　GIT3　clean, purify, pure
+1528　烏　WU1　crow, rook, raven; black, dark
+1529　獻　HIN3　offer, present; show, display
+1530　腿　TEUI2　legs, thighs
+1531　衫　SAM1　shirt; robe; gown; jacket
+1532　覽　LAAM5　look at, inspect; perceive
+1533　註　JYU3　explain; annotate; make entry
+1534　誕　DAAN3　bear children, give birth; birth
+1535　貸　TAAI3　lend; borrow; pardon
+1536　逃　TOU4　escape, flee; abscond, dodge
+1537　隆　LUNG4　prosperous, plentiful, abundant
+1538　串　CHYUN3　string; relatives; conspire
+1539　兄　HING1　elder brother
+1540　呵　HO1　scold; laughing sound; yawn
+1541　唉　AAI1　alas
+1542　嘛　MA4　final exclamatory particle
+1543　廊　LONG4　corridor, porch, veranda
+1544　敬　GING3　respect, honor; respectfully
+1545　毀　WAI2　destroy, ruin, injure; slander
+1546　猛　MAANG5　violent, savage, cruel; bold
+1547　磨　MO4　grind; polish; rub; wear out
+1548　谷　GUK1　valley, gorge, ravine
+1549　頻　PAN4　frequently, again and again
+1550　冠　GUN1 GUN3　cap, crown, headgear
+1551　卷　GYUN3　scroll; curl; make a comeback
+1552　塗　TOU4　smear, daub, apply, spread;paint
+1553　徐　CHEUI4　slowly, quietly, calmly; composed, dignified
+1554　抓　JAAU2　scratch; clutch, seize, grab
+1555　溝　KAU1　ditch, drain, narrow waterway
+1556　箱　SEUNG1　case, box, chest, trunk
+1557　詳　CHEUNG4　detailed, complete, thorough
+1558　輯　CHAP1　gather up, collect; edit,compile
+1559　飽　BAAU2　eat heartily; eat one's fill
+1560　侵　CHAM1　invade, encroach upon, raid
+1561　削　SEUK3　scrape off, pare, trim
+1562　勁　GING6　strong, unyielding, tough, power
+1563　嘆　TAAN3　sigh, admire
+1564　孫　SYUN1　grandchild, descendent; surname
+1565　寞　MOK6　silent, still, lonely, solitary
+1566　懶　LAAN5　lazy, languid, listless
+1567　戒　GAAI3　warn, caution, admonish
+1568　振　JAN3　raise, excite, arouse action
+1569　掩　YIM2　cover; shut, conceal; ambush
+1570　捨　SE2　discard, give up willingly; give alms
+1571　搜　SAU2　search, seek; investigate
+1572　朱　JYU1　cinnabar, vermilion; surname
+1573　滅　MIT6　extinguish; wipe out,exterminate
+1574　澤　JAAK6　marsh, swamp; grace, brilliance
+1575　胞　BAAU1　womb, placenta, fetal membrane
+1576　逼　BIK1　compel, pressure, force; bother
+1577　邦　BONG1　nation, country, state
+1578　鄭　JENG6　state in today's henan; surname
+1579　采　CHOI2　collect, gather; pick, pluck
+1580　鋪　POU3　spread out, arrange; shop, store; place to sleep, bed
+1581　亭　TING4　pavilion; erect
+1582　嘩　WA1 WA4　rushing sound; gush forward
+1583　墨　MAK6　ink; writing
+1584　壇　TAAN4　altar; arena, examination hall
+1585　惑　WAAK6　confuse, mislead, baffle; doubt
+1586　暖　NYUN5　warm, genial
+1587　浸　JAM3　soak, immerse, dip, percolate
+1588　炎　YIM4　flame, blaze; hot
+1589　脈　MAK6　blood vessels, veins, arteries
+1590　臭　CHAU3　smell, stink, emit foul odor
+1591　蒸　JING1　steam; evaporate
+1592　贊　JAAN3　help, support, assist, aid
+1593　躍　YEUK3　skip, jump, frolic
+1594　輩　BUI3　generation, lifetime; class
+1595　鄰　LEUN4　neighbor; neighborhood; neighbor
+1596　佩　PUI3　belt ornament, pendant; wear at waist, tie to the belt; respect
+1597　僱　GU3　employ, hire
+1598　凝　YING4　coagulate; congeal; freeze
+1599　召　JIU6　imperial decree; summon
+1600　妝　JONG1　adorn oneself, dress up, use mak
+1601　嫌　YIM4　hate, detest; suspect; criticize
+1602　巡　CHEUN4　patrol, go on circuit, cruise
+1603　廉　LIM4　upright, honorable, honest
+1604　昂　NGONG4　rise, raise; proud, bold;upright
+1605　暑　SYU2　hot
+1606　朵　DO2　cluster of flowers; earlobe
+1607　礎　CHO2　foundation stone, plinth
+1608　耶　YE4　used in transliteration
+1609　艇　TENG5　small boat, dugout, punt
+1610　貓　MAAU1　cat
+1611　鈾　YAU4　uranium
+1612　屯　JEUN1 TYUN4　village, hamlet; camp; station
+1613　扎　JAAT3　pull up; pierce; struggle free
+1614　捉　JUK1　grasp, clutch; catch, seize
+1615　挺　TING2 TING5　stand upright, straighten; rigid
+1616　描　MIU4　copy, trace, sketch; depict
+1617　梯　TAI1　ladder, steps, stairs; lean
+1618　烹　PAANG1　boil, cook; quick fry, stir fry
+1619　症　JING3　disease, illness, ailment
+1620　痕　HAN4　scar; mark; trace
+1621　籠　LUNG4　cage; cage-like basket
+1622　貢　GUNG3　offer tribute; tribute, gifts
+1623　迴　WUI4　revolve, rotate; curving, zigzag
+1624　割　GOT3　cut, divide, partition; cede
+1625　哀　OI1　sad, mournful, pitiful; pity
+1626　廢　FAI3　abrogate, terminate, discard
+1627　慧　WAI6　bright, intelligent;intelligence
+1628　捧　PUNG2　hold up in two hands
+1629　斜　CHE4　slanting, sloping, inclined
+1630　災　JOI1　calamity, disaster, catastrophe
+1631　苗　MIU4　sprouts; miao nationality
+1632　茫　MONG4　vast, boundless, widespread
+1633　貫　GUN3　string of 1000 coins; go through
+1634　趙　JIU6　surname; ancient state
+1635　雷　LEUI4　thunder
+1636　顆　FO2　grain, kernel
+1637　騙　PIN3　swindle, cheat out of, defraud
+1638　云　WAN4　say, speak; clouds
+1639　呆　NGOI4　dull; dull-minded, simple,stupid
+1640　尺　CHEK3　chinese measure approx. "foot"
+1641　您　NEI5　honorific for "you"
+1642　惠　WAI6　favor, benefit, confer kindness
+1643　憤　FAN5　resent, hate; indignant
+1644　扇　SIN3　fan; door panel
+1645　擾　YIU2　disturb, annoy, agitate
+1646　森　SAM1　forest; luxuriant vegetation
+1647　泉　CHYUN4　spring, fountain; wealth, money
+1648　洩　SIT3　leak, drip; vent or release
+1649　滾　GWAN2　turn, roll, rotate; boil
+1650　痰　TAAM4　phlegm, mucus, spittle
+1651　癡　CHI1　silly, foolish, idiotic
+1652　笨　BAN6　foolish, stupid, dull; awkward
+1653　縫　FUNG4　sew, mend
+1654　艱　GAN1　difficult, hard; distressing
+1655　鎮　JAN3　town, market place; suppress
+1656　鑑　GAAM3　mirror, looking glass; reflect
+1657　霧　MOU6　fog, mist, vapor, fine spray
+1658　堪　HAM1　adequately capable of, worthy of
+1659　掃　SOU3 SOU2　sweep, clear away; exterminate
+1660　攻　GUNG1　attack, assault; criticize
+1661　旋　SYUN4　revolve, move in orbit; return
+1662　暢　CHEUNG3　smoothly, freely, unrestrained
+1663　毋　MOU4　do not; not; surname; rad. 80
+1664　滴　DIK6　drip; drop of water
+1665　秩　DIT6　order; orderly; salary; decade
+1666　箭　JIN3　arrow; type of bamboo
+1667　繪　KUI1　draw, sketch, paint
+1668　罰　FAT6　penalty, fine; punish, penalize
+1669　舖　POU3　store, shop
+1670　週　JAU1　week; turn, cycle; anniversary
+1671　醜　CHAU2　ugly looking, homely;disgraceful
+1672　佛　FAT6　buddha (contraction of mc bhi�tdha )
+1673　傘　SAAN3　umbrella, parasol, parachute
+1674　催　CHEUI1　press, urge
+1675　厲　LAI6　whetstone; grind, sharpen; whet
+1676　吊　DIU3　condole, mourn, pity; hang
+1677　喊　HAAM3　shout, call out, yell; howl; cry
+1678　截　JIT6　cut off, stop, obstruct, interce
+1679　梁　LEUNG4　bridge; beam; rafters; surname
+1680　漠　MOK6　desert; aloof, indifferent, cool
+1681　疊　DIP6　repeat, duplicate; repititious
+1682　繞　YIU5　entwine; wind around; surround
+1683　聘　PING3　engage, employ; betroth
+1684　譬　PEI3　metaphor, simile, example
+1685　豆　DAU2 DAU6　beans, peas; bean-shaped
+1686　貝　BUI3　sea shell; money, currency
+1687　逝　SAI6　pass away; die
+1688　餅　BING2　rice-cakes, biscuits
+1689　鬱　WAT1　luxuriant; dense, thick; moody
+1690　丁　DING1　male adult; robust, vigorous;4th heaven stem;
+1691　嘉　GA1　excellent; joyful; auspicious
+1692　崇　SUNG4　esteem, honor, revere, venerate
+1693　憐　LIN4　pity, sympathize
+1694　拔　BAT6　uproot, pull out
+1695　拼　PING3　join together, link, incorporate
+1696　捕　BOU6　arrest, catch, seize
+1697　撫　FU2　pat, console, comfort; pacify
+1698　氛　FAN1　gas, vapor, air
+1699　淋　LAM4　drip, soak, drench; perfectly
+1700　蒼　CHONG1　blue; green
+1701　賀　HO6　congratulate; send present
+1702　蹈　DOU6　stamp feet; dance
+1703　黎　LAI4　surname; numerous, many; black
+1704　侶　LEUI5　companion; associate with
+1705　凌　LING4　pure; virtuous; insult; maltreat
+1706　勤　KAN4　industrious, diligent, attentive
+1707　咕　GU1　mumble, mutter, murmur; rumble
+1708　奉　FUNG6　offer; receive; serve; respect
+1709　奔　BAN1　run fast, flee; rush about; run
+1710　宿　SUK1　stop, rest, lodge,stay overnight; constellation
+1711　慶　HING3　congratulate, celebrate
+1712　拋　PAAU1　throw (away), abandon, reject
+1713　杜　DOU6　stop, prevent; restrict; surname
+1714　泊　BOK6　anchor vessel; lie at anchor
+1715　漲　JEUNG3　rise in price
+1716　灘　TAAN1　bank,a sandbar, shoal; rapids
+1717　燃　YIN6　burn; light fire, ignite
+1718　紗　SA1　gauze, thin silk; yarn, thread
+1719　蓄　CHUK1　store, save, hoard, gather
+1720　衰　SEUI1　decline, falter, decrease;weaken
+1721　唇　SEUN4　lips
+1722　喪　SONG1 SONG3　mourning; mourn; funeral
+1723　抬　TOI4　lift, carry
+1724　撞　JONG6　knock against, bump into,collide
+1725　斑　BAAN1　mottled, striped, frecle
+1726　液　YIK6　sap, juice, liquid, fluid
+1727　涯　NGAAI4　shore, bank, water's edge
+1728　炒　CHAAU2　fry, saute, roast, boil, cook
+1729　爬　PA4　crawl, creep; climb; scramble
+1730　瓦　NGA5　tile; earthenware pottery; girl
+1731　甲　GAAP3　armor, shell; fingernails; first
+1732　疫　YIK6　epidemic, plague, pestilence
+1733　矣　YI5　particle of completed action
+1734　紋　MAN4　line, streak, stripe; wrinkle
+1735　緻　JI3　delicate, fine; dense
+1736　耗　HOU3　consume, use up; waste, squander
+1737　聊　LIU4　somewhat, slightly, at least
+1738　肅　SUK1　pay respects; reverently
+1739　虎　FU2　tiger; brave, fierce; surname
+1740　襲　JAAP6　raid, attack; inherit
+1741　輔　FU6　cheek bone; protective; assist
+1742　郎　LONG4　gentleman, young man; husband
+1743　鋼　GONG1 GONG3　steel; hard, strong, tough
+1744　驕　GIU1　spirited horse; haughty
+1745　傑　GIT6　hero; outstanding, remarkable
+1746　勃　BUT6　suddenly, sudden, quick
+1747　吞　TAN1　swallow; absorb, annex, engulf
+1748　呈　CHING4　submit, show; appear; petition
+1749　咬　NGAAU5　bite, gnaw
+1750　孕　YAN6　be pregnant, pregnancy
+1751　忠　JUNG1　loyalty, devotion, fidelity
+1752　恰　HAP1　just, exactly, precisely; proper
+1753　悅　YUT6　pleased
+1754　拘　KEUI1　restrain, seize, detain
+1755　捲　GYUN2　curl, roll up; curly, rolled up
+1756　撲　POK3　pound, beat, strike; attack
+1757　枚　MUI4　stalk of shrub, trunk of tree
+1758　棵　FO2　numerary adjunct for trees
+1759　樁　JONG1　stake, post; affair, matter
+1760　漏　LAU6　leak, drip; funnel; hour glass
+1761　灼　JEUK3　burn; broil; cauterize; bright
+1762　虧　KWAI1　lose, fail; damage; deficient
+1763　裙　KWAN4　skirt, apron, petticoat
+1764　譽　YU6　fame, reputation; praise
+1765　赴　FU6　go to; attend, be present
+1766　迅　SEUN3　quick, hasty, rapid, sudden
+1767　遞　DAI6　hand over, deliver; substitute
+1768　鉛　YUN4　lead plumbum
+1769　鈴　LING4　bell
+1770　錦　GAM2　brocade, tapestry; embroidered
+1771　夕　JIK6　evening, night, dusk; slanted
+1772　嫂　SOU2　sister-in-law, elder brother's wife
+1773　宵　SIU1　night, evening, dark
+1774　屈　WAT1　bend, flex; bent, crooked;crouch
+1775　惟　WAI4　but, however, nevertheless; only
+1776　慾　YUK6　lust, desire, passion;appetite
+1777　抖　DAU2　tremble, shake, rouse;give shake
+1778　披　PEI1　wear; split; crack
+1779　掙　JANG1　strive, endeavor, struggle
+1780　揭　KIT3　raise, lift up; surname
+1781　撒　SAAT3　release, cast away, let go; disperse; relax;
+1782　柏　PAAK3　cypress, cedar
+1783　桂　GWAI3　cassia or cinnamon
+1784　浴　YUK6　bathe, wash; bath
+1785　濤　TOU4　large waves
+1786　繫　HAI6　attach, connect, unite, fasten
+1787　蔬　SO1　vegetables, greens
+1788　賦　FU3　tax; give; endow; army; diffuse
+1789　逢　FUNG4　come upon, happen meet; flatter
+1790　陶　TOU4　pottery, ceramics
+1791　償　SEUNG4　repay, recompense; restitution
+1792　剪　JIN2　scissors; cut, divide, separate
+1793　宅　JAAK6　residence, dwelling, home; grave
+1794　寸　CHYUN3　inch; small, tiny; rad. no. 41
+1795　尿　NIU6　urine; urinate
+1796　帳　JEUNG3　tent; screen, mosquito net
+1797　彎　WAAN1　bend, curve
+1798　怡　YI4　harmony; pleasure, joy; be glad
+1799　愚　YU4　stupid, doltish, foolish
+1800　松　CHUNG4　pine tree; fir tree
+1801　牢　LOU4　prison; stable, pen; secure
+1802　盆　PUN4　basin, tub, pot, bowl
+1803　盒　HAP6　small box or case; casket
+1804　盪　DONG6　to toss about; to swing; to rock
+1805　瞪　DANG6　stare at
+1806　窩　WO1　nest; cave, den; hiding place
+1807　肪　FONG1　animal fat
+1808　袍　POU4　long gown, robe, cloak
+1809　襯　CHAN3　underwear; inner garments
+1810　賄　FUI2　bribe; bribes; riches, wealth
+1811　鋒　FUNG1　point of spear, sharp point
+1812　閣　GOK3　chamber, pavilion; cabinet
+1813　顫　JIN3　shiver, tremble; trembling
+1814　餓　NGO6　be hungry; be greedy for; hunger
+1815　麵　MIN6　flour, dough, noodles
+1816　伐　FAT6　cut down, subjugate, attack
+1817　勉　MIN5　endeavor, make effort; urge
+1818　勿　MAT6　must not, do not; without, never
+1819　叔　SUK1　father's younger brother
+1820　咀　JEUI2　suck; chew, masticate
+1821　埔　BOU3　plain, arena; port, market
+1822　嫁　GA3　marry; give daughter in marriage
+1823　巾　GAN1　kerchief; towel; turban; rad. 50
+1824　惹　YE5　irritate, vex, offend, incite
+1825　擦　CHAAT3　wipe, scrub, rub, scour; brush
+1826　汁　JAP1　juice, liquor, fluid, sap, gravy
+1827　沾　JIM1　moisten, wet, soak; touch
+1828　溜　LAU6　slide, glide, slip; slippery
+1829　漆　CHAT1　varnish, lacquer, paint
+1830　漁　YU4　to fish; seize; pursue; surname
+1831　聰　CHUNG1　intelligent, clever, bright
+1832　脅　HIP3　ribs; armpits; flank; threaten
+1833　膝　SAT1　knee
+1834　荷　HO4　lotus, water lily, holland
+1835　蕭　SIU1　common artemisia; soughing of wind > mournful; dejected
+1836　躺　TONG2　lie down, recline
+1837　鍵　GIN6　door bolt, lock bolt; key
+1838　霸　BA3　rule by might rather than right
+1839　俱　KEUI1　all, together; accompany
+1840　刑　YING4　punishment, penalty; law
+1841　勸　HYUN3　recommend, advise, urge
+1842　吵　CHAAU2　argue, dispute; disturb, annoy
+1843　喉　HAU4　throat, gullet, larynx; gutteral
+1844　循　CHEUN4　obey, comply with, follow
+1845　愉　YU4　pleasant, delightful; please
+1846　捱　NGAAI4　put off, procrastinate; endure
+1847　摩　MO1　rub, scour, grind; friction
+1848　敲　HAAU1　strike, beat, pound, hammer; rap
+1849　柯　O1　axe-handle; stalk, bough;surname
+1850　爐　LOU4　fireplace, stove, oven, furnace
+1851　牲　SAANG1　sacrificial animal; animal
+1852　狠　HAN2　vicious, cruel; severely,extreme
+1853　疾　JAT6　illness, disease, sickness; hate
+1854　瘋　FUNG1　crazy, insane, mentally ill
+1855　皺　JAU3　wrinkles, creases, folds
+1856　祝　JUK1　pray for happiness or blessings
+1857　禍　WO6　misfortune, calamity, disaster
+1858　稻　DOU6　rice growing in field,rice plant
+1859　籲　YU6　appeal; request; implore
+1860　翠　CHUI3　color green; kingfisher
+1861　胃　WAI6　stomach; gizzard of fowl
+1862　腐　FU6　rot, decay, spoil; rotten
+1863　蝕　SIK6　nibble away; erode; eclipse
+1864　赫　HAAK1　bright, radiant, glowing
+1865　蹤　JUNG1　footprints, traces, tracks
+1866　鑽　JYUN1　drill, bore; pierce; diamond
+1867　韻　WAN6　rhyme; vowel
+1868　丹　DAAN1　cinnabar (native hgs); vermilion (artificial hgs used as pigment);
+1869　乖　GWAAI1　rebel; crafty, shrewd
+1870　叢　CHUNG4　bush, shrub; thicket; collection
+1871　吟　YAM4　sing, hum; recite;type of poetry
+1872　埃　OI1　fine dust, dirt
+1873　塑　SOU3　model in clay, sculpt; plastics
+1874　廟　MIU6　temple, shrine; imperial court
+1875　扭　NAU2　turn, twist, wrench; seize,grasp
+1876　拆　CHAAK3　break up, split apart, rip open
+1877　捷　JIT6　win, victory, triumph
+1878　撤　CHIT3　omit; remove; withdraw
+1879　枯　FU1　dried out, withered, decayed
+1880　榕　YUNG4　banyan tree
+1881　歧　KEI4　fork of road; branching off
+1882　洪　HUNG4　vast, immense; flood, deluge
+1883　泰　TAAI3　great, exaulted, superior; big
+1884　漂　PIU1 PIU3　float, drift; tossed about
+1885　滲　SAM3　soak through, infiltrate
+1886　爸　BA1　father, papa
+1887　猜　CHAAI1　guess, conjecture, suppose; feel
+1888　眠　MIN4　close eyes, sleep; hibernate
+1889　祥　YEUNG4　good luck, good omen; happiness
+1890　筋　GAN1　muscles; tendons
+1891　紐　NAU2　knot; button; handle, knob; tie
+1892　綿　MIN4　cotton wad; wool; soft, downy
+1893　罕　HON2　rare, scarce; surname
+1894　趁　CHAN3　take advantage of, avail oneself
+1895　躲　DO2　hide, secrete; avoid, escape
+1896　辨　BIN6　distinguish, discriminate
+1897　逸　YAT6　flee, escape, break loose
+1898　釣　DIU3　fish; fishhook; tempt, lure
+1899　駁　BOK3　varicolored, variegated; mixed; contradict, argue; suddenly
+1900　魔　MO1　demon, evil spirits; magic power
+1901　乳　YU5　breast, nipples; milk, suckle
+1902　伙　FO2　companion, colleague; utensils
+1903　倘　TONG2 SEUNG4　if, supposing, in event of
+1904　傻　SO4　foolish, silly, stupid; imbecile
+1905　允　WAN5　to grant, to allow, to consent
+1906　厘　LEI4　thousandth part of tael
+1907　妳　NEI5　you (f.)
+1908　巿　SI5　revolve, make circuit, turn
+1909　庫　FU3　armory, treasury, storehouse
+1910　悄　CHIU2　silent, quiet, still; anxious
+1911　棉　MIN4　cotton; cotton padded
+1912　欺　HEI1　cheat, doublecross, deceive
+1913　欽　YAM1　respect, admire; respectful
+1914　涵　HAAM4　soak, wet; tolerate, be lenient
+1915　湯　TONG1　hot water; soup, gravy, broth
+1916　渴　HOT3　thirsty, parched; yearn, pine
+1917　秒　MIU5　beard of grain or corn; a second
+1918　窄　JAAK3　narrow, tight; narrow-minded
+1919　胖　BUN6　fat, obese; fatty
+1920　腸　CHEUNG4　intestines; emotions; sausage
+1921　舍　SE3 SE5　house, dwelling; dwell, reside
+1922　芳　FONG1　fragrant; virtuous; beautiful
+1923　蟲　CHUNG4　worms; insects
+1924　譯　YIK6　translate; decode; encode
+1925　賬　JEUNG3　accounts; bill, debt; credit
+1926　賢　YIN4　virtuous, worthy, good; able
+1927　跨　KWA3　straddle, bestride, ride; carry
+1928　踐　CHIN5　trample, tread upon, walk on
+1929　騷　SOU1　harass, bother, annoy, disturb, agitate; sad, grieved
+1930　驟　JAAU6　procedure; gallop; sudden(ly)
+1931　俊　JEUN3　talented, capable; handsome
+1932　倆　LEUNG5　clever, skilled; two, pair
+1933　兮　HAI4　exclamatory particle
+1934　剎　SAAT3　temple
+1935　唸　NIM6　recite, read, chant
+1936　嗚　WU1　sound of crying, sobbing
+1937　堡　BOU2　fort, fortress; town, village
+1938　墊　DIN6　advance money, pay for another
+1939　夥　FO2　companion; partner; assistant
+1940　奢　CHE1 SE1　extravagant, wasteful; exaggerate
+1941　娃　WA1　baby; doll; pretty girl
+1942　娜　NO5　elegant, graceful, delicate
+1943　宋　SUNG3　song dynasty; surname
+1944　庸　YUNG4　usual, common, ordinary,mediocre
+1945　征　JING1　invade, attack, conquer
+1946　慨　KOI3　sigh, regret; generous
+1947　慌　FONG1　nervous, panicky, frantic
+1948　淪　LEUN4　be lost; sink, be submerged
+1949　爽　SONG2　happy, cheerful; refreshing
+1950　皿　MING5　shallow container; rad. no. 108
+1951　盲　MAANG4　blind; unperceptive,shortsighted
+1952　綜　JUNG3　arrange threads for weaving
+1953　翼　YIK6　wings; fins on fish; shelter
+1954　董　DUNG2　direct, supervise; surname
+1955　逛　KWAANG3　ramble, stroll, roam, wander
+1956　郝　KOK3　surname; place in today's shanxi
+1957　雀　JEUK3　sparrow
+1958　靚　JING6 LENG3　make up face; ornament; quiet
+1959　頁　YIP6　page, sheet, leaf; rad. no. 181
+1960　頸　GENG2　neck, throat
+1961　鴨　AAP3 NGAAP3　duck
+1962　龐　PONG4　disorderly, messy; huge, big
+1963　伍　NG5　five, company of five; troops
+1964　倚　YI2　rely on, depend on; lean heavily
+1965　倡　CHEUNG1　guide, leader; lead, introduce
+1966　叛　BUN6　rebel; rebellion; rebellious
+1967　吻　MAN5　kiss; the lips; coinciding
+1968　塔　TAAP3　tower, spire, tall building
+1969　帽　MOU6　hat, cap; cap-like tops
+1970　廁　CHI3　toilet, lavatory; mingle with
+1971　恢　FUI1　restore;big, great, immense,vast
+1972　悔　FUI3　repent, show remorse, regret
+1973　慎　SAN6　act with care, be cautious
+1974　懸　YUN4　hang, suspend, hoist; be hung
+1975　抄　CHAAU1　copy, confiscate, seize
+1976　摘　JAAK6　pluck, pick; select; specify
+1977　撐　CHAANG1　prop up, support; brace
+1978　殼　HOK3　casing, shell, husk, hull, skin
+1979　漿　JEUNG1　any thick fluid; starch; broth
+1980　濫　LAAM6　flood, overflow; excessive
+1981　灑　SA2　sprinkle, splash; scatter, throw
+1982　瘦　SAU3　thin, emaciated, lean; meager
+1983　盼　PAAN3　look, gaze; expect, hope for
+1984　簾　LIM4　a blind, screen, curtain
+1985　莊　JONG1　village, hamlet; villa; surname
+1986　衷　CHUNG1　heart,from bottom of one's heart
+1987　諒　LEUNG6　excuse, forgive; guess, presume
+1988　遮　JE1　cover, shield, protect
+1989　鍾　JUNG1　cup, glass, goblet; surname
+1990　鼎　DING2　large, three-legged bronze caldr
+1991　齣　CHEUT1　act; stanza; time, occasion
+1992　丟　DIU1 DIU6　discard, reject, lose
+1993　僚　LIU4　companion, colleague; officals; bureauucracy; a pretty face
+1994　咳　KAT1　cough
+1995　啣　HAAM4　hold in mouth; harbor, cherish
+1996　喚　WUN6　call, summon; invite; be called
+1997　堤　TAI4　dike
+1998　墓　MOU6　grave, tomb
+1999　寡　GWA2　widowed; alone, friendless
+2000　崖　NGAI4　cliff, precipice; precipitous
+2001　彌　MEI4 NEI4　extensive, full; fill; complete
+2002　悟　NG6　apprehend, realize, become aware
+2003　扯　CHE2　rip up, tear down; raise; haul
+2004　掀　HIN1　lift, raise; stir
+2005　摺　JIP3　fold, bend; twisted, curved
+2006　擱　GOK3　place, put, lay down; delay
+2007　攀　PAAN1　climb; pull; hang on to
+2008　攤　TAAN1　spread out, open; apportion
+2009　旨　JI2　purpose, aim; excellent
+2010　晃　FONG2　bright, dazzling; to sway, shake
+2011　曼　MAAN6　long, extended, vast; beautiful
+2012　枕　JAM2　pillow
+2013　瑰　GWAI3　extraordinary, fabulous; rose
+2014　瞧　CHIU4　glance at, look at, see
+2015　筒　TUNG2 TUNG4　thick piece of bamboo; pipe
+2016　糧　LEUNG4　food, grain, provisions
+2017　纖　CHIM1　fine, delicate; minute; graceful
+2018　臂　BEI3　arm
+2019　舌　SIT6　tongue; clapper of bell; rad 135
+2020　豬　JYU1　pig, hog
+2021　蹲　CHYUN4 DEUN1　squat, crouch; idle about
+2022　軒　HIN1　carriage; high; wide; balcony; surname of the yellow emperor
+2023　轟　GWANG1　rumble, explosion, blast
+2024　逆　YIK6　disobey, rebel; rebel, traitor
+2025　鈽　BOU3　plutonium
+2026　鎖　SO2　lock, padlock; shackles, chains
+2027　陌　MAK6　foot path between rice fields
+2028　隧　SEUI6　tunnel, underground passageway, path to a tomb
+2029　駐　JYU3　to be stationed at; stop; reside
+2030　齒　CHI2　teeth; gears, cogs; age; rad 211
+2031　劫　GIP3　take by force, coerce; disaster
+2032　勾　NGAU1　hook, join, connect; entice
+2033　卸　SE3　lay down; retire from office
+2034　囉　LO1 LO6　exclamatory final particle, nag
+2035　嬸　SAM2　wife of father's younger brother
+2036　川　CHYUN1　stream, river; flow; boil
+2037　懼　GEUI6　fear, be afraid of, dread
+2038　扶　FU4　support, help; protect; hold on
+2039　押　AAT3　mortgage, pledge; deposit; pawn
+2040　擬　YI5　draft; intend, plan, propose
+2041　株　JYU1　numerary adjunct for trees; root
+2042　沫　MUT3　froth, foam, bubbles, suds
+2043　溪　KAI1　mountain stream, creek
+2044　玫　MUI4　rose
+2045　睿　YEUI6　shrewd, astute, clever, keen
+2046　羞　SAU1　disgrace, shame; ashamed; shy
+2047　耕　GANG1　plow, cultivate
+2048　膀　PONG4　upper arm; shoulder; wing
+2049　葬　JONG3　bury, inter
+2050　証　JING3　prove, confirm, verify; proof
+2051　遂　SEUI6　comply with, follow along; thereupon
+2052　醇　SEUN4　rich, good as wine; pure, unmixe
+2053　銜　HAAM4　bit; hold in mouth, bite; gag
+2054　闆　BAAN2　boss,the owner, person in charge
+2055　驅　KEUI1　spur horse on; expel, drive away
+2056　鳴　MING4　cry of bird or animal;make sound
+2057　鼠　SYU2　rat, mouse; radical no. 208
+2058　伶　LING4　lonely, solitary; actor
+2059　傲　NGOU6　proud, haughty, overbearing
+2060　券　HYUN3　certificate, ticket; title deeds
+2061　匪　FEI2　bandits, robbers, gangsters
+2062　囚　CHAU4　prisoner, convict; confine
+2063　壽　SAU6　old age, long life; lifespan
+2064　奕　YIK6　in sequence, orderly; abundant
+2065　妄　MONG5　absurd, foolish, reckless; false
+2066　恤　SEUT1　show pity; relieve, help
+2067　捐　GYUN1　contribute; give up, renounce
+2068　攜　KWAI4　lead by hand, take with; carry
+2069　柄　BENG3 BING3　handle, lever, knob; authority
+2070　柴　CHAAI4　firewood, faggats, fuel
+2071　棋　KEI4　chess, any game similar to chess
+2072　榜　BONG2　placard; list of successful exam
+2073　滯　JAI6　block up, obstruct; stagnant
+2074　煥　WUN6　shining, brilliant, lustrous
+2075　犧　HEI1　sacrifice, give up; sacrificial
+2076　碗　WUN2　bowl, small dish
+2077　穎　WING6　rice tassel; sharp point; clever
+2078　羡　SIN6　envy, admire; praise; covet
+2079　肌　GEI1　muscle tissue; meat on bones
+2080　脆　CHEUI3　crisp; fragile, frail; brittle
+2081　腔　HONG1　chest cavity; hollow in body
+2082　腹　FUK1　stomach, belly, abdoman; inside
+2083　膜　MOK6　membrane; to kneel and worship
+2084　膨　PAANG4　swell; swollen, bloated, inflate
+2085　艾　NGAAI6　artemisia, mugwort; translit.
+2086　蚊　MAN1　mosquito; gnat
+2087　裕　YU6　abundant, rich, plentiful
+2088　覓　MIK6　seek; search
+2089　誇　KWA1　exaggerate; brag, boast; flaunt
+2090　謹　GAN2　prudent, cautious; attentive
+2091　辣　LAT6　peppery, pungent, hot; cruel
+2092　逗　DAU6　tempt, allure, arouse, stir
+2093　邁　MAAI6　take a big stride; pass by
+2094　鎢　WU1　tungsten, wolfram
+2095　闖　CHONG2 CHONG3　rush in, burst in, charge in
+2096　井　JENG2　well, mine shaft, pit
+2097　剝　MOK1　peel, peel off, to shell, strip
+2098　卜　BUK1　fortune telling; prophesy
+2099　吉　GAT1　lucky, propitious, good
+2100　呎　CHEK3　foot
+2101　啤　BE1　beer
+2102　坤　KWAN1　earth; feminine, female
+2103　壟　LUNG5　grave, mound; ridge in field
+2104　媚　MEI6　charming, attractive; flatter
+2105　挖　WAAT3　dig, dig out, gouge out, scoop
+2106　捏　NIP6　pick with fingers; knead; mold
+2107　曰　YEUK6　say; radical no. 73
+2108　柳　LAU5　willow tree; pleasure
+2109　栽　JOI1　cultivate, plant; care for plant
+2110　檔　DONG2　shelf; frame, crosspiece
+2111　氧　YEUNG5　oxygen
+2112　渾　WAN4　muddy, turbid; blend, merge, mix
+2113　煞　SAAT3　malignant deity; baleful, noxious; strike dead
+2114　盜　DOU6　rob, steal; thief, bandit
+2115　瞭　LIU4 LIU5　bright, clear; clear-sighted
+2116　碩　SEK6　great, eminent; large, big
+2117　綱　GONG1　heavy rope, hawser; main points
+2118　繡　SAU3　embroider; embroidery; ornament
+2119　脾　PEI4　spleen, pancreas; disposition
+2120　蓮　LIN4　lotus, water lily; paradise
+2121　蓬　FUNG4　type of raspberry; fairyland
+2122　蚤　JOU2　flea; louse
+2123　蜜　MAT6　honey; sweet; nectar
+2124　蠻　MAAN4　barbarians; barbarous, savage
+2125　辰　SAN4　early morning
+2126　逾　YU4 YU6　go over, pass over, exceed
+2127　鈸　BAT6　cymbals
+2128　銅　TUNG4　copper, brass, bronze cuprum
+2129　銳　YEUI6　sharp, keen, acute, pointed
+2130　鎊　BONG2 BONG6　pound sterling
+2131　騰　TANG4　fly; gallop; run; prance; rise
+2132　仿　FONG2　imitate, copy; as if
+2133　匹　PAT1　bolt of cloth;counter for horses
+2134　咖　GA3　coffee
+2135　哄　HUNG2 HUNG6　coax; beguile, cheat, deceive
+2136　哩　LEI5　mile
+2137　啞　A1 A2　dumb, mute; become hoarse
+2138　喧　HYUN1　lively, noisy; clamor, talk loud
+2139　址　JI2　site, location, land for house
+2140　妒　DOU3　jealous, envious
+2141　嬌　GIU1　seductive and loveable; tender
+2142　宏　WANG4　wide, spacious, great, vast
+2143　宙　JAU6　time as concept; infinite time
+2144　尬　GAAI3　limp, staggering gait; embarrass
+2145　尷　GAAM1 GAAM3　embarrassed; ill at ease
+2146　峽　HAAP6　gorge, strait, ravine; isthmus
+2147　崩　BANG1　rupture, split apart, collapse
+2148　嶼　JEUI6 YU4　island
+2149　嶺　LENG5 LING5　mountain ridge, mountain peak
+2150　挽　WAN5　pull; pull back, draw back
+2151　曝　BUK6　sun, air in sun, expose or dry in the sun
+2152　槽　CHOU4　trough; manger; vat, tank; groov
+2153　潑　PUT3　pour, splash, water, sprinkle; violent, malignant
+2154　疼　TANG4　aches, pains; be fond of; love
+2155　粵　YUT6　guangdong and guangxi provinces; initial particle
+2156　糟　JOU1　sediment, dregs; pickel
+2157　紮　JAAT3　tie, fasten, bind
+2158　臟　JONG6　internal organs, viscera
+2159　託　TOK3　entrust, rely on; commission
+2160　誘　YAU5　persuade, entice, induce; guide
+2161　軌　GWAI2　track, rut, path
+2162　迦　GA1　character for transliteration
+2163　銘　MING4　inscribe, engrave; unforgettably
+2164　陵　LING4　hill, mound; mausoleum
+2165　黛　DOI6　blacken eyebrows; black
+2166　傭　YUNG4　hire, employ, charter; servant
+2167　兔　TOU3　rabbit, hare
+2168　勒　LAK6　strangle, tighten
+2169　哼　HANG1　hum; sing softly; groan, moan
+2170　啡　FE1　morphine; coffee
+2171　喬　KIU4　tall, lofty; proud, stately
+2172　嘻　HEI1　mirthful, happy; interjection
+2173　噪　CHOU3　be noisy; chirp loudly
+2174　墜　JUI6　fall down, drop, sink,go to ruin
+2175　姪　JAT6　niece
+2176　幢　CHONG4 TONG4　carriage curtain; sun screen
+2177　惶　WONG4　fearful, afraid, anxious,nervous
+2178　拳　KYUN4　fist; various forms of boxing
+2179　挫　CHO3　push down; chop down; grind
+2180　斗　DAU2　chinese peck; liquid measure
+2181　昌　CHEUNG1　light of sun; good, proper
+2182　梵　FAAN6　buddhist, sanskrit
+2183　沈　SAM2　sink, submerge; addicted to;name
+2184　渺　MIU5　endlessly long, boundless, vast
+2185　灌　GUN3　pour; water; irrigate, flood
+2186　炮　PAAU3　large gun, cannon; artillery
+2187　狹　HAAP6　narrow, limited; narrow-minded
+2188　睹　DOU2　look at, gaze at; observe
+2189　粒　LAP1　grain; small particle
+2190　糾　GAU2　investigate, inspect
+2191　薩　SAAT3　transliteration of"sat" of boddhisattva etc.
+2192　薦　JIN3　offer, present; recommend
+2193　蜂　FUNG1　bee, wasp, hornet
+2194　衍　YIN5　overflow, spill over, spread out
+2195　襟　KAM1　lapel, collar
+2196　誓　SAI6　swear, pledge; oath
+2197　諷　FUNG3　recite, incant; satirize
+2198　謊　FONG1　lie
+2199　譚　TAAM4　surname; to talk
+2200　辱　YUK6　humiliate, insult, abuse
+2201　遜　SEUN3　humble, modest; yield
+2202　郊　GAAU1　suburbs; waste land, open spaces
+2203　釘　DENG1　nail, spike; pursue closely
+2204　俠　HAP6　chivalrous person; knight-errant
+2205　俯　FU2　bow down, face down, look down
+2206　僑　KIU4　sojourn, lodge
+2207　兇　HUNG1　atrocious, ferocious, brutal
+2208　卑　BEI1　humble, low, inferior; despise
+2209　咁　GAM3　so
+2210　哉　JOI1　final exclamatory particle
+2211　咪　MAI5　sound of cat, cat's meow; meter; (cantonese) don't!
+2212　噸　DEUN1　metric ton
+2213　圃　BOU2　garden, cultivated field
+2214　墮　DO6　fall, sink, let fall; degenerate
+2215　婉　YUN2　amiable, congenial; restrained
+2216　廂　SEUNG1　side-room, wing; theatre box
+2217　恭　GUNG1　respectful, polite, reverent
+2218　拓　TOK3　expand; open up; support or push
+2219　掣　CHIT3 JAI3　drag, pull; hinder by pulling ba
+2220　搓　CHO1　trample; rub hands together
+2221　擋　DONG2　obstruct, impede; stop; resist
+2222　斬　JAAM2　cut, chop, sever; behead
+2223　旺　WONG6　prosper; prosperous; increase
+2224　昆　GWAN1　elder brother; descendants
+2225　枇　PEI4　loquat
+2226　桶　TUNG2　pail, bucket, tub; cask, keg
+2227　洛　LOK3　river in shaanxi province; city
+2228　浩　HOU5　great, numerous, vast, abundant
+2229　燦　CHAN3　vivid, illuminating; bright
+2230　牧　MUK6　tend cattle, shepherd
+2231　瑣　SO2　fragments; trifling, petty; troublesome
+2232　瓣　FAAN6　petal; segment; valves
+2233　瓷　CHI4　crockery, porcelain, chinaware
+2234　稚　JI6　young, immature; childhood
+2235　粹　SEUI6　pure; unadulterated; select
+2236　綴　JEUI3 JYUT3　patch together, link, connect
+2237　羊　YEUNG4　sheep, goat; radical no. 123
+2238　翌　YIK6　bright; daybreak, dawn; next day
+2239　聳　SUNG2　urge on; rise up; stir, excite; to raise up; lofty
+2240　肝　GON1　liver
+2241　芬　FAN1　fragrance, aroma; perfume
+2242　菊　GUK1　chrysanthemum
+2243　蝦　HA1　shrimp, prawn
+2244　蠢　CHEUN2　wriggle; stupid; silly; fat
+2245　遵　JEUN1　obey, comply with, follow; honor
+2246　邏　LO4　patrol; inspect; watch
+2247　雕　DIU1　engrave, inlay, carve; exhaust
+2248　兜　DAU1　pouch
+2249　后　HAU6　queen, empress, sovereign
+2250　嚮　HEUNG3　guide, direct; incline to, favor
+2251　夷　YI4　ancient barbarian tribes
+2252　奴　NOU4　slave, servant
+2253　寵　CHUNG2　favorite, concubine; favor
+2254　岩　NGAAM4　cliff; rocks; mountain
+2255　弦　YIN4　string; hypotenuse, crescent
+2256　慈　CHI4　kind, charitable, benevolent
+2257　戈　GWO1　halberd, spear, lance; rad. 62
+2258　戚　CHIK1　relative; be related to; sad
+2259　拱　GUNG2　fold hands on breast; bow,salute
+2260　搵　WAN3　wipe off; press down with knuckl; to immerse
+2261　撰　JAAN6　compose, write, compile
+2262　攏　LUNG5　collect, bring together
+2263　斥　CHIK1　scold, upbraid, accuse, reproach
+2264　杷　PA4　loquat
+2265　枉　WONG2　useless, in vain; bent, crooked
+2266　毅　NGAI6　resolute, decisive, firm,persist
+2267　湊　CHAU3　piece together, assemble
+2268　煉　LIN6　smelt, refine; distill, condense
+2269　籃　LAAM4　basket
+2270　籤　CHIM1　tally; lot; marker
+2271　繳　GIU2　deliver, submit; hand over
+2272　罐　GUN3　jar, jug, pitcher, pot
+2273　聆　LING4　listen, hear
+2274　膏　GOU1　grease, fat; paste, ointment
+2275　臣　SAN4　minister, statesman, official
+2276　臥　NGO6　lie down; crouch
+2277　菌　KWAN2　mushroom; germ, microbe
+2278　裳　SEUNG4　clothes; skirt ; beautiful
+2279　贏　YENG4　win; surplus, gain, profit
+2280　迪　DIK6　enlighten, advance; progress
+2281　韋　WAI4　tanned leather; surname; radical
+2282　魅　MEI6　kind of forest demon, elf
+2283　鵝　NGO4　goose
+2284　黏　NIM4　stick to; glutinous, sticky;glue
+2285　仇　SAU4　enemy, hate, hatred, enmity
+2286　仗　JEUNG2 JEUNG3　rely upon; protector; fight; war, weaponry
+2287　佢　KEUI5　he (cantonese)
+2288　倉　CHONG1　granary; berth; sea
+2289　傢　GA1　stubborn, obstinate,intransigent
+2290　刮　GWAAT3　shave, pare off, scrape
+2291　剁　DEUK3 DO2　chop by pounding, mince, hash
+2292　叮　DING1　exhort or enjoin repeatedly
+2293　吾　NG4　i, my, our; resist, impede
+2294　喃　NAAM4　keep talking, chattering; mumble
+2295　喻　YU6　metaphor, analogy; example; like
+2296　妖　YIU1　strange, weird, supernatural
+2297　廖　LIU6　surname; name of an ancient state
+2298　廷　TING4　court
+2299　懲　CHING4　punish, reprimand; warn
+2300　昧　MUI6　obscure, dark; darken
+2301　暈　WAN4　halo in sky; fog; dizzy, faint
+2302　朽　NAU2 YAU2　decayed, rotten; rot, decay
+2303　梅　MUI4　plums; prunes; surname
+2304　歇　HIT3　rest, stop, lodge
+2305　汪　WONG1　vast, extensive, deep; surname
+2306　溢　YAT6　overflow, brim over; full
+2307　滔　TOU1　overflow; rushing water, rampant
+2308　滬　WU6　shanghai; river near shanghai
+2309　潰　KUI2　flooding river;militarily defeat
+2310　燕　YIN3　swallow (bird); comfort, enjoy
+2311　燭　JUK1　candle, taper; shine, illuminate
+2312　爵　JEUK3　feudal title or rank
+2313　睜　JANG1　open eyes; stare
+2314　瞥　PIT3　take fleeting glance at
+2315　磋　CHO1　polish, buff; scrutinize
+2316　磚　JYUN1　tile, brick
+2317　縣　YUN2 YUN6　county, district, subdivision
+2318　　LAN2　penis (cantonese); fucker; slang
+2319　肆　SI3　indulge; excess; numeral four; particle meaning now, therefore; shop
+2320　膊　BOK3　shoulders, upper arms
+2321　蔽　BAI3　cover, hide, conceal; shelter
+2322　蘆　LOU4　rushes, reeds
+2323　蝶　DIP6　butterfly
+2324　謬　MAU6　error, exaggeration; erroneous
+2325　賜　CHI3　give, bestow favors; appoint
+2326　趟　TONG3　time, occasion; take journey
+2327　軀　KEUI1　body
+2328　轄　HAT6　linchpin of wheel; control
+2329　郤　GWIK1　crack, opening; surname
+2330　閑　HAAN4　fence, barrier; defend;idle time
+2331　闢　PIK1　open; settle, develop, open up
+2332　頃　KING2　moment; measure of land; to lean
+2333　馳　CHI4　go quickly or swiftly; hurry
+2334　魄　BOK3 PAAK3 TOK3　vigor; body; dark part of moon
+2335　鯊　SA1　shark
+2336　佐　JO3　assist, aid, second; subordinate
+2337　冇　MOU5　have not (cantonese)
+2338　划　WA4　row or paddle boat; finger guess
+2339　剃　TAI3　shave
+2340　喘　CHYUN2　pant, gasp, breathe heavily
+2341　嘲　JAAU1　ridicule, deride, scorn, jeer at
+2342　塘　TONG4　pond; tank; dike, embankment
+2343　墳　FAN4　grave, mound; bulge; bulging
+2344　契　KAI3　deed, contract, bond; engrave
+2345　姆　MOU5　child's governess; matron
+2346　屁　PEI3　break wind; fart; buttocks
+2347　巷　HONG6　alley, lane
+2348　役　YIK6　service; servant, laborer; serve
+2349　恥　CHI2　shame, humiliation; ashamed
+2350　掠　LEUK6　rob, ransack, plunder; pass by
+2351　敷　FU1　spread, diffuse; apply, paint
+2352　晉　JEUN3　advance, increase; promote
+2353　晤　NG6　have interview with; meet
+2354　杆　GON1　pole; shaft of spear
+2355　樸　POK3　simple, honest; plain; rough
+2356　洽　HAP6　spread, disseminate; agreeable
+2357　淒　CHAI1　bitter cold, miserable, dreary
+2358　溶　YUNG4　melt, dissolve; overflowing with
+2359　澄　CHING4　purify water by allowing sedimen
+2360　瀟　SIU1　sound of beating wind and rain; light, ethereal
+2361　焉　YIN4　thereupon, then; how? why? where
+2362　爺　YE4　father, grandfather
+2363　癢　YEUNG5　itch
+2364　癮　YAN5　rash; addiction, craving, habit
+2365　矮　AI2 NGAI2　short, dwarf; low
+2366　碑　BEI1　stone tablet; gravestone
+2367　礦　KONG3　mine; mineral, ore
+2368　穴　YUT6　cave, den, hole; rad. no. 116
+2369　罩　JAAU3　basket for catching fish; cover
+2370　羈　GEI1　halter; restrain, hold, control
+2371　腕　WUN2　wrist
+2372　膩　NEI6　greasy, oily, dirty; smooth
+2373　萊　LOI4　goosefoot, weed; fallow field
+2374　葵　KWAI4　sunflower; measure
+2375　薰　FAN1　a medicinal herb; to cauterize
+2376　蘋　PING4　apple
+2377　詠　WING6　sing, hum, chant
+2378　誼　YI4　friendship; appropriate,suitable
+2379　賠　PUI4　indemnify, suffer loss
+2380　躁　CHOU3　tense, excited, irritable
+2381　酷　HUK6　strong, stimulating; very
+2382　鑊　WOK6　cauldron, large iron pot
+2383　霞　HA4　rosy clouds
+2384　鬚　SOU1　beard, whiskers; whisker-like
+2385　乙　YUT6　second heaven's stem; second
+2386　侍　SI6　serve, attend upon; attendant, servant; samurai
+2387　佬　LOU2　(cantonese) man, person; mature
+2388　僵　GEUNG1　stiff and motionless,stock still
+2389　冤　YUN1　grievance, injustice, wrong
+2390　凍　DUNG3　freeze; cold, congeal; jelly
+2391　匿　NIK1　hide; go into hiding
+2392　卅　SA1　thirty, thirtieth
+2393　啼　TAI4　weep, whimper; howl, twitter
+2394　囊　NONG4　bag, purse, sack; put in bag
+2395　坪　PING4　level ground; japanese measure
+2396　奸　GAAN1　crafty, villanous, false
+2397　媳　SIK1　daughter-in-law
+2398　嬴　YING4　to win; to have surplus; surname
+2399　崗　GONG1　post; position
+2400　怔　JING1　a disease resembling neurosis
+2401　怖　BOU3　terror, fear; frighten;terrified
+2402　憾　HAM6　regret, remorse; be dissatisfied
+2403　拙　JYUT3　stupid, clumsy, crude;convention
+2404　揣　CHEUI2 CHYUN2　put things under clothes
+2405　擲　JAAK6　throw, hurl, cast, fling
+2406　晰　SIK1　clear, evident; clearly
+2407　框　KWAANG1　frame; framework; door frame
+2408　棚　PAANG4　tent, awning; booth; shed
+2409　橡　JEUNG6　chestnut oak; rubber tree;rubber
+2410　歎　TAAN3　sigh, admire
+2411　歪　WAAI1　slant; inclined; askewd, awry
+2412　淑　SUK1　good, pure, virtuous, charming
+2413　濾　LEUI6　strain out, filter
+2414　煤　MUI4　coal, coke, charcoal, carbon
+2415　熬　NGOU4　cook down, to boil; endure
+2416　燥　CHOU3　dry, parched, arid; quick temper
+2417　犬　HYUN2　dog; radical number 94
+2418　瑞　SEUI6　felicitous omen; auspicious
+2419　磅　BONG2 BONG6　pound; weigh
+2420　秦　CHEUN4　feudal state of qin; qin dynasty
+2421　耍　SA2　frolic, play, amuse, play with
+2422　耿　GANG2　bright, shining; have guts
+2423　肺　FAI3　lungs
+2424　腫　JUNG2　swell; swollen; swelling
+2425　臘　LAAP6　year end sacrifice; dried meat
+2426　艘　SAU1　counter for ships, vessels
+2427　茄　GA1 KE4　eggplant
+2428　葡　POU4　grapes
+2429　蔡　CHOI3　surname; species of tortoise
+2430　謙　HIM1　humble, modest
+2431　賊　CHAAK6　thief, traitor
+2432　賂　LOU6　bribe; give present
+2433　醬　JEUNG3　any jam-like or paste-like food
+2434　錶　BIU1　a watch, clock
+2435　霜　SEUNG1　frost; crystallized; candied
+2436　頑　WAN4　obstinate, stubborn;recalcitrant
+2437　頒　BAAN1　confer, bestow; publish official
+2438　頰　GAAP3　cheeks, jaw
+2439　鴻　HUNG4　species of wild swan; vast
+2440　黯　AM2　dark, black; sullen, dreary
+2441　乞　HAT1　beg; request
+2442　傅　FU6　tutor, teacher; assist; surname
+2443　咱　JA1　us
+2444　嚐　SEUNG4　taste
+2445　嚕　LOU1　verbose, talkative; mumbling
+2446　坑　HAANG1　pit, hole; bury, trap; harry
+2447　壹　YAT1　number one
+2448　姨　YI4　mother/wife's sister; concubine
+2449　姬　GEI1　beauty; imperial concubine
+2450　寓　YU6　residence; lodge; dwell
+2451　屑　SIT3　bits, scraps, crumbs, fragments
+2452　屠　TOU4　butcher, slaughter, massacre
+2453　弊　BAI6　evil, wrong, bad; criminal
+2454　愕　NGOK6　startled, alarmed, astonished
+2455　掘　GWAT6　dig, excavate; excavate cave
+2456　昔　SIK1　formerly; ancient; in beginning
+2457　械　HAAI6　weapons; implements, instruments
+2458　歉　HIP3　deficient, lacking, insufficient
+2459　氈　JIN1　felt; rug, carpet
+2460　灕　LEI4　short name for guangxi province
+2461　熔　YUNG4　melt, smelt, fuse; mold
+2462　畏　WAI3　fear, dread, awe, reverence
+2463　畔　BUN6　boundary path dividing fields
+2464　疆　GEUNG1　boundary, border, frontier
+2465　皂　JOU6　soap; black; menial servant
+2466　碌　LUK1　rough, uneven, rocky; mediocre
+2467　繃　BANG1 MANG1　bind, draw firmly, strap
+2468　翁　YUNG1　old man; father, father-in-law
+2469　肖　CHIU3　look like, resemble, be like
+2470　苑　YUN2　pasture, park, garden; mansion
+2471　荃　CHYUN4　aromatic herb; fine cloth
+2472　藤　TANG4　rattan, cane; creeper plant
+2473　誦　JUNG6　recite, chant, repeat
+2474　豎　SYU6　vertical; perpendicular; upright
+2475　賤　DAAM5　mean, low; cheap, worthless
+2476　賭　DOU2　bet, gamble, wager; compete
+2477　錫　SEK3　tin, stannum; bestow, confer
+2478　阪　BAAN2　hillside farmland; slope
+2479　霍　FOK3　quickly, suddenly; surname
+2480　鞭　BIN1　whip; whip; string of firecracke
+2481　鬍　WU4　beard, mustache, whiskers
+2482　鹿　LUK6　deer; surname; radical no. 198
+2483　余　YU4　i, my, me; surname; surplus
+2484　偵　JING1　spy, reconnoiter; detective
+2485　儒　YU4　confucian scholar
+2486　几　GEI1　small table
+2487　凱　HOI2　triumphant; triumph, victory
+2488　呂　LEUI5　surname; a musical note
+2489　吱　JI1　chirping, squeaking, hissing
+2490　咽　YIN1 YIT3　throat; pharynx
+2491　噴　PAN3　spurt, blow out, puff out
+2492　嚼　JEUK6　prattle, be glib
+2493　囡　NAAM4　one's daughter; to filch; to secrete
+2494　坊　FONG1　neighborhood, urban subdivision
+2495　宴　YIN3　entertain, feast; feast, banquet
+2496　寨　JAI6　stockade, stronghold, outpost
+2497　悴　SEUI6　suffer, become emaciated, haggar
+2498　惘　MONG5　disconcerted, dejected, discoura
+2499　愧　KWAI3　ashamed, conscience-stricken
+2500　憔　CHIU4　be worn-out, emaciated, haggard
+2501　扔　WING4 YING4　throw, hurl; throw away, cast
+2502　拂　FAT1　shake off, brush away; dust
+2503　抨　PING1　impeach, censure; attack
+2504　掏　TOU4　take out; pull out; clean out
+2505　撈　LAAU4 LOU4　scoop out of water; dredge, fish
+2506　擅　SIN6　monopolize; claim; arbitrarily; to dare
+2507　旬　CHEUN4　ten-day period; period of time
+2508　旱　HON5　drought; dry; dry land
+2509　暮　MOU6　evening, dusk, sunset; ending
+2510　朧　LUNG4　condition or appearance of moon
+2511　桑　SONG1　mulberry tree; surname
+2512　棠　TONG4　crab apple tree; wild plums
+2513　殷　YAN1　many,great; abundant,flourishing
+2514　浦　POU2　bank of river, shore; surname
+2515　濛　MUNG4　drizzling, misty, raining
+2516　瀉　SE3　drain off, leak; flow, pour down
+2517　烘　HUNG1　bake, roast; dry by fire
+2518　獃　DAAI4 NGOI4　dull; dull-minded, simple,stupid
+2519　獸　SAU3　beast, animal; bestial
+2520　疚　GAU3　chronic disease, chronic illness
+2521　盅　JUNG1　small cup or bowl
+2522　盧　LOU4　cottage, hut; surname; black
+2523　瞇　MAI5　close
+2524　矇　MUNG4　stupid, ignorant; blind
+2525　祭　JAI3　sacrifice to, worship
+2526　禪　SIM4　meditation, contemplation (dhyana); to level ground for altar; abdicate
+2527　稽　KAI1 KAI2　examine, investigate; delay
+2528　籮　LO4　bamboo basket
+2529　粥　JUK1　rice gruel, congee
+2530　絮　SEUI6　waste cotton, raw silk or cotton
+2531　縛　BOK3　to tie
+2532　縷　LEUI5　thread; detailed, precise
+2533　繽　BAN1　flourishing, thriving, abundant
+2534　翔　CHEUNG4　soar, glide, hover; detailed
+2535　芝　JI1　purplish mushroom thought promot
+2536　芽　NGA4　bud, sprout, shoot
+2537　荔　LAI6　lichee
+2538　莉　LEI6　white jasmine
+2539　菩　POU4　herb, aromatic plant
+2540　葛　GOT3　edible bean; surname
+2541　虞　YU4　concerned about, anxious,worried
+2542　蛇　SE4　snake
+2543　螺　LO4　spiral shell; conch; spiral
+2544　衹　JI2　only, merely, but
+2545　裸　LO2　bare, nude; undress, strip
+2546　裹　GWO2　wrap, bind; encircle, confine
+2547　貯　CHYU5　store, stockpile, hoard
+2548　輾　JIN2　turn over, roll
+2549　迂　HEUI1 YU1　doctrinaire, abstruse, unrealist
+2550　遣　HIN2　send, dispatch; send off, exile
+2551　鈕　NAU2　button, knob; surname
+2552　鍊　LIN6　smelt metals, forge; refine
+2553　鍋　WO1　cooking-pot, saucepan
+2554　隙　GWIK1　crack, split, fissure; grudge
+2555　霉　MUI4　mildew, mold; moldy, mildewed
+2556　顛　DIN1　top, peak, summit; upset
+2557　鳳　FUNG6　male phoenix; symbol of joy
+2558　丘　YAU1　hill; elder; empty; a name
+2559　仲　JUNG6　middle brother; go between, mediator; surname
+2560　冀　KEI3　hope for; wish; hebei province
+2561　凸　DAT6　protrude, bulge out, convex
+2562　函　HAAM4　correspondence; a case; a box
+2563　剔　TIK1　pick out; scrape off;scrape meat
+2564　匠　JEUNG6　craftsman, artisan; workman
+2565　吋　CHYUN3　inch
+2566　喀　KAK1　vomit; used in transliterations
+2567　喂　WAI3　interjection to call attention
+2568　嗡　YUNG1　sound of flying bees, airplanes
+2569　嗅　CHAU3　smell, scent, sniff; olfactive
+2570　嘔　AU2　vomit; annoy, enrage
+2571　噹　DONG1　sound of bells
+2572　姊　JI2　elder sister
+2573　嫩　NYUN6　soft, tender, delicate; young
+2574　履　LEI5　footwear, shoes; walk on, tread
+2575　扒　PA4　scratch; dig up; crawl; crouch
+2576　挨　AAI1　near, close by, next to; wait
+2577　擰　NING4 NING6　pinch; twist, wring; determined
+2578　朔　SOK3　first day of lunar month
+2579　朦　MUNG4　condition or appearance of moon
+2580　棒　PAANG5　stick, club, truncheon; hit
+2581　沮　JEUI2 JEUI3　stop, prevent; defeated, dejecte
+2582　洶　HUNG1　the rush of water; turbulent; noisy, restless
+2583　洒　SAI2 SIN2　sprinkle; scatter; pour; to wipe away; to shiver
+2584　淘　TOU4　wash in sieve; weed out
+2585　渠　KEUI4　ditch, canal, channel, gutter
+2586　漓　LEI4　pattering (of rain); seep through
+2587　濱　BAN1　beach, sea coast; river bank
+2588　澀　SAP1 SAP3　astringent; harsh; uneven, rough
+2589　璇　SYUN4　beautiful jade; star
+2590　甦　SOU1　be reborn; resuscitate, revive
+2591　甫　FU2　begin; man, father; great
+2592　眷　GYUN3　take interest in, care for
+2593　矚　JUK1　watch carefully, stare at, focus
+2594　矩　GEUI2　carpenter's square, ruler, rule
+2595　砌　CHAI3　stone steps, brick walk
+2596　砰　PING1　sound of crashing stones, bang!
+2597　碟　DIP6　small dish, plate
+2598　禱　TOU2　pray; entreat, beg, plead;prayer
+2599　竭　GIT3　put forth great effort; exhaust
+2600　絨　YUNG4　silk, cotton, or woolen fabric
+2601　繩　SING4　rope, string, cord; measure, restrain
+2602　羽　YU5　feather, plume; wings; rad. 124
+2603　翅　CHI3　wings; fin
+2604　聾　LUNG4　deaf
+2605　茂　MAU6　thick, lush, dense; talented
+2606　莖　HANG4　stem, stalk
+2607　蔭　YAM3　shade, shelter; protect
+2608　訣　KYUT3　take leave of, bid farewell
+2609　謎　MAI4　riddle, conundrum; puzzle
+2610　譜　POU2　register, list, table; musical score
+2611　貶　BIN2　decrease, lower; censure, critic
+2612　贈　JANG6　give present; bestow, confer
+2613　蹟　JIK1　trace, tracks; footprints
+2614　輿　YU4　cart, palanquin; public opinion
+2615　鏟　CHAAN2　spade, shovel, trowel, scoop
+2616　閘　JAAP6　sluice; flood gate, canal lock
+2617　頌　JUNG6　laud, acclaim; hymn; ode
+2618　餵　WAI3　to feed, to raise
+2619　鴿　GAP3　pigeon, dove
+2620　黐　CHI1　stick; sticky
+2621　侈　CHI2　luxurious, extravagant
+2622　侮　MOU5　insult, ridicule, disgrace
+2623　俾　BEI2　so that, in order that; cause
+2624　凳　DANG3　bench; stool
+2625　剖　FAU2 PAU2　split in two, slice; dissect
+2626　吠　FAI6　bark
+2627　咄　DEUT1　noise of rage, cry out in anger
+2628　咭　KAAT1 KAT1　
+2629　唆　SO1　make mischief, incite, instigate
+2630　啥　SA1　what?
+2631　嚨　LUNG4　throat
+2632　壘　LEUI5　rampart, military wall
+2633　寺　JI6　court, office; temple, monastery
+2634　怯　HIP3　lacking in courage, afraid
+2635　恍　FONG2　seemingly; absent-minded
+2636　恆　HANG4　constant, regular, persistent
+2637　恕　SYU3　forgive, excuse, show mercy
+2638　惕　TIK1　be cautious, careful, alert
+2639　扁　BIN2　flat; tablet, signboard
+2640　拭　SIK1　wipe away stains with cloth
+2641　挾　HAAP6 HIP6　clasp under arm; hold to bosom
+2642　挪　NO4　move, shift on one side
+2643　撇　PIT3　discard, abandon, throw away
+2644　摔　SEUT1　fall ground, stumble, trip
+2645　摟　LAU5 LAU1 LAU2 LAU4　hug, embrace; drag, pull
+2646　撕　SI1　rip, tear; buy cloth
+2647　攬　LAAM5　grasp, take hold of; monopolize
+2648　曳　YAI6　trail, tow, drag, pull
+2649　梳　SO1　comb; brush
+2650　棘　GIK1　jujube tree; thorns, brambles
+2651　檯　TOI4　table
+2652　殿　DIN6　hall; palace; temple
+2653　沸　FAI3　boil, bubble up, gush
+2654　淆　NGAAU4　confused, in disarray, mixed up
+2655　渣　JA1　refuse, dregs, lees, sediment
+2656　炫　YUN6　shine, glitter; show off, flaunt
+2657　炳　BING2　bright, luminous; glorious
+2658　焗　GUK6　
+2659　煽　SIN3　stir up, incite, agitate, provoke
+2660　燄　YIM6　flame; blazing, brilliant
+2661　獵　LIP6　hunt; field sports
+2662　瑤　YIU4　precious jade
+2663　甸　DIN6　suburbs of capital; govern;crops
+2664　瘤　LAU4　tumor, lump, goiter
+2665　眶　KWAANG1　eye socket; rim of eye
+2666　眺　TIU3　look at, gaze at, scan, survey
+2667　矢　CHI2　arrow, dart; vow, swear
+2668　祈　KEI4　pray; entreat, beseech
+2669　禿　TUK1　bald, bare, stripped
+2670　稜　LING4　corner, edge, angle;square block
+2671　竄　CHYUN3　run away; revise, edit; expel
+2672　簿　BOU6　register, account book, notebook
+2673　紡　FONG2　spin, reel, weave; reeled pongee
+2674　綻　JAAN6　ripped seam, rend, crack
+2675　緝　CHAP1　to sew in close stitches
+2676　繹　YIK6　unravel or unreel silk; interpre
+2677　辮　BIN1　braid; pigtail, plait, queue
+2678　翹　KIU4　turn up, lift, elevate, raise
+2679　肘　JAU2　elbow; help person shoulder load
+2680　肢　JI1　human limbs; animal feet
+2681　胎　TOI1　unborn child, embryo, fetus
+2682　臺　TOI4　tower, lookout; stage, platform
+2683　蒂　DAI3　peduncle or stem of plants
+2684　蘊　WAN3　collect, gather, store; profound; (budd.) skandha
+2685　虐　YEUK6　cruel, harsh, oppressive
+2686　諱　WAI5　conceal; shun; regard as taboo
+2687　豫　YU6　relaxed, comfortable, at ease
+2688　貞　JING1　virtuous, chaste, pure; loyal
+2689　踩　CHOI2　step on
+2690　迄　NGAT6　extend, reach; until; till
+2691　逍　SIU1　ramble, stroll, jaunt, loiter
+2692　釀　YEUNG6　brew, ferment
+2693　鈔　CHAAU1　paper money, bank notes; copy
+2694　鍛　DYUN3　forge metal; temper, refine
+2695　陋　LAU6　narrow; crude, coarse; ugly
+2696　隸　DAI6　be subservient to; servant
+2697　飢　GEI1　hunger, starving; hungry; famine
+2698　骸　HAAI4 HOI4　skelton, body; leg bone
+2699　乍　JA3 JOK3　suddenly, unexpectedly
+2700　俸　FUNG2 FUNG6　wages, salary,official emolument
+2701　刷　CHAAT3　brush; clean with brush, scrub
+2702　劈　PEK3 PIK1　cut apart, split, chop
+2703　叉　CHA1　crotch; fork, prong
+2704　叩　KAU3　knock, ask; kowtow, bow
+2705　吁　HEUI1　interjection "alas!"; to sigh
+2706　呷　HAAP3　suck, swallow, drink
+2707　咐　FU6　instruct, order
+2708　哎　AAI1　interjection of surprise
+2709　唧　JIK1　chirping of insects; pump
+2710　啪　PAAK1　syllable
+2711　囑　JUK1　order, tell, instruct,leave word
+2712　垮　KWA1　be defeated, fail, collapse
+2713　垛　DO2　heap, pile; pile up, heap up
+2714　埠　BOU6 FAU6　port city
+2715　塌　TAAP3　fall in ruins, collapse
+2716　壩　BA3　embankment; dam
+2717　妓　GEI6　prostitute
+2718　孝　HAAU3　filial piety, obedience;mourning
+2719　屏　PING4　folding screen, shield
+2720　屢　LEUI5　frequently, often, again & again
+2721　帥　SEUI3　commander, commander-in-chief
+2722　忖　CHYUN2　guess, suppose, conjecture
+2723　悵　CHEUNG3　disappointed, dissatisfied
+2724　慚　CHAAM4　ashamed, humiliated; shameful
+2725　憎　JANG1　hate, detest, abhor; hatred
+2726　懇　HAN2　sincere, earnest, cordial
+2727　懦　NO6　weak, timid, cowardly
+2728　拯　CHING2　help, save, aid; lift, raise
+2729　搽　CHA4　smear; rub, wipe; anoint
+2730　摧　CHEUI1　destroy, break, injure
+2731　撿　GIM2　to pick up
+2732　敘　JEUI6　express, state, relate, narrate
+2733　暇　HA6　leisure, relaxation, spare time
+2734　棕　JUNG1　hemp palm; palm tree
+2735　棟　DUNG3　main beams supporting house
+2736　棍　GWAN3　stick, cudgel; scoundrel
+2737　樑　LEUNG4　bridge; beam
+2738　樽　JEUN1　goblet; jar, jug; lush
+2739　湘　SEUNG1　hunan province
+2740　溺　NIK6 NIU6　drown; submerge in water;indulge
+2741　瀰　NEI4　overflow
+2742　烤　HAAU2　bake, roast, toast, cook
+2743　煎　JIN1　fry in fat or oil; boil in water
+2744　熙　HEI1　bright, splendid, glorious
+2745　熒　YING4　shine, shimmer; shining,dazzling
+2746　爹　DE1　father, daddy
+2747　狼　LONG4　wolf
+2748　猢　WU4　a kind of monkey found in w.china
+2749　獅　SI1　lion
+2750　猻　SYUN1　monkey
+2751　甩　LAT1　throw away, discard
+2752　痴　CHI1　foolish, stupid, dumb, silly
+2753　盯　DING1　rivet gaze upon, keep eyes on
+2754　眩　YUN6　confuse; dizzy, dazed, disorient
+2755　眨　JAAP3　wink
+2756　睇　TAI2　look at, glance at; stare at
+2757　瞄　MIU4　take aim at; look at
+2758　瞬　SEUN3　wink, blink; in a wink, a flash
+2759　磁　CHI4　magnetic; magnetism; procelain
+2760　禦　YU6　defend, resist, hold out against
+2761　窒　JAT6　stop up, obstruct
+2762　窺　KWAI1　peep, watch, spy on, pry
+2763　竅　HIU3 KIU3　hole, opening, aperture
+2764　竊　SIT3　secretly, stealthily;steal;thief
+2765　簇　CHUK1　swarm, crowd together, cluster
+2766　糙　CHOU3　coarse, harsh, rough, unpolished rice
+2767　羨　SIN6　envy, admire; praise; covet
+2768　翩　PIN1　fly, flutter
+2769　膳　SIN6　meals, provisions, board
+2770　臻　JEUN1　reach, arrive; utmost, superior
+2771　苛　HO1　small, petty; harsh, rigorous
+2772　茸　YUNG4　soft, downy; buds, sprouts
+2773　蕉　JIU1　banana; plantain
+2774　螂　LONG4　mantis, dung beetle
+2775　蟑　JEUNG1　cockroach
+2776　襪　MAT6　socks, stockings
+2777　訝　NGA6　express surprise, be surprised
+2778　詹　JIM1　surname; talk too much, verbose
+2779　逕　GING3　pass by, approach; direct
+2780　遴　LEUN4　select, choose; surname
+2781　鄙　PEI2　mean; low
+2782　醋　CHOU3　vinegar; jealousy, envy
+2783　鈍　DEUN6　blunt, obtuse; dull; flat; dull-
+2784　鋅　SAN1　zincum
+2785　鎔　YUNG4　fuse, melt, smelt; mold
+2786　鑼　LO4　gong
+2787　雁　NGAAN6　wild goose
+2788　颱　TOI4　taiphoon
+2789　飼　JI6　raise animals; feed; nourish
+2790　駭　HAAI5　terrify, frighten, scare; shock
+2791　騎　KE4　ride horseback; mount; cavalry
+2792　髦　MOU4　flowing hair of young child
+2793　鷗　AU1　seagull, tern
+2794　麟　LEUN4　female of chinese unicorn
+2795　丸　YUN2 YUN4　small round object; pellet, pill
+2796　倖　HANG6　lucky, fortunate; dote on, spoil
+2797　傍　BONG6 PONG6　by side of, beside, near, close
+2798　兆　SIU6　omen; million; mega; also trillion. china = million; japan and taiwan = trillion
+2799　刪　SAAN1　to cut; delete, erase; to geld
+2800　匙　CHI4　spoon; surname
+2801　卿　HING1　noble, high officer
+2802　吩　FAN1　order, command, instruct
+2803　呻　SAN1　groan, moan; recite with intonatation
+2804　喇　LA3　horn, bugle; lama;final particle
+2805　喳　CHA1 JA1　whispering
+2806　嗜　SI3　be fond of, have weakness for
+2807　嗽　SAU2　cough, gargle, clear throat
+2808　噓　HEUI1　exhale; blow out; deep sigh;hiss; praise, flatter; lie
+2809　嘰　GEI1　sigh in disapproval; take small
+2810　噫　YI1　belch; alas
+2811　囂　HIU1　be noisy; treat with contempt
+2812　墅　SEUI5　villa, country house
+2813　壤　YEUNG6　soil, loam, earth; rich
+2814　娶　CHEUI2　marry, take wife
+2815　婿　SAI3　son-in-law; husband
+2816　嬉　HEI1　enjoy; play, amuse oneself
+2817　嫵　MOU5　charming, enchanting
+2818　峻　JEUN3　high, steep, towering; stern
+2819　廝　SI1　servant
+2820　徊　WUI4　linger, walk to and fro,hesitain
+2821　徘　PUI4　walk back and forth, hesitate
+2822　惆　CHAU4　distressed, regretful, sad
+2823　惰　DO6　indolent, careless, lazy, idle
+2824　拗　AAU2 AAU3　obstinate; stubborn; unmanageabl
+2825　摯　JI3　sincere, warm, cordial; surname
+2826　撓　NAAU4 NAAU5　scratch; disturb, bother; submit
+2827　撮　CHYUT3　little bit, small amount, pinch
+2828　撳　GAM6　press; push
+2829　攪　GAAU2　disturb, agitate, stir up
+2830　晴　CHING4　clear weather, fine weather
+2831　柿　CHI5　persimmon
+2832　桿　GON2　pole; stick; club; pole as unit
+2833　楓　FUNG1　maple tree
+2834　橘　GWAT1　orange, tangerine
+2835　殉　SEUN1 SEUN6　die for cause, be martyr for
+2836　汰　TAAI3　excessive; scour, wash out
+2837　泣　YAP1　cry, sob, weep
+2838　淹　YIM1　drown; cover with liquid, steep
+2839　淵　YUN1　gulf, abyss, deep
+2840　淫　YAM4　obscene, licentious, lewd
+2841　淮　WAAI4　river in anhui province
+2842　爪　JAAU2　claw, nail, talon; animal feet
+2843　猴　HAU4　monkey, ape; monkey-like
+2844　瑋　WAI4　type of jade; rare, valuable
+2845　瑪　MA5　agate; cornelian
+2846　癟　BIT6　shrivelled up, dried up; vexed
+2847　眸　MAU4　pupil of eye; eye
+2848　瞻　JIM1　look; look out for; respect
+2849　矜　GING1 GWAN1　pity, feel sorry for,show sympat
+2850　穀　GUK1　corn, grain, cereal; lucky
+2851　纍　LEUI4　bind, wind about; link, join
+2852　肛　GONG1　anus
+2853　范　FAAN6　surname; bee-like insect
+2854　茲　JI1　now, here; this; time, year
+2855　萍　PING4　duckweed; wandering, traveling
+2856　萄　TOU4　grapes
+2857　葫　WU4　bottle-gourd
+2858　蔓　MAAN6　creeping plants, tendrils, vines
+2859　蔥　CHUNG1　scallions, onions, leeks
+2860　藻　JOU2　splendid, magnificent; algae
+2861　蛙　WA1　frog
+2862　螢　YING4　glow-worm, luminous insect
+2863　蠟　LAAP6　wax; candle; waxy, glazed
+2864　袱　FUK6　piece of cloth used wrap bundles
+2865　褪　TAN3　strip, undress; fall off; fade
+2866　謠　YIU4　sing; folksong, ballad; rumor
+2867　謨　MOU4　scheme, plan; plan; be without
+2868　豚　TYUN4　small pig, suckling pig; suffle
+2869　賈　GA2 GU2　surname; merchant; buy, trade
+2870　踱　DOK6　stroll, pace, walk slowly
+2871　轍　CHIT3　wagon ruts, wheel tracks
+2872　邱　YAU1　surname; hill; mound; grave
+2873　鄺　KWONG3　surname
+2874　鑄　JYU3　melt, cast; coin, mint
+2875　鑒　GAAM3　mirror, looking glass; reflect
+2876　闔　HAP6　close; whole, entire; all; leaf
+2877　闡　CHIN2 CHIN4　explain, clarify, elucidate
+2878　阮　YUN5　ancient musical instrument: surname
+2879　陀　TO4　steep bank, rough terrain
+2880　馨　HING1　fragrant, aromatic; distant fragrance
+2881　髒　JONG1　dirty; firm; fat
+2882　魏　NGAI6　kingdom of wei; surname
+2883　鹵　LOU5　saline soil; natural salt, rock
+2884　黝　YAU2　black
+2885　丙　BING2　third of heavenly stems; third
+2886　亢　GONG1 KONG3　high, proud; violent, excessive; skilled; name
+2887　佇　CHYU5　wait; look towards; turn one's back on
+2888　侃　HON2　upright and strong; amiable
+2889　侯　HAU4　marquis, lord; target in archery
+2890　倔　GWAT6　stubborn, obstinate, intransigent; firm
+2891　倪　NGAI4　feeble, tiny, young and weak
+2892　儉　GIM6　temperate, frugal, economical
+2893　冶　YE5　smelt, fuse metals; cast, found
+2894　凄　CHAI1　bitter cold, miserable, dreary
+2895　凜　LAM5　shiver with cold or fear,fearful
+2896　剌　LAAT6　slash, cut in two; contradict
+2897　剿　CHAAU1 JIU2　destroy, exterminate, annihilate
+2898　卒　JEUT1　soldier;servant;at last, finally
+2899　叨　DOU1 TOU1　talkative; quarrulous
+2900　吝　LEUN6　stingy, miserly, parsimonious
+2901　咒　JAU3　curse, damn, incontation
+2902　咧　LE2 LE4　stretch mouth, grimace, grin
+2903　啃　HANG2　gnaw, chew, bite
+2904　喲　YO1　ah, final particle
+2905　喫　HEK3　eat; drink; suffer, endure, bear
+2906　嗇　SIK1　miserly, thrifty, stingy; stopped up, constipated
+2907　嘶　SAI1　neighing of a horse; gravel voiced, husky throated
+2908　噩　NGOK6　bad, ill-omened, unlucky
+2909　嚷　YEUNG5　shout, brawl, make uproar, cry
+2910　坎　HAM2　pit, hole; snare, trap; crisis
+2911　堵　DOU2　wall; stop, prevent; stop up
+2912　孰　SUK6　who? which? what? which one?
+2913　屍　SI1　corpse, carcass
+2914　岔　CHA3　diverge, branch off;fork in road
+2915　岳　NGOK6　mountain peak; surname
+2916　崎　KEI1　rough, uneven, jagged, rugged
+2917　巔　DIN1　summit of mountain, mountain top
+2918　帆　FAAN4　sail; boat
+2919　幟　CHI3　flag, pennant; sign; fasten
+2920　庇　BEI3　cover, shield, shelter, protect
+2921　彬　BAN1　cultivated, well-bred
+2922　彰　JEUNG1　clear, manifest, obvious
+2923　忿　FAN5　get angry; fury, exasperation
+2924　悽　CHAI1　sorrowful, grieved, melancholy
+2925　惺　SING1　intelligent, clever, astute
+2926　愴　CHONG3　sad, broken-hearted, disconsolat
+2927　懈　GAAI3 HAAI5　idle, relaxed, remiss
+2928　抉　KYUT3　choose, select; gouge, pluck out
+2929　拚　PING1 PUN3　risk, disregard; go all out for
+2930　揀　GAAN2　choose; select; pick up; gather
+2931　揹　BUI3　carry things on one's back
+2932　撩　LIU1 LIU4　lift up, raise; leave, depart
+2933　撼　HAM6　move, shake
+2934　敞　CHONG2　roomy, spacious, open, broad
+2935　曠　KWONG3　extensive, wide, broad; empty
+2936　杉　CHAAM3　various species of pine and fir
+2937　栗　LEUT6　chestnut tree, chestnuts;surname
+2938　桐　TUNG4　name applied various trees
+2939　梗　GANG2　stem of flower, branch of plant
+2940　梨　LEI4　pear; opera; cut, slash
+2941　棗　JOU2　date tree; dates,jujubes;surname
+2942　棲　CHAI1　perch; roost; stay
+2943　榻　TAAP3　cot, couch, bed
+2944　檸　NING4　lemon
+2945　氫　HING1　amonia; hydrogen nitride
+2946　沐　MUK6　bathe, cleanse, wash, shampoo
+2947　涌　CHUNG1　surge up, bubble up, gush forth
+2948　淤　YU1　mud, sediment; clog up, silt up
+2949　淇　KEI4　river in henan province
+2950　渲　SYUN3　add repeated washes of color
+2951　滄　CHONG1　blue, dark green; cold
+2952　澆　HIU1 GIU1　spray, water, sprinkle
+2953　澡　JOU2　wash, bathe
+2954　濡　YU4　immerse, moisten; wet, damp
+2955　焚　FAN4　burn
+2956　熾　CHI3　burning hot, intense; burn; spre
+2957　狙　JEUI1　ape, monkey; spy, watch for; lie
+2958　玄　YUN4　deep, profound, abstruse
+2959　琳　LAM4　beautiful jade, gem
+2960　瑟　SAT1　large stringed musical instrument; dignified, massive; sound of wind
+2961　瑩　YING4　lustre of gems; bright, lustrous
+2962　畜　CHUK1　livestock, domestic animals
+2963　砂　SA1　sand; pebbles, gravel; gritty
+2964　禽　KAM4　birds, fowl; surname;; capture
+2965　秉　BING2　grasp, hold; bundle; authority
+2966　穫　WOK6　harvest, cut grain
+2967　笛　DEK6　bamboo flute; whistle
+2968　箏　JAANG1 JANG1　stringed musical instrument;kite
+2969　糕　GOU1　cakes, pastry
+2970　綑　KWAN2　coil, roll, bundle, tie up
+2971　罅　LA3　crack, fissure, split
+2972　羹　GANG1　soup, broth
+2973　耘　WAN4　weed
+2974　腥　SENG1 SING1　raw meat; rank, strong-smelling
+2975　臆　YIK1　chest, breast, bosom; thought
+2976　舟　JAU1　boat, ship; radical no. 137
+2977　芒　MONG4　miscanthus sinensis
+2978　荻　DIK6　reed, miscanthus sacchariflorus
+2979　萌　MANG4　bud, sprout
+2980　萎　WAI1 WAI2　wither, wilt
+2981　蔣　JEUNG2　surname; hydropyrum latifalium
+2982　虔　KIN4　act with reverence; reverent
+2983　蟬　SIM4 SIN4　cicada; continuous
+2984　蠱　GU2　posion; venom; harm; bewitch
+2985　袁　YUN4　robe; surname
+2986　襖　OU2　outer garments; coat, jacket
+2987　訕　SAAN3　abuse, slander; vilify; ridicule
+2988　詐　JA3　cheat, defraud, swindle; trick
+2989　嘅　GE3 sound of sighing; (cantonese) possessive
+2990　豁　KUT3　open up, clear; exempt
+2991　跪　GWAI6　kneel
+2992　迢　TIU4　far; distant
+2993　迭　DIT6　repeatedly, frequently
+2994　迸　BING3　gush out; burst forth; split
+2995　遑　WONG4　leisure, leisurely; hurry about
+2996　邪　CHE4　wrong, evil, depraved, vicious, perverse, heterodox
+2997　釐　LEI4　manage, control;1/1000 of a foot
+2998　鏗　HANG1　strike, beat, stroke; jingling
+2999　鐲　JUK6　bracelet, armband; small bell
+3000　頹　TEUI4　ruined, decayed; disintegrate
+3001　顱　LOU4　skull
+3002　饒　YIU4　bountiful, abundant, plentiful
+3003　驀　MAK6　suddenly, quickly, abruptly
+3004　鴦　YEUNG1　female mandarin duck
+3005　鴛　YUN1　male mandarin duck
+3006　鷹　YING1　eagle, falcon
+3007　鹽　YIM4　salt
+3008　于　YU1　in, on, at; go to; surname
+3009　亨　HANG1　smoothly, progressing, no trouble
+3010　仆　FU6 PUK1　fall forward; lie prostrate, prone; servant
+3011　俏　CHIU3　like, similar; resemble; pretty
+3012　冥　MING4　dark, gloomy, night; deep
+3013　凶　HUNG1　culprit; murder; bad, sad
+3014　凹　AAU3 NAP1 WA1　concave, hollow, depressed
+3015　勛　FAN1　meritorious deed; merits; rank
+3016　募　MOU6　levy, raise; summon; recruit
+3017　勳　FAN1　meritorious deed; merits; rank
+3018　卵　LEUN5　egg; ovum; roe; spawn
+3019　呱　GU1 GWA1 GWA2　wail, crying of child; swear at
+3020　咦　YI4　expression of surprise
+3021　哦　O6　oh? really? is that so?
+3022　唏　HEI1　weep or sob; grieve
+3023　啄　DEUK3　to peck
+3024　喋　DIP6　nag; chatter, babble, twitter
+3025　嗓　SONG2　voice; throat
+3026　嗤　CHI1　laugh at, ridicule, sneer; snort
+3027　嗯　NG2　final particle
+3028　噗　POK3　burst
+3029　噥　NUNG4　whisper
+3030　埸　YIK6　a border; a limit; a dike; a frontier; a boundary
+3031　墟　HEUI1　high mound; hilly countryside; wasteland
+3032　壬　YAM4　ninth of ten celestial stems
+3033　奚　HAI4　where? what? how? why?; servant
+3034　姜　GEUNG1　surname; ginger
+3035　娓　MEI5　comply; complying, agreeable
+3036　孟　MAANG6　first in series; great, eminent
+3037　寢　CHAM2　sleep, rest; bed chamber
+3038　屜　TAI3　drawer; tray; pad; screen
+3039　岑　SAM4　steep, precipitous; peak
+3040　峭　CHIU3　steep, precipitous, rugged
+3041　嵌　HAM6　inlay, set in; fall into; rugged
+3042　幌　FONG2　curtain, cloth screen
+3043　廓　GWOK3 KWOK3　broad, wide, open, empty; expand
+3044　弛　CHI4　loosen, relax, unstring a bow
+3045　彙　WAI6 WUI6　collect, compile, assemble; hedgehog
+3046　彥　YIN6　elegant, handsome; learned
+3047　徙　SAAI2　move one's abode, shift, migrate
+3048　恃　CHI5 SI5　rely on, presume on, trust to
+3049　悻　HANG6　anger, vexation; angry, indignan
+3050　悸　GWAI6　fearful, apprehensive, perturbed
+3051　慷　HUNG2 KONG2　ardent; generous, magnanimous
+3052　憧　CHUNG1 TUNG4　irresolute, indecisive; yearn for
+3053　懊　OU3　vexed, worried, nervous; regret
+3054　懵　MUNG2 MUNG5　stupid, ignorant, dull
+3055　拈　NIM1　pick up with fingers; draw lots
+3056　拐　GWAAI2　kidnap, abduct; turn
+3057　捺　NAAT6　press down heavily with fringers
+3058　揩　HAAI1　rub and wipe, dust, clean
+3059　揉　YAU4　rub, massage; crush by hand
+3060　摑　GWAAK3　box one's ears, slap
+3061　攔　LAAN4　obstruct, impede, bar, hinder
+3062　斟　JAM1　pour wine or tea into cup; gauge
+3063　晏　AAN3　peaceful, quiet; clear; late
+3064　晒　SAAI3　dry in sun, expose to sun
+3065　晌　HEUNG2　noon, midday; moment; land measu
+3066　曇　TAAM4　become cloudy, overcast
+3067　桓　WUN4　variety of tree; surname
+3068　梢　SAAU1　pointed tip of something long like a branch; rudder
+3069　梭　SO1　weaver's shuttle; go to and fro
+3070　椒　JIU1　pepper, spices
+3071　椰　YE4　palm tree, coconut palm
+3072　榴　LAU4　pomegranate
+3073　橙　CHAANG2 CHAANG4　orange
+3074　檬　MUNG1　type of locust oracacia
+3075　櫥　CHYU4　cabinet, wardrobe, cupboard
+3076　櫻　YING1　cherry, cherry blossom
+3077　沛　PUI3　abundant, full, copious; sudden
+3078　汨　MIK6　mi(luo) river in hunan province where qu yuan drowned himself; to sink
+3079　淌　TONG2　trickle; flow down; drip
+3080　澈　CHIT3　thoroughly, completely
+3081　潦　LIU4 LOU5　to flood; a puddle; without care
+3082　濂　LIM4　waterfall; river in hunan; river
+3083　濺　JIN1 JIN3　sprinkle, spray; spill, splash
+3084　炭　TAAN3　charcoal; coal; carbon
+3085　煌　WONG4　bright, shining, luminous
+3086　熄　SIK1　put out, extinguish, quash
+3087　燻　FAN1　smoke, fog, vapor; smoke, cure
+3088　狄　DIK6　tribe from northern china;surnam
+3089　猝　CHYUT3　abruptly, suddenly; abrupt
+3090　瑾　GAN2 GAN6　brilliance of gems; fine jade
+3091　甄　YAN1　examine, discern; grade; surname
+3092　盎　ONG3　cup; pot; bowl; abudnant
+3093　盞　JAAN2　small cup or container
+3094　睦　MUK6　friendly, amiable, peaceful
+3095　瞞　MUN4　deceive, lie; eyes half-closed
+3096　矓　LUNG4　faint, fuzzy, blurred
+3097　祟　SEUI6　evil spirit; evil influence
+3098　禾　WO4　grain still on stalk; rice plant
+3099　簷　SIM4 YIM4　eaves of house; brim
+3100　籽　JI2　seed, pip, pit, stone
+3101　粘　JIM1 NIM4 NIM1　viscous, mucous; glutinous
+3102　綺　YI2　fine thin silk; elegant,beautifu
+3103　繭　GAAN2　cocoon; callus, blister
+3104　脖　BUT6　neck
+3105　艦　LAAM6　warship
+3106　芸　WAN4　rue, herb used to keep insects away; to cut grass or weeds; simplified form of �Y:art; talent, ability; craft
+3107　荊　GING1　thorns; brambles; my wife; cane
+3108　茜　SIN6　madder, rubia cordifolia; reeds
+3109　蒨　SIN3　lush vegetation, luxuriant growth
+3110　蘿　LO4　type of creeping plant; turnip
+3111　蟻　NGAI5　ants
+3112　蟹　HAAI5　crab, brachyura
+3113　裊　NIU5　curling upwards; wavering gently
+3114　褸　LEUI5　lapel, collar; tattered, threadb
+3115　詫　CHA3　be surprised, be shocked
+3116　詭　GWAI2　deceive, cheat, defraud; sly
+3117　諧　HAAI4　harmonize, agree; joke, jest
+3118　跛　BAI1 BO2　lame
+3119　踞　GEUI3　crouch, squat; sit, occupy
+3120　遁　DEUN6　hide, conceal oneself; escape
+3121　遢　TAAP3　careless, negligent, slipshod
+3122　邑　YAP1　area, district, city, state
+3123　醞　WAN3　liquor, spirits, wine; ferment
+3124　鉅　GEUI6　steel, iron; great
+3125　鋸　GEUI3　a saw; to saw; amputate
+3126　鑿　JOK6　chisel; bore, pierce
+3127　闌　LAAN4　door screen; railing fence
+3128　隅　YU4　corner, nook, remote place
+3129　雌　CHI1　female; feminine; gentle, soft
+3130　霖　LAM4　long spell of rain, copious rain
+3131　靡　MEI5　divide, disperse, scatter
+3132　靦　TIN2　timid, shy, bashful
+3133　鞏　GUNG2　bind; firm, secure, strong
+3134　饑　GEI1　starve, be hungry; famine
+3135　馮　FUNG4　surname; gallop; by dint of
+3136　馴　CHEUN4 SEUN4　tame, docile, obedient
+3137　駱　LOK3　white horse w. black mane; camel
+3138　髓　SEUI5　bone marrow; essences, substance
+3139　魷　YAU4　cuttlefish
+3140　鴉　A1　crow
+3141　鶴　HOK6　crane
+3142　丫　A1　bifurcation
+3143　佣　YUNG6　commission fee
+3144　俐　LEI6　smooth; active; clever, sharp
+3145　偌　YE6　thus, so, like, such
+3146　偎　WUI1　cling to, cuddle, embrace, fondl
+3147　倏　SUK1　hastily, suddenly, abruptly
+3148　僧　JANG1　buddhist priest, monk; san of sanskrit sangha
+3149　僻　PIK1　out-of-the-way,remote;unorthodox
+3150　儕　CHAAI4　a company, companion; together
+3151　儻　TONG2　if
+3152　凋　DIU1　be withered, fallen; exhausted
+3153　凈　JENG6 JING6　clean, pure; cleanse
+3154　刨　PAAU4　carpenter's plane; plane, level
+3155　厄　AK1　adversity, difficulty, distress
+3156　吼　HAU3　roar, shout; bark, howl
+3157　咯　GAAK3 LO1 LOK3　final particle
+3158　啜　JYUT3　sip, suck up; sob, weep
+3159　唾　TEU3 TO3 TOU3　spit, spit on; saliva
+3160　嗦　SO1　suck
+3161　嘍　LAU1 LAU4　used in onomatopoetic expression
+3162　嘈　CHOU4　noisy
+3163　嚀　NING4　enjoin, instruct; charge
+3164　圭　GWAI1　jade pointed at top
+3165　壺　WU4　jar, pot, jug, vase; surname
+3166　夭　YIU1　young, fresh-looking; die young
+3167　姚　YIU4　handsome, elegant; surname
+3168　姦　GAAN1　adultery, debauchery; debauch
+3169　娑　SO1　dance, frolic; lounge; saunter
+3170　嫣　YIN1　charming, fascinating; gay
+3171　岌　KAP1　perilous, hazardous; high, steep
+3172　巫　MOU4　wizard, sorcerer, witch, shaman
+3173　帕　PAAK3　turban, kerchief, veil; wrap
+3174　弓　GUNG1　bow; curved, arched; rad. no. 57
+3175　弘　WANG4　enlarge, expand; liberal, great
+3176　弗　FAT1　not, negative
+3177　弧　WU4　wooden bow; arc, crescent
+3178　御　YU6　drive, ride; chariot; manage
+3179　怠　DOI6 TOI5　idle, remiss, negligent; neglect
+3180　恫　DUNG6　in pain, sorrowful
+3181　悚　SUNG2　be afraid, be scared, frightened
+3182　悍　HON5 HON6　courageous, brave; violent
+3183　惚　FAT1　absent-minded, confused
+3184　慄　LEUT6　shiver, shudder, tremble;tremble
+3185　慵　YUNG4　indolent, easy-going, lazy
+3186　憊　BAAI6 BEI6　tired, weary, fatigued
+3187　懾　JIP3 SIP3　afraid, scared, fearful
+3188　拎　LING1　to haul; to lift; to take
+3189　搔　SOU1　to scratch
+3190　搧　SIN3　fan; strike on face; stir up
+3191　撻　TAAT3　flog, whip; chastise
+3192　攢　CHYUN4 JAAN2　save, hoard
+3193　攫　FOK3　snatch away, seize; catch with
+3194　晝　JAU3　daytime, daylight
+3195　曖　OI3　obscure, dim, ambiguous, vague
+3196　楞　LING4　used for ceylon in buddhist text
+3197　檻　HAAM5 LAAM6　threshold, door-sill
+3198　歛　LIM5　draw back, fold back; collect
+3199　歹　DAAI2　bad, vicious, depraved, wicked
+3200　毆　AU2　beat, fight with fists, hit
+3201　氘　DOU1　
+3202　汲　KAP1　draw water from well; imbibe
+3203　涕　TAI3　tear; snivel, nasal mucus
+3204　涓　GYUN1　brook, stream; select; pure
+3205　涎　YIN4　saliva
+3206　湛　JAAM3　deep; profound; clear; tranquil
+3207　漾　YEUNG6　overflow; swirl, ripple; be toss
+3208　濁　JUK6　muddy, turbid, dirty, filthy
+3209　瀑　BUK6　waterfall, cascade; heavy rain
+3210　瀾　LAAN4　overflowing; waves, ripples
+3211　燙　TONG3　scald, heat; wash; iron clothes
+3212　狐　WU4　species of fox
+3213　珊　SAAN1　coral
+3214　琅　LONG4　variety of white carnelian; pure
+3215　琢　DEUK3　polish jade; cut jade
+3216　瑜　YU4　flawless gem or jewel
+3217　瓏　LUNG4　gem cut like dragon; tinkling of
+3218　甭　BANG2　there is no need
+3219　癖　PIK1　craving, weakness for; indigesti
+3220　癱　TAAN1　paralysis, palsy, numbness
+3221　皙　SIK1　white; kind of date
+3222　瞎　HAT6　blind, reckless; rash
+3223　瞌　HAP6　doze off; sleepy
+3224　矗　CHUK1　straight, upright, erect, lofty
+3225　砲　PAAU3　gun, cannon
+3226　磊　LEUI5　pile of rocks or stones; great
+3227　磯　GEI1　jetty; submerged rock; eddy
+3228　祉　JI2　happiness, blessings, good luck
+3229　秤　CHING3　balance, scale, steelyard
+3230　穆　MUK6　majestic, solemn, reverent; calm
+3231　穌　SOU1　revive,to rise again; collect
+3232　窘　KWAN3　embrassassed; hard-pressed
+3233　筏　FAT6　raft
+3234　箕　GEI1　sieve; dust pan, garbage bag
+3235　篤　DUK1　deep, true, sincere, genuine
+3236　簸　BO2 BO3　winnower
+3237　糞　FAN3　manure, dung, night soil
+3238　絆　BUN6　loop, catch; fetter, shackle
+3239　綽　CHEUK3　graceful, delicate; spacious
+3240　綵　CHOI2　varicolored silk; variegated
+3241　繆　MAU4 MAU6 MIU6　wind around, bind; prepare
+3242　罹　LEI4　sorrow, grief; incur, meet with
+3243　胳　GAAK3　armpit, arms
+3244　脊　JIK3　spine, backbone; ridge
+3245　腋　YAT6 YIT6　armpit
+3246　腆　TIN2　prosperous; good; prtruding
+3247　膛　TONG4　chest; hollow space, cavity
+3248　芃　PUNG4　luxuriant growth
+3249　芙　FU4　hibiscus
+3250　苟　GAU2　careless, frivolous; illicit; grammatical particle: if, but, if only; surname; grass name; distinguish dkw 30853 (ji4)
+3251　莞　GUN1 GUN2 WUN5　smiling; a kind of aquatic herb
+3252　蔚　WAI3 WAT3　luxuriant, thick; ornamental
+3253　蔑　MIT6　disdain, disregard; slight
+3254　蕊　YEUI5　unopened flowers, flower buds
+3255　蜃　SAN5 SAN6　marine monster which can change its shape; water spouts; clams
+3256　蜿　YUN1　creep, crawl
+3257　蜒　YIN4　millipede
+3258　蝴　WU4　butterfly
+3259　螞　MA5　ant; leech
+3260　螫　CHIK1 SIK1　poison; sting; poisonous insect
+3261　裔　YEUI6　progeny, descendants, posterity
+3262　褔　FU3　complex/double
+3263　診　CHAN2　examine patient, diagnose
+3264　譏　GEI1　ridicule, jeer, mock; inspect
+3265　赦　SE3　forgive, remit, pardon
+3266　躇　CHYU4　hesitate, falter, be undecided
+3267　蹭　SANG3　procrastinate, dilly dally
+3268　躊　CHAU4　hesitate, falter; smug, self-sat
+3269　軸　JUK6　axle, axletree; pivot; axis
+3270　輒　JIP3　sides of chariot where weapons
+3271　轇　GAAU1　complicated, confused; dispute
+3272　轕　GOT3　great array of spears and chario
+3273　辜　GU1　crime, criminal offense
+3274　逮　CHAP1　seize, catch; reach, arrive
+3275　邃　SEUI6　profound, detailed; deep
+3276　郁　YU4　sweet smelling, rich in aroma
+3277　酪　LOK3　cream, cheese; koumiss
+3278　鉗　KIM4　pincers, pliers, tongs
+3279　錚　JAANG1 JANG1　clanging sound; small gong
+3280　闕　KYUT3　watch tower; palace
+3281　隈　WUI1　cove, bay, inlet
+3282　雛　CHO1 CHO4　chick, fledging; infant, toddler
+3283　霎　SAP3　light rain, drizzle; an instant; passing
+3284　鞍　ON1　saddle; any saddle-shaped object
+3285　頷　HAM5　chin, jowl; give nod
+3286　颼　SAU1　sound of wind; blow chilly
+3287　餚　NGAAU4　prepared meat; food
+3288　駝　TO4　camel; humpbacked; carry on back
+3289　鬢　BAN3　hair on temples
+3290　鹹　HAAM4　salty, briny; salted; pickled
+3291　丑　CHAU2　clown, comedian; second of earth branches (ox);
+3292　乜　MAT1 ME2 NIP2　to squint; what? huh? (cant.)
+3293　伉　KONG3　compare, match; pair; spouse
+3294　佑　YAU6　help, protect, bless
+3295　侖　LEUN4　logical reasons, logical order
+3296　嘢　YE5　(cantonese) thing
+3297　倩　SIN3　beautiful, lovely; son-in-law
+3298　倜　TIK1　raise high; unrestrained
+3299　偕　GAAI1　together; be in order
+3300　僥　HIU1　be lucky; by chance, by luck
+3301　儷　LAI6　spouse, couple, pair
+3302　儼　YIM5　grave, respectful, majestic
+3303　兢　GING1　fearful, cautious, wary
+3304　刃　YAN6　edged tool, cutlery, knife edge
+3305　剷　CHAAN2　level off, pare down,raze ground
+3306　卦　GWA3　fortune telling; tell fortunes
+3307　叱　CHIK1　scold, shout at, bawl out
+3308　吶　NAAP6 NEUT6　raise voice, yell out loud,shout; stammer
+3309　咚　DUNG1　used as description of sound
+3310　咩　ME1　the bleating of sheep
+3311　咿　YI1　descriptive of creaking; laugh
+3312　喔　AK1 O1　descriptive of crying or of crow
+3313　啾　JAU1　wailing of child; chirp
+3314　嗰　GO2　(cantonese) that
+3315　喁　YUNG4　the mouth of a fish at the surface of the water, gasping for breath
+3316　嘟　DOU1　sound of horn tooting
+3317　嗔　CHAN1　be angry at, scold, rebuke
+3318　嘁　CHIK1　to be grieved; ashamed; used to imitate sounds
+3319　嘮　LOU4　chat, jaw, gossip, talk
+3320　嘿　HEI1　be silent, be quiet
+3321　噢　O1 YU2 YUK1　moan; interjection for pain, sad
+3322　垢　GAU3　dirt, filth, stains; dirty
+3323　妞　NAU2　girl
+3324　妮　NEI4　maid, servant girl; cute girl
+3325　娟　GYUN1　beautiful, graceful
+3326　嫉　JAT6　jealousy; be jealous of
+3327　嫻　HAAN4　elegant, refined; skillful
+3328　孃　NEUNG4　troubled, oppressed; fat; mother
+3329　寥　LIU4　few, scarce; empty, deserted
+3330　崛　GWAT6　towering, eminent; rise abruptly
+3331　崙　LEUN4　kunlun mountains in jiangsu
+3332　嶇　KEUI1　steep, sheer; rugged, rough
+3333　巒　LYUN4　mountain range; pointed mountain
+3334　幪　MUNG4　cover, shelter, screen; protect
+3335　弔　DIU3　condole, mourn, pity; hang
+3336　徨　WONG4　doubtful, irresolute, vacillatin
+3337　恬　TIM4　quiet, calm, tranquil, peaceful
+3338　恙　YEUNG6　illness, sickness; indisposition
+3339　恣　CHI3 JI3　indulge oneself, unrestrained
+3340　恿　YUNG2　instigate, incite; to alarm
+3341　惋　WUN2 YUN2　regret, be sorry; alarmed
+3342　愣　LING6　be in a daze
+3343　慳　HAN1　miserly, parsimonious, stingy
+3344　憫　MAN5　pity, sympathize with,grieve for
+3345　憬　GING2 GWING2　rouse, awaken; become conscious
+3346　扉　FEI1　door panel
+3347　扼　A1　grasp, clutch; choke, strangle
+3348　扳　PAAN1　pull; drag; right itself
+3349　抒　SYU1　express; eliminate; relieve
+3350　摒　BING3　expel, cast off; arrange
+3351　搐　CHUK1　cramp, spasm, convulsion; twitch
+3352　擎　KING4　lift up, hold up, support
+3353　攷　HAAU2　examine, test; investigate
+3354　斕　LAAN4　multicolored
+3355　曆　LIK6　calendar, era
+3356　曹　CHOU4　ministry officials; surname
+3357　札　JAAT3　letter, note; correspondence
+3358　杖　JEUNG6　cane, walking stick
+3359　柑　GAM1　tangerine, loose-skinned orange
+3360　栩　HEUI2　species of oak; be glad, be plea
+3361　棧　JAAN6　warehouse; tavern, inn
+3362　椏　NGA4　the forking branch of a tree
+3363　椿　CHEUN1　father; plant with white flowers
+3364　榷　KOK3　footbridge; toll, levy; monopoly
+3365　殃　YEUNG1　misfortune, disaster, calamity
+3366　殆　DOI6 TOI5　dangerous, perilous; endanger
+3367　毯　TAAM2　rug, carpet, blanket
+3368　汝　YU5　you
+3369　汩　MIK6　run swiftly
+3370　涔　SAM4　river in shaanxi; murky torrent
+3371　溉　KOI3　water, irrigate, flood; wash
+3372　漬　JI3　soak, steep; dye; stains; sodden
+3373　漱　SAU3 SOU3　gargle, rinse; wash, scour
+3374　滌　DIK6　wash, cleanse, purify; sweep
+3375　潺　SAAN4　sound of flowing water
+3376　澗　GAAN3　brook, mountain stream
+3377　澱　DIN6　sediment, dregs, precipitate
+3378　瀝　LIK6　trickle, drip; strain; dregs
+3379　焊　HON6　weld, solder
+3380　牟　MAU4　make; seek, get; barley; low
+3381　牡　MAAU5　male of animals; bolt of door
+3382　疇　CHAU4　farmland, arable land; category
+3383　痠　SYUN1　aching of limbs, muscular pains
+3384　瘓　WUN6　paralysis, numbness of limbs
+3385　瘟　WAN1　epidemic, plague, pestilence
+3386　瘡　CHONG1　tumor, boil, sore, wound
+3387　睫　JIT6　eyelashes
+3388　瞠　JAANG1　look at, stare at, gaze at
+3389　瞰　HAM3　watch, spy; overlook; look down
+3390　砍　HAM2　hack, chop, cut, fell
+3391　砸　JAAP3　smash, crush, break; pound, mash
+3392　硝　SIU1　saltpeter, niter; > to tan
+3393　硯　YIN6　inkstone
+3394　碳　TAAN3　carbon
+3395　磡　HAM3　cliff, ledge, bank; step
+3396　祐　YAU6　divine intervention, protection
+3397　穢　WAI3　dirty, unclean; immoral, obscene
+3398　竿　GON1　bamboo pole; penis
+3399　筲　SAAU1　basket, bucket
+3400　箇　GO3　numerary adjunct, piece; single
+3401　篷　PUNG4　awning, covering; sail; boat
+3402　粼　LEUN4　
+3403　紊　MAN6　confused, disorder
+3404　紕　PEI1　spoiled silk; hem of dress;mista
+3405　紜　WAN4　confused, in disorder; numerous
+3406　紳　SAN1　girdle; tie, bind; gentry
+3407　絞　GAAU2　twist, wring; entertwine; winch
+3408　綁　BONG2　bind, tie, fasten
+3409　綢　CHAU4　silk cloth, satin damask
+3410　緯　WAI5　woof; parallels of latitude
+3411　緘　GAAM1　seal, close; bind; letter
+3412　縈　YING4　entangle, entwine, coil
+3413　纜　LAAM6　hawser, heavy-duty rope, cable
+3414　翡　FEI2 FEI6　kingfisher; emerald, jade
+3415　翰　HON6　writing brush, pen, pencil
+3416　耽　DAAM1　indulge in; be negligent
+3417　聶　NIP6　whisper; surname
+3418　胭　YIN1　rouge, cosmetics
+3419　舅　KAU5 KAU3　mother's brother, uncle
+3420　茉　MUT6　white jasmine
+3421　苔　TOI1 TOI4　moss, lichen
+3422　莎　SA1　kind of sedge grass, used anciently for raincoats
+3423　莽　MONG5　thicket, underbrush; poisonous
+3424　蒞　LEI6　reach, arrive; manage
+3425　蒲　POU4　type of rush; vine
+3426　蒜　SYUN3　garlic
+3427　蒐　SAU1　collect, gather, assemble; seek; spring hunt; assemble for war
+3428　蔔　BAAK6　radish
+3429　薯　SYU4 SYU5　yam, tuber, potato
+3430　藹　OI2　lush; affable, friendly
+3431　蘸　JAAM3　dip; remarry
+3432　蛛　JYU1　spider
+3433　蠅　YING4　flies
+3434　嗱　NA4　(cantonese) exclamation, there! now!
+3435　褂　GWA3　jacket, overcoat, coat; gown
+3436　裾　GEUI1　lapel, border of garment; skirt
+3437　褐　HOT3　coarse woolen cloth; dull, dark
+3438　訟　JUNG6　accuse; argue, dispute; litigate
+3439　詮　CHYUN4　explain, expound, comment on
+3440　誡　GAAI3　warn, admonish; warning
+3441　諦　DAI3　careful, attentive
+3442　謐　MAT6　calm, quiet, still; cautious
+3443　譴　HIN2　reprimand, scold, abuse
+3444　跎　TO4　slip, stumble, falter; vacilate
+3445　跚　SAAN1　stagger, limp
+3446　跤　GAAU1　stumble, fall down; wrestle
+3447　蹉　CHO1　error, mistake, slip; failure
+3448　蹋　DAAP6　step on, tread on; stumble, slip
+3449　蹬　DANG6　step on, tread on; lose energy
+3450　躉　DAN2　sell or buy wholesale; store
+3451　躋　JAI1　ascend, go up, rise
+3452　躬　GUNG1　body; personally, in person
+3453　辟　BIK1 PIK1　law, rule; open up, develop
+3454　邋　LAAP6　rags
+3455　郡　GWAN6　administrative division
+3456　酣　HAM4　enjoy intoxicants
+3457　醺　FAN1　get drunk, be intoxicated
+3458　釁　YAN3　smear with blood in sacrifice; rift, quarrel
+3459　鈣　KOI3　calcium
+3460　鈺　YUK6　rare treasure
+3461　鉸　GAAU2　hinge; shears,scissors
+3462　鋰　LEI5　lithium
+3463　鏈　LIN6　chain, wire, cable; chain, shack
+3464　鑲　SEUNG1　insert, inlay, set, mount; fill
+3465　閨　GWAI1　small entrance; women's quarters
+3466　閩　MAN5　fujian province; a river;a tribe
+3467　閤　GAP3 HAP6　small side door; chamber; family
+3468　隘　AAI3　narrow, confined; strategic pass
+3469　雯　MAN4　cloud patterns,coloring of cloud
+3470　鞦　CHAU1　leather stap; swing
+3471　韆　CHIN1　swing
+3472　顰　PAN4　frown, knit brows; with knitted
+3473　馭　YU6　drive, ride; manage, control
+3474　骷　FU1　skeleton
+3475　骼　GAAK3　bone; skeleton; corpse
+3476　髏　LAU4　skull; skeleton
+3477　髹　YAU1　
+3478　魆　YUT6　black
+3479　鯉　LEI5　carp
+3480　鱗　LEUN4　fish scales
+3481　齋　JAI1　vegetarian diet; study
+3482　丕　PEI1　great, grand, glorious, distinguished
+3483　乒　BING1 PING1　used with pong for ping pong
+3484　乓　BAM1 PONG1　used with ping for ping pong
+3485　亙　GANG2　extend across, through; from
+3486　仕　SI6　official; serve government
+3487　伎　GEI6　talent, skill, ability
+3488　伺　JI6　serve, wait upon, attend; examine
+3489　佯　YEUI4　pretend, feign; false, deceitful
+3490　佻　TIU1 TIU4　frivolous; unsteady; delay
+3491　俞　YU4　surname; consent, approve
+3492　倣　FONG2　imitate
+3493　僕　BUK6　slave, servant, i
+3494　冗　YUNG2　excessive; superfluous
+3495　冽　LIT6　cold and raw; pure, clear
+3496　凰　WONG4　female phoenix
+3497　劾　HAT6　examine into, impeach, charge
+3498　勻　WAN4　equal, impartially, uniform,even
+3499　呃　AAK1 AK1　belch; hiccup
+3500　呸　PEI1　expression of reprimand
+3501　咎　GAU3　fault, defect; error, mistake
+3502　咂　JAAP3　to suck, to smack the lips
+3503　哇　WA1　vomit; cry of an infant
+3504　唁　YIN6　express condolence
+3505　哺　BOU6　chew food; feed
+3506　哮　HAAU1　cough; pant; roar
+3507　哽　GANG2　choke
+3508　喱　LEI1　gramme; syllable
+3509　嗟　JE1　sigh, alas
+3510　嚎　HOU4　cry loudly, yell, scream
+3511　囪　CHEUNG1 CHUNG1　chimney, funnel
+3512　囹　LING4　prison, enclosure
+3513　囿　YAU6　pen up; limit, constrain
+3514　圄　YU5　prison, jail
+3515　圜　WAAN4 YUN4　circle, surround; encircle
+3516　坍　TAAN1　collapse; landslide
+3517　坷　HO2　clod of earth, lump of soil
+3518　垣　WUN4　low wall
+3519　壼　KWAN2　palace corridor or passageway
+3520　妃　FEI1　wife, spouse; imperial concubine
+3521　妾　CHIP3　concubine
+3522　婪　LAAM4　covet; covetous, avaricious
+3523　娼　CHEUNG1　prostitute, harlot
+3524　婷　TING4　pretty; attractive; graceful
+3525　嫖　PIU4　patronize prostitutes, frequent
+3526　孀　SUNG1　widow
+3527　孜　JI1　be as diligent as possible
+3528　宛　YUN2　seem, as if, crooked
+3529　寐　MEI6　sleep; be asleep
+3530　屎　SI2　excrement, dung
+3531　屹　NGAT6　to rise high; to stand erect
+3532　嶄　JAAM2　high, steep, precipitous; new
+3533　巍　NGAI4　high, lofty, majestic, eminent
+3534　巢　CHAU4　nest, living quarter in tree
+3535　庶　SYU3　numerous, various; multitude
+3536　彊　GEUNG1 GEUNG6 KEUNG4 KEUNG5　stubborn, uncompromising
+3537　彝　YI4　yi; tripod, wine vessel; rule
+3538　彪　BIU1　tiger; tiger stripes; tiger-like
+3539　徉　YEUNG4　wonder, rove, stray; hesitating
+3540　徜　SEUNG4　walking and fro; lingering
+3541　徬　PONG4　wander about, walk along side of
+3542　忱　SAM4　truth, sincerity; sincere
+3543　忑　TIK1　fearful; nervous; timid
+3544　惻　CHAK1　feel anguish, feel compassion
+3545　慫　SUNG2　to alarm; to instigate, arouse, incite
+3546　憩　HEI3　rest, take rest
+3547　戌　SEUT1　eleventh of terrestrial branches
+3548　戮　LUK6　kill, massacre; oppress
+3549　戳　CHEUK3　prick, stab; stamp, seal, chop
+3550　捍　HON2 HON6　ward off, guard against, defend
+3551　揍　JAU3　hit, beat; smash, break
+3552　搗　DOU2　hull; thresh; beat, attack
+3553　搥　CHEUI4　beat, pound; strike, tap out mes
+3554　斡　WAT3　revolve, rotate, turn
+3555　斧　FU2　axe, hatchet; chop, hew
+3556　昭　CHIU1　bright, luminous; illustrious
+3557　暉　FAI1　sunshine; light, bright, radiant
+3558　暱　NIK1　intimate, close; approach
+3559　曦　HEI1　sunlight, sunshine, early dawn
+3560　杳　MIU5　obscure, dark, mysterious, deep
+3561　栓　SAAN1　wooden peg, post or stick
+3562　槐　WAI4　locust tree
+3563　槳　JEUNG2　oar, paddle
+3564　欖　LAAM5　olive
+3565　殛　GIK1　to put to death to imprison for life
+3566　殤　SEUNG1　die young; national mourning
+3567　毓　YUK1　give birth to; bring up, educate
+3568　氓　MAN4 MONG4　people; subjects; vassals
+3569　沁　SAM3　soak into, seep in, percolate
+3570　沌　DEUN6　chaotic, confused; turbid, murky
+3571　沃　YUK1　water, irrigate; fertile, rich
+3572　沼　JIU2　lake, fishpond, swamps
+3573　泯　MAN5　destroy, eliminate; perish
+3574　浙　JIT3　zhejiang province; river
+3575　渦　GWO1 WO1　swirl, whirlpool, eddy
+3576　溯　SOU3　go upstream, go against current; formerly
+3577　滸　WU2　riverbank, shore
+3578　滕　TANG4　 county in shandong provin
+3579　瀏　LAU4　clear; bright; whistling
+3580　瀚　HON6　vast, wide, extensive
+3581　炆　MAN1　
+3582　烽　FUNG1　signal fire; tower where signal
+3583　焰　YIM6　flame, blaze; glowing, blazing
+3584　熊　HUNG4　bear; brilliant; bright; surname
+3585　熨　TONG3 WAN6 WAT1　iron, press
+3586　爿　BAAN2 CHEUNG4　half of tree trunk; rad. no. 90
+3587　犁　LAI4　plow
+3588　猿　YUN4　ape
+3589　琉　LAU4　sparkling stone; glazed, opaque
+3590　瑙　NOU5　agate; cornelian
+3591　咖　GA3　coffee
+3592　璧　BIK1　piece of jade with hole in it
+3593　畝　MAU5　chinese land measure; fields
+3594　畦　KWAI4　sections in vegetable farm
+3595　疤　BA1　scar, cicatrix; birthmark
+3596　疵　CHI1 CHI4　flaw, fault, defect; disease
+3597　癒　YU6　get well, recover
+3598　癥　JING1　obstruction of bowels
+3599　皓　HOU6　bright, luminous; clear; hoary
+3600　眯　MAI5 MEI1　be blinded
+3601　睞　LOI6　squint at; sidelong glance
+3602　睬　CHOI2　notice; pay attention to
+3603　睨　NGAI6　look askance at, glare at;squint
+3604　瞟　PIU5　glare at; look askance at, squin
+3605　瞼　GIM2　eyelid
+3606　矯　GIU2　correct, rectify, straighten out
+3607　砵　BUT3　syllable
+3608　碘　DIN2　iodine
+3609　磕　HAP6　hit; collide, knock into; sound
+3610　礁　JIU1　reef; jetty; submerged rocks
+3611　祇　JI2 KEI4　only, merely, but
+3612　祗　JI1　respect, look up to, revere
+3613　稠　CHAU4　dense, crowded, packed; soupy
+3614　稔　NAM5　ripe grain; harvest; know; famil
+3615　稟　BAN2　report to, petition
+3616　窟　FAT1　hole, cave; cellar; underground
+3617　窣　SEUT1　to rush out of a den; rustling, wispering
+3618　笈　KAP1　bamboo box used carry books
+3619　笠　LAP1　bamboo hat; bamboo covering
+3620　笫　DAI6　
+3621　筐　KWAANG2　bamboo basket or chest
+3622　筍　SEUN2　bamboo shoot; joint; tendon
+3623　箸　JYU3 JYU6　chopsticks
+3624　篆　SYUN6　seal script; seal,official stamp
+3625　籟　LAAI6　bamboo flute; pipe;various sound
+3626　紈　YUN4　white silk, fine silk; gauze
+3627　紓　SYU1　loosen, relax, relieve; extricat
+3628　絳　GONG3　deep red;river in shanxi provinc
+3629　緋　FEI1　scarlet, dark red, crimson;purpl
+3630　締　DAI3　tie, join, connect; connection
+3631　緬　MIN5　distant, remote; think of
+3632　緞　DYUN6　satin
+3633　縝　JAN2　detailed, fine; closely woven
+3634　繚　LIU4　wind round, rap around, bind
+3635　缸　GONG1　earthen jug, crock, cistern
+3636　罄　HING3　exhaust, run out, use up; empty
+3637　羔　GOU1　lamb, kid
+3638　翳　AI3　shade, screen; hide, screen
+3639　耆　KEI4　man of sixty; aged, old
+3640　肋　LAAK6 LAK6　ribs; chest
+3641　胱　GWONG1　bladder
+3642　腎　SAN5　kidneys; testes, gizzard
+3643　腮　SOI1　lower part of face; jaw; gills of a fish
+3644　腩　NAAM4　
+3645　臀　TYUN4　buttocks
+3646　臾　YU4　moment, instant, short while
+3647　舵　TO4 TO5　rudder, helm
+3648　艙　CHONG1　hold of ship; cabin
+3649　茅　MAAU4　reeds, rushes, grass; surname
+3650　茁　JYUT3　sprout, flourish; vigorous
+3651　茹　YU4　roots; vegetables; eat; bear
+3652　莠　YAU5　weeds, tares; undesirable, evil
+3653　菠　BO1　spinach and similar greens
+3654　菇　GU1　mushrooms
+3655　蔗　JE3　sugar cane
+3656　蕾　LEUI5　buds, unopened flowers
+3657　薑　GEUNG1　ginger
+3658　薛　SIT3　kind of marsh grass;feudal state
+3659　藩　FAAN4　fence; boundary; outlying border
+3660　虹　HUNG4　rainbow
+3661　蜓　TING4　dragonfly
+3662　蛻　SEUI3 TEUI3　molt, exuviate, shed
+3663　蜻　CHING1　dragonfly
+3664　蜥　SIK1　lizard
+3665　蜘　JI1　spider
+3666　袒　TAAN2　strip; lay bare; bared; naked
+3667　褓　BOU2　swaddling cloth; infancy
+3668　褥　YUK6　mattress, cushion; bedding
+3669　襤　LAAM4　ragged, tattered, threadbare
+3670　覷　CHEUI3　peep at; watch, spy on
+3671　訛　NGO4　swindle, cheat; erroneous, wrong;
+3672　詛　JO3　curse; swear, pledge
+3673　諂　CHIM2　flatter, truckle, toady
+3674　諫　GAAN3　remonstrate, admonish
+3675　譟　CHOU3　clamor, noise, din; slander
+3676　譭　WAI2　to slander; to defame
+3677　踹　CHAAI2　trample, tread, kick
+3678　踵　DUNG2 JUNG2　heel; follow; visit, call on
+3679　踰　YU4　exceed, transgress; cross over
+3680　蹙　CHUK1　urgent, suddenly; grieve, lament
+3681　蹣　MUN4　to jump over; to limp
+3682　蹺　HIU1　raise one's foot
+3683　軋　GAAT3 JAAT3　crush by weight; grind
+3684　逞　CHING2　indulge oneself; brag, show off
+3685　逡　SEUN1　retreat, withdraw, fall back
+3686　遐　HA4　afar, distant; old, advanced in
+3687　遏　AAT3　stop, suppress, curb, check
+3688　遼　LIU4　distant, far
+3689　酌　JEUK3　serve wine; feast; deliberate
+3690　酥　SOU1　butter; flaky, crispy, light, fluffy
+3691　酢　CHOU3 JOK6　toast one's host with wine
+3692　釆　BIN6　distinguish; radical no. 165
+3693　鋤　CHO4　hoe; eradicate
+3694　着　JEUK6　make move, take action
+3695　鍍　DOU6　plate, coat, gild
+3696　鍥　KIT3　sickle; cut, carve, engrave
+3697　鏢　BIU1　dart, spear, harpoon; escort
+3698　鏘　CHEUNG1　tinkle, clang, jingle
+3699　鐐　LIU4　fetters
+3700　阱　JING6　pitfall, trap, snare
+3701　陝　SIM2　mountain pass; shaanxi province
+3702　雍　YUNG1　harmony, union; harmonious; obst
+3703　靖　JING6　pacify; appease; calm, peaceful
+3704　靼　DAAT3　tartars
+3705　韃　TAAT3　tatars
+3706　韌　YAN6　strong and pliable, resilient
+3707　颯　SAAP3　sound of wind; bleak; melancholy
+3708　颳　GWAAT3　to blow
+3709　飪　YAM6　cooked food;cook until well done
+3710　飴　YI4　sweet-meats; sweet-cakes; syrup
+3711　餒　NOI5　hungry, starving, famished
+3712　餡　HAAM5　pastry filling, stuffing; secret
+3713　駿　JEUN3　excellent horse, noble steed
+3714　骯　HONG4　dirty
+3715　鰭　KEI4　fin
+3716　鳶　YUN1　kite
+3717　鶩　MOU6　duck
+3718　鶯　ANG1　oriole, green finch
+3719　麾　FAI1　pennant, flag, banner; signal to
+3720　鼾　HON4 HON6　snore loudly
+3721　龜　GWAI1　turtle or tortoise; cuckold
+3722　丞　SING4　assist, aid, rescue
+3723　亟　GIK1 KEI3　urgently, immediately, extremely
+3724　俚　LEI5　rustic, vulgar, unpolished; mean
+3725　侷　GUK6 GUK6　narrow, cramped, confined
+3726　俺　YIM3　personal pronoun, i
+3727　僂　LAU4　humpback; surname
+3728　兀　NGAT6　to cut off the feet
+3729　冉　YIM5　tender; weak; proceed gradually
+3730　剋　HAK1　subdue, overcome; cut down
+3731　匡　HONG1　correct, restore, revise
+3732　卉　WAI2　general term for plants; myriads
+3733　占　JIM1　divine; observe; versify
+3734　叻　LAK6　place names
+3735　吭　HAANG1 HONG4　throat
+3736　吮　SYUN5　suck with mouth, sip, lick
+3737　呶　NAAU4　talkative; clamour; hubbub
+3738　呤　LING4　purine in chem.compound/whisper
+3739　咸　HAAM4　together; all, completely;united
+3740　唷　YO1　final partical
+3741　啕　TOU4　wail
+3742　唬　FU2　to intimidate; to scare
+3743　啁　JAU1　chirp, twitter, twittering
+3744　睿　YEUI6　shrewd, astute, clever, keen
+3745　喙　FUI3　beak, bill, snout; pant
+3746　喎　WA1　a wry mouth
+3747　嗨　HOI1　hi
+3748　嗑　HAAP3 HOP6　eat seeds; reproach; loquacious
+3749　嗆　CHEUNG1　choke by smoke; irritates nose
+3750　嗒　TAP3　
+3751　噎　YIT3　choke; hiccup
+3752　噁　OK3　nastiness; nauseate: sickening
+3753　噤　GAM3　close; be silent,be unable speak
+3754　噠　DAAT6　sound made get horse move forwar
+3755　嚶　YING1　seek friends; also used in onoma
+3756　囫　FAT1　entire, whole
+3757　圇　LEUN4　all, complete, entire
+3758　壅　YUNG1 YUNG2　to obstruct
+3759　嚟　LAI4　
+3760　壑　KOK3　bed of torrent, narrow ravine
+3761　奎　FUI1　stride of man; one of twenty-eig
+3762　奠　DIN6　pay respect; settle
+3763　姍　SAAN1　slander; ridicule; proceed slowly
+3764　姘　PING1　illicit sexual relations
+3765　姣　GAAU2　beautiful, handsome, pretty
+3766　姥　LOU5 MOU5　maternal grandmother; midwife
+3767　娥　NGO4　be beautiful; good; surname
+3768　婀　O2　be beautiful, be graceful
+3769　婢　PEI5　servant girl; your servant
+3770　媲　PEI3　marry off, pair, match; compare
+3771　嫋　NIU5　slender and delicate
+3772　嬝　NIU5　delicate; graceful
+3773　嬤　MA1　mother
+3774　孑　KIT3　remaining, left-over; lonely
+3775　孽　YIT6　evil; son of concubine; ghost
+3776　宰　JOI2　to slaughter; to rule
+3777　寇　KAU3　bandits, thieves; enemy; invade
+3778　寮　LIU4　shanty, hut, shack
+3779　岐　KEI4　high; majestic; fork in road
+3780　岱　DOI6　daishan one of five sacred mount
+3781　峙　SI6　stand erect, stand up; pile up
+3782　崑　KWAN1　kunlun mountains in jiang su province.
+3783　崔　CHEUI1　high, lofty, towering; surname
+3784　嶂　JEUNG3　cliff; mountain barrier
+3785　帖　TIP3　invitation card; notice
+3786　帙　DIT6　book cover; satchel or bag
+3787　幔　MAAM6　curtain, screen, tent
+3788　廬　LOU4　hut, cottage; name of a mountain
+3789　徽　FAI1　a badge, insignia
+3790　怏　YEUNG2 YEUNG3　discontented, dispirited, sad
+3791　怩　NEI4　shy, timid, bashful; look ashame
+3792　怦　PING1　eager, ardent, impulsive;anxious
+3793　恁　YAM6　that, like this, thus, so, such
+3794　惦　DIM3　think of, remember, miss
+3795　悼　DOU6　grieve, mourn, lament; grieved
+3796　愜　HIP3　be satisfied, be comfortable
+3797　愍　MAN5　pity, sympathize with
+3798　啱　NGAAM1　(cantonese) correct, right
+3799　憋　BIT3　to supress inner feeling; hasty
+3800　懨　YIM1　feeble, sickly; tranquil, calm
+3801　單　DAAN1　single, individual, only; lone
+3802　戊　MOU6　fifth of ten celestial stems
+3803　戾　LEUI6　perverse,recalcitrant,rebellious
+3804　拌　PUN3　mix
+3805　抿　MAN5　pucker up lips in smile; press
+3806　拇　MOU5　thumb; big toe
+3807　拷　HAAU2　torture and interrogate; hit
+3808　捎　SAAU1　to select; to take; to carry
+3809　捆　KWAN2　tie up; bind, truss up; bundle
+3810　掬　GUK1　grasp with both hands; hold with
+3811　掂　DIM1　heft, hold or weigh in palm
+3812　掮　KIN4　to bear on the shoulders
+3813　啲　DI1　(cantonese) a few
+3814　揖　YAP1　salute, bow; defer to, yield
+3815　搾　JA3　press, squeeze, extract
+3816　搪　TONG4　ward off, evade; parry; block
+3817　撂　LIU1　to leave (it)
+3818　摹　MOU4　trace, copy, duplicate; pattern
+3819　撬　GIU6 HIU3　lift, raise; open
+3820　攘　YEUNG4 YEUNG5　seize, take by force; repel
+3821　攙　CHAAM1 CHAAM4　give helping hand
+3822　攣　LYUN4　tangled; entwined; crooked
+3823　攸　YAU4　distant, far; adverbial prefix
+3824　敝　BAI6　break, destroy; broken, tattered
+3825　斃　BAI6　kill; die violent death
+3826　旛　FAAN1　a pennant, a banner
+3827　旭　YUK1　rising sun; brilliance; radiant
+3828　喺　HAI2　(cantonese) to be located at
+3829　昵　NIK1　intimate, close; approach
+3830　晦　FUI3　dark, unclear, obscure; night
+3831　曙　SYU5　bright, light of rising sun
+3832　杏　HANG6　apricot; almond
+3833　杞　GEI2　willow; medlar tree; feudal stat
+3834　杭　HONG4　cross stream; navigate
+3835　柵　CHAAK3 SAAN1 SAAN3　fence; palisade; grid
+3836　枷　GA1　cangue scaffold
+3837　栖　CHAI1　perch; roost; stay
+3838　桎　JAT6　fetters, shackles, handcuffs
+3839　梧　NG4　sterculia platanifolia
+3840　梆　BONG1　watchman's rattle
+3841　梏　GUK1　handcuffs, manacles, fetters
+3842　棺　GUN1　coffin
+3843　棱　LING4　squared timber; angle, edge
+3844　榨　JA3　extractor of juices; a vegetable
+3845　樞　SYU1　door hinge; pivot; center of pow
+3846　橄　GAM3　olive
+3847　樵　CHIU4　woodcutter; firewood;gather wood
+3848　檀　TAAN4　sandalwood, hardwood; surname
+3849　檄　HAT6　call arms; urgency
+3850　櫛　JIT1　comb out; weed out, eliminate
+3851　檳　BAN1　betelnut, areca nut
+3852　殄　CHAN2 TIN5　to end; to exterminate
+3853　殞　WAN5　die, perish; vanish; fall
+3854　殯　BAN3　encoffin; embalm; funeral
+3855　氨　ON1　amonia; hydrogen nitride
+3856　氤　YAN1　hanging fog, misty
+3857　氳　WAN1　life giving influences of nature; spirit of harmony; prosperity
+3858　汀　TING1　sandbar, beach, bank, shore
+3859　汔　NGAT6　
+3860　汶　MAN6　a river in shandong province
+3861　泌　BEI3　to seep out, excrete
+3862　沽　GU1　buy and sell;inferior in quality
+3863　泄　SIT3　leak; vent; flow; reveal
+3864　洱　YI5　a lake in yunnan
+3865　涸　KOK3　dried up; exhausted, tired; dry
+3866　渤　BUT6　swelling; name of a sea gulf
+3867　湮　YAN1　bury, sink, block up; stain
+3868　渭　WAI6　name of a river in shaanxi
+3869　湃　BAAI3 PAAI3　sound of waves; turbulent; chill
+3870　淼　MIU5　
+3871　漩　SYUN4　eddy, whirlpool
+3872　漣　LIN4　flowing water; ripples; weeping
+3873　漪　YI1　ripples on water; swirling
+3874　潭　TAAM4　deep pool, lake; deep, profound
+3875　潘　PUN1　surname; water from rinsing rice
+3876　澇　LOU6　inundate, flood; torrent
+3877　澍　SYU6　timely rain, life-giving rain
+3878　濘　NING6　mud; miry, muddy, stagnant
+3879　瀆　DUK6　ditch, sluice, gutter, drain
+3880　瀕　BAN1 PAN4　approach, be on verge of; near
+3881　灶　JOU3　kitchen range, cooking stove
+3882　炊　CHEUI1　cook; meal
+3883　炙　JEK3 JIK3　roast, broil; toast; cauterize
+3884　烙　LOK3　brand, burn; branding iron
+3885　煦　YU3　kind, gentle, gracious, genial
+3886　煸　BIN1　
+3887　熠　YAP1　bright and sparkling
+3888　燉　DAN6 DEUN6　heat with fire; stew
+3889　燎　LIU4　burn, set afire; illuminate; shi
+3890　燠　YUK1　warm; warmth
+3891　燼　JEUN6　cinders, ashes, embers; remnants
+3892　爍　SEUK3　shine, glitter, sparkle
+3893　狒　FEI6　baboon
+3894　狡　GAAU2　cunning, deceitful, treacherous
+3895　狽　BUI3　legendary animal with short fore
+3896　狷　GYUN3　rash, impetuous, impulsive
+3897　猖　CHEUNG1　mad, wild, reckless, unruly
+3898　獗　KYUT3　unruly, wild, violent, lawless
+3899　獷　GWONG2　fierce, rude, uncivilized
+3900　玖　GAU2　black-colored jade
+3901　單　DAAN1　single, individual, only; lone
+3902　琵　PEI4　guitar-like instrument
+3903　琶　PA4　guitar-like instrument
+3904　琛　SAM1　treasure, valuables
+3905　琦　KEI4　gem, precious stone, jade
+3906　瑚　WU4　coral; person of virtue
+3907　璀　CHEUI1　lustre of gems; glitter; shine
+3908　璣　GEI1　pearl that is not quite round
+3909　璨　CHAAN3　gems; luster of gems; lustrous
+3910　瓊　KING4　jade; rare, precious; elegant
+3911　疹　JAN2　measles; rash; fever
+3912　痙　GING6　convulsions, fits
+3913　瘁　SEUI6　feel tired, be weary,be worn out
+3914　痺　BEI3　paralysis, numbness
+3915　瘍　YEUNG4　ulcers, sores; infection
+3916　瘖　YAM1　dumb, mute, unable speak
+3917　瘠　JIK3　thin, emaciated; barren
+3918　癸　GWAI3　last of ten celestial stems
+3919　睏　KWAN3　be tired, sleepy
+3920　瞽　GU2　blind; blind musician; stupid
+3921　瞿　GEUI3　surname
+3922　砧　JAM1　anvil; flat stone; exe
+3923　砦　JAAI6　stockade, fort, military outpost
+3924　硅　GWAI1　silicon
+3925　礫　NIK1　gravel, pebbles
+3926　竇　DAU6　surname; hole, burrow; corrupt
+3927　竽　YU1 YU4　ancient woodwind instrument
+3928　笙　SAANG1　small gourd-shaped musical instrument
+3929　筷　FAAI3　chopsticks
+3930　箋　JIN1　note, memo; stationery; comments
+3931　篩　SAI1　sieve, filter, screen; sift
+3932　簫　SIU1　musical instrument like pan-pipes, bamboo flute;
+3933　籐　TANG4　climbing plants, vines, cane
+3934　籬　LEI4　bamboo or wooden fence; hedge
+3935　粟　SUK1　unhusked millet; grain
+3936　紘　WANG4　string; vast, expansive
+3937　絃　YIN4　string on musical instrument
+3938　絢　HYUN3　variegated, adorned; brilliant
+3939　絹　GYUN3　kind of thick stiff silk
+3940　綏　SEUI1　soothe, appease, pacify; carriage harness
+3941　綷　CHEUI3　
+3942　縐　JAU3　crepe, crape, wrinkles, creases
+3943　纓　YING1　chin strap; tassel; annoy, bothe
+3944　罔　MONG5　net; deceive; libel; negative
+3945　胺　ON1　amine
+3946　脛　HING5　shinbone; calf of leg
+3947　腴　YU4　fat; fertile, rich; plump, soft
+3948　膾　KUI2　minced meat or fish
+3949　舔　TIM2　lick with tongue; taste
+3950　舷　YIN4　sides of boat, bulwarks, gunwale
+3951　芋　WU6　taro
+3952　芭　BA1　plantain or banana palm;fragrant
+3953　芥　GAAI3　mustard plant; mustard; tiny
+3954　苞　BAAU1　variety of rush; calyx of flower
+3955　荀　SEUN1　surname; ancient state; plant
+3956　莘　SAN1　long; numerous; a marsh plant whose root is used for medicine
+3957　荳　DAU6　beans, peas; bean-shaped
+3958　薔　CHEUNG4　rose
+3959　薇　MEI4　osmunda regalis, species of fern
+3960　藐　MIU5　disregard, slight, disdain
+3961　蘑　MO4　type of edible mushroom
+3962　蛀　JYU3　insects that eat books, clothes
+3963　蜴　YIK6　lizard
+3964　蜷　KYUN4　creep like worm, curl one's body
+3965　蜮　WIK6　a fabulous creature like a turtle; a toad
+3966　蝠　FUK1　kind of bat
+3967　蝸　WA1 WO1　snail, eulota callizoma maritima
+3968　蝙　BIN1 BIN2　bat
+3969　蟒　MONG5　python, boa constrictor
+3970　蠔　HOU4　oyster
+3971　衢　KEUI4　highway; thoroughfare, intersect
+3972　衾　KAM1　coverlet, quilt
+3973　袛　DAI1　
+3974　襁　KEUNG5　swaddling clothes
+3975　襄　SEUNG1　aid, help, assist; undress
+3976　襬　BAAI2　lower part of a robe
+3977　覦　YU4　desire strongly, covet, long for
+3978　覬　GEI3　covet, long for, desire
+3979　訥　NAT6 NEUT6　slow of speech; mumble; stammer
+3980　詆　DAI2　slander, comdemn, reproach
+3981　誅　JYU1　execute, kill, put death; punish
+3982　詬　GAU2 HAU2　abuse, scold, berate, insult
+3983　詡　HEUI2　boast, brag; popular, well known; to flatter
+3984　諉　WAI2　pass buck, lay blame on others
+3985　諛　YU4　flatter, truckle
+3986　諜　DIP6　intelligence report; spy; spying
+3987　諳　AM1　versed in, fully acquainted with
+3988　諶　SAM4　sincere, faithful; surname
+3989　謔　YEUK6　jeer
+3990　謗　PONG3　slander, libel
+3991　嘞　LAK3　end particle. (cantonese)
+3992　謳　AU1　sing; songs
+3993　貳　YI6　number two
+3994　貽　YI4　give to, hand down, bequeath
+3995　賃　YAM6　rent, hire; hired person
+3996　賸　SING6　leftovers, residue, remains
+3997　贖　SUK6　buy, redeem; ransome; atone for
+3998　赭　JE2　reddish brown; hematite; ochre
+3999　趿　TAAT3　to tread on; slipshod
+4000　跋　BAT6　go by foot; epilogue, colophon
